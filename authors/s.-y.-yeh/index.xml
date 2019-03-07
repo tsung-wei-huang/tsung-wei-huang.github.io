@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>S.-Y. Yeh on TWH @ Utah</title>
-    <link>https://twhuang-uiuc.github.io/authors/s.-y.-yeh/</link>
+    <link>https://tsung-wei-huang.github.io/authors/s.-y.-yeh/</link>
     <description>Recent content in S.-Y. Yeh on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Dec 2011 00:00:00 -0600</lastBuildDate>
     
-	<atom:link href="https://twhuang-uiuc.github.io/authors/s.-y.-yeh/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tsung-wei-huang.github.io/authors/s.-y.-yeh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Network-Flow Based Pin-Count Aware Routing Algorithm for Broadcast-Addressing EWOD Chips</title>
-      <link>https://twhuang-uiuc.github.io/publication/tcad11-2/</link>
+      <link>https://tsung-wei-huang.github.io/publication/tcad11-2/</link>
       <pubDate>Thu, 01 Dec 2011 00:00:00 -0600</pubDate>
       
-      <guid>https://twhuang-uiuc.github.io/publication/tcad11-2/</guid>
+      <guid>https://tsung-wei-huang.github.io/publication/tcad11-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Two-Stage Integer Linear Programming-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips</title>
-      <link>https://twhuang-uiuc.github.io/publication/tcad11-1/</link>
+      <link>https://tsung-wei-huang.github.io/publication/tcad11-1/</link>
       <pubDate>Mon, 17 Jan 2011 00:00:00 -0600</pubDate>
       
-      <guid>https://twhuang-uiuc.github.io/publication/tcad11-1/</guid>
+      <guid>https://tsung-wei-huang.github.io/publication/tcad11-1/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>placement on TWH @ Utah</title>
-    <link>https://twhuang-uiuc.github.io/tags/placement/</link>
+    <link>https://tsung-wei-huang.github.io/tags/placement/</link>
     <description>Recent content in placement on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 15 Jun 2013 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://twhuang-uiuc.github.io/tags/placement/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tsung-wei-huang.github.io/tags/placement/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A Reliability-Oriented Placement Algorithm for Reconfigurable Digital Microfluidic Biochips Using 3-D Deferred Decision Making Technique</title>
-      <link>https://twhuang-uiuc.github.io/publication/tcad13-2/</link>
+      <link>https://tsung-wei-huang.github.io/publication/tcad13-2/</link>
       <pubDate>Sat, 15 Jun 2013 00:00:00 -0500</pubDate>
       
-      <guid>https://twhuang-uiuc.github.io/publication/tcad13-2/</guid>
+      <guid>https://tsung-wei-huang.github.io/publication/tcad13-2/</guid>
       <description></description>
     </item>
     
