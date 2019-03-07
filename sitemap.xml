@@ -404,6 +404,14 @@
     
     <url>
     
+      <loc>https://tsung-wei-huang.github.io/post/</loc>
+      <lastmod>2019-03-07T00:00:00-06:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://tsung-wei-huang.github.io/author/</loc>
       <priority>0</priority>
     </url>
@@ -584,14 +592,6 @@
       <loc>https://tsung-wei-huang.github.io/authors/p.-h.-yuh/</loc>
       <lastmod>2011-06-05T00:00:00-05:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://tsung-wei-huang.github.io/post/</loc>
-      <lastmod>2019-03-07T00:00:00-06:00</lastmod>
     </url>
     
   
