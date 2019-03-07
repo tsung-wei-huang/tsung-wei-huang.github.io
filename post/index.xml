@@ -6,9 +6,37 @@
     <description>Recent content in Posts on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 07 Mar 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://tsung-wei-huang.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://tsung-wei-huang.github.io/post/hiring/</link>
+      <pubDate>Thu, 07 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/post/hiring/</guid>
+      <description>I am looking for PhD/Postdoc who are interested in Computer and Software Systems research. Please visit hiring details.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tsung-wei-huang.github.io/post/ipdps19/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/post/ipdps19/</guid>
+      <description>Congratulations! Our paper &amp;ldquo;Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C++&amp;rdquo; has been accepted by the 33rd IEEE International Parallel and Distributed Processing Symposium (IPDPS)!</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://tsung-wei-huang.github.io/post/dac19/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/post/dac19/</guid>
+      <description>Congratulations! Our papers &amp;ldquo;A General Cache Framework for Efficient Generation of Timing Critical Paths&amp;rdquo; and &amp;ldquo;Essential Building Blocks for Creating an Open-source EDA Project&amp;ldquo; have been accepted by 2019 IEEE/ACM Design Automation Conference (DAC)!</description>
+    </item>
     
   </channel>
 </rss>
