@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/publication_types/1/</link>
+    <description>Recent content in 1 on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C&#43;&#43;</title>
+      <link>https://twhuang-uiuc.github.io/publication/ipdps19/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/ipdps19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Cache Framework for Efficient Generation of Timing Critical Paths</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac19-2/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac19-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essential Building Blocks for Creating an Open-source EDA Project</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac19-1/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-purpose Distributed Programming System using Data-parallel Streams</title>
+      <link>https://twhuang-uiuc.github.io/publication/acmmm18/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/acmmm18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MtDetector: A High-performance Marine Traffic Detector at Stream Scale</title>
+      <link>https://twhuang-uiuc.github.io/publication/debs18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/debs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed Power Grid Analysis Framework from Sequential Stream Graph</title>
+      <link>https://twhuang-uiuc.github.io/publication/glsvlsi18/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/glsvlsi18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing at Compile Time</title>
+      <link>https://twhuang-uiuc.github.io/publication/isqed18/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/isqed18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DtCraft: A Distributed Execution Engine for Compute-intensive Applications</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad17/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A distributed timing analysis framework for large designs</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac16/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Libabs: An Effective and Accurate Macro-modeling Algorithm for Large Hierarchical Designs</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac17/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTimer: A High-Performance Timing Analysis Tool</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad15/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On fast timing closure: speeding up incremental path-based timing analysis with mapreduce</title>
+      <link>https://twhuang-uiuc.github.io/publication/slip15/</link>
+      <pubDate>Sat, 06 Jun 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/slip15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Path-Based Timing Analysis with MapReduce</title>
+      <link>https://twhuang-uiuc.github.io/publication/ispd15/</link>
+      <pubDate>Sun, 29 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/ispd15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fast path-based timing analysis for CPPR</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad14-1/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad14-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI-Timer: An ultra-fast clock network pessimism removal algorithm</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad14-2/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad14-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI-Route: An Ultra-Fast Incremental Maze Routing Algorithm</title>
+      <link>https://twhuang-uiuc.github.io/publication/slip14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/slip14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Voltage-aware chip-level design for reliability-driven pin-constrained EWOD chips</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad12/</link>
+      <pubDate>Mon, 05 Nov 2012 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated fluidic-chip co-design methodology for digital microfluidic biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/ispd12/</link>
+      <pubDate>Sun, 25 Mar 2012 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/ispd12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An ILP-based obstacle-avoiding routing algorithm for pin-constrained EWOD chips</title>
+      <link>https://twhuang-uiuc.github.io/publication/aspdac12/</link>
+      <pubDate>Mon, 30 Jan 2012 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/aspdac12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability-oriented broadcast electrode-addressing for pin-constrained digital microfluidic biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad11/</link>
+      <pubDate>Mon, 07 Nov 2011 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SAT-based routing algorithm for cross-referencing biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/slip11/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/slip11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive network-flow based power-aware broadcast addressing for pin-constrained digital microfluidic biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac11/</link>
+      <pubDate>Sun, 05 Jun 2011 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chip-level design and optimization for digital microfluidic biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/mwscas11/</link>
+      <pubDate>Mon, 07 Mar 2011 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/mwscas11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A network-flow based pin-count aware routing algorithm for broadcast electrode-addressing EWOD chips</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad10/</link>
+      <pubDate>Sun, 07 Nov 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/ispd10/</link>
+      <pubDate>Sun, 14 Mar 2010 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/ispd10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A contamination aware droplet routing algorithm for digital microfluidic biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad09/</link>
+      <pubDate>Mon, 02 Nov 2009 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad09/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Fast Routability- and Performance-Driven Droplet Routing Algorithm for Digital Microfluidic Biochip</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccd09/</link>
+      <pubDate>Sun, 04 Oct 2009 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccd09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

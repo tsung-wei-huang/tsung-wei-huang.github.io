@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P.-C. Wu on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/authors/p.-c.-wu/</link>
+    <description>Recent content in P.-C. Wu on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Nov 2014 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/authors/p.-c.-wu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fast path-based timing analysis for CPPR</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad14-1/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad14-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI-Timer: An ultra-fast clock network pessimism removal algorithm</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad14-2/</link>
+      <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad14-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UI-Route: An Ultra-Fast Incremental Maze Routing Algorithm</title>
+      <link>https://twhuang-uiuc.github.io/publication/slip14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/slip14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

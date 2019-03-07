@@ -1,12 +1,456 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>TWH @ Utah on TWH @ Utah</title>
     <link>https://twhuang-uiuc.github.io/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in TWH @ Utah on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cpp-Taskflow</title>
+      <link>https://twhuang-uiuc.github.io/project/cpp-taskflow/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/project/cpp-taskflow/</guid>
+      <description>
+
+&lt;p&gt;A fast C++ &lt;em&gt;header-only&lt;/em&gt; library to help you quickly write parallel programs with complex task dependencies&lt;/p&gt;
+
+&lt;h1 id=&#34;the-era-of-parallel-computing&#34;&gt;The Era of Parallel Computing&lt;/h1&gt;
+
+&lt;p&gt;The evolution of computer architectures is moving toward multicore designs.
+It is common to find multiprocessor systems in today&amp;rsquo;s electronic products
+such as mobiles, laptops, desktops, and servers.
+In order to keep up with the performance scaling, it is becoming necessary for software developers to write parallel programs that utilize the number of available cores.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;image/era_multicore.jpg&#34; width = &#34;60%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;This Cpp-Taskflow project addresses a long-standing questions,
+&amp;ldquo;&lt;em&gt;How can we make it easier for developers to write efficient parallel programs
+under complex task dependencies?&lt;/em&gt;&amp;ldquo;&lt;/p&gt;
+
+&lt;h1 id=&#34;a-new-parallel-tasking-library&#34;&gt;A New Parallel Tasking Library&lt;/h1&gt;
+
+&lt;p&gt;Cpp-Taskflow is by far faster, more expressive, fewer lines of code, and easier for drop-in integration
+than existing parallel task programming libraries such as &lt;a href=&#34;http://www.nersc.gov/users/software/programming-models/openmp/openmp-tasking/&#34; target=&#34;_blank&#34;&gt;OpenMP Tasking&lt;/a&gt; and Intel &lt;a href=&#34;https://www.threadingbuildingblocks.org/tutorial-intel-tbb-flow-graph&#34; target=&#34;_blank&#34;&gt;TBB FlowGraph&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;image/performance.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cpp-Taskflow enables you to implement efficient task decomposition strategies
+that incorporate both regular loop-based parallelism
+and irregular compute patterns to optimize multicore performance.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Without Cpp-Taskflow&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;With Cpp-Taskflow&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;image/profile_without_taskflow.gif&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;image/profile_with_taskflow.gif&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Cpp-Taskflow has a unified interface for both &lt;em&gt;static&lt;/em&gt; tasking and &lt;em&gt;dynamic&lt;/em&gt; tasking,
+allowing users to quickly master our parallel task programming model in a natural idiom.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;center&#34;&gt;Static Tasking&lt;/th&gt;
+&lt;th align=&#34;center&#34;&gt;Dynamic Tasking&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img src=&#34;image/static_graph.png&#34; alt=&#34;&#34; /&gt;&lt;/td&gt;
+&lt;td align=&#34;center&#34;&gt;&lt;img align=&#34;right&#34; src=&#34;image/dynamic_graph.png&#34; width=&#34;100%&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Cpp-Taskflow is committed to support both academic and industry research projects,
+making it reliable and cost-effective for long-term and large-scale developments.&lt;/p&gt;
+
+&lt;h1 id=&#34;get-involved&#34;&gt;Get Involved&lt;/h1&gt;
+
+&lt;p&gt;See a quick &lt;a href=&#34;https://cpp-taskflow.github.io/&#34; target=&#34;_blank&#34;&gt;presentation&lt;/a&gt; and
+visit the &lt;a href=&#34;https://github.com/coo-taskflow/cpp-taskflow/&#34; target=&#34;_blank&#34;&gt;project GitHub&lt;/a&gt; and &lt;a href=&#34;https://cpp-taskflow.github.io/cpp-taskflow/index.html&#34; target=&#34;_blank&#34;&gt;documentation&lt;/a&gt; to learn more about Cpp-Taskflow.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECE462 (UIUC): Logic Synthesis</title>
+      <link>https://twhuang-uiuc.github.io/teaching/uiuc-ece462/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/teaching/uiuc-ece462/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This course was offered at the University of Illinois!&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Please visit &lt;a href=&#34;https://github.com/twhuang-uiuc/ECE462&#34; target=&#34;_blank&#34;&gt;class page&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DtCraft</title>
+      <link>https://twhuang-uiuc.github.io/project/dtcraft/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/project/dtcraft/</guid>
+      <description>
+
+&lt;p&gt;A general-purpose distributed programming system using data-parallel streams.&lt;/p&gt;
+
+&lt;h1 id=&#34;new-distributed-programming-model&#34;&gt;New Distributed Programming Model&lt;/h1&gt;
+
+&lt;p&gt;DtCraft offers a new powerful programming model called stream graph to
+streamline the creation of distributed workloads.
+Users can focus on high-level developments using our models,
+leaving difficult concurrency details such as workload distribution and
+process communication to our system kernel.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;image/dtcraft.png&#34; width=&#34;80%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;There are myriads of cluster computing frameworks such as Hadoop MapReduce, Apache Spark, Dryad, and Ray. Each has its reason to exist. In DtCraft, we target at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Programming model&lt;/strong&gt;. DtCraft leverages modern C++17 to offer a new general-purpose distributed programming model.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Performance&lt;/strong&gt;. DtCraft is designed completely from the ground up using advanced software techniques to deliver the best performance.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Productivity&lt;/strong&gt;. DtCraft allows you to easily bring up a distributed workload in just a few lines of code.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The figure below gives an overview of the system architecture of DtCraft.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;image/system_architecture.jpg&#34;&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;distributed-hello-world&#34;&gt;Distributed &amp;ldquo;Hello-World&amp;rdquo;&lt;/h1&gt;
+
+&lt;p&gt;The code snippet below demonstrates an example of using
+DtCraft&amp;rsquo;s programming model to create a distributed &amp;ldquo;hello-world&amp;rdquo; program.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-cpp&#34;&gt;#include &amp;lt;dtc/dtc.hpp&amp;gt;
+
+using namespace std::literals;  // for the use of string literal
+using namespace dtc::literals;  // for the use of memory literal
+
+int main(int argc, char* argv[]) {
+
+  dtc::Graph G;
+
+  auto A = G.vertex();
+  auto B = G.vertex();
+
+  auto lambda = [] (dtc::Vertex&amp;amp; v, dtc::InputStream&amp;amp; is) {
+    if(std::string s; is(s) != -1) {
+      std::cout &amp;lt;&amp;lt; &amp;quot;Received: &amp;quot; &amp;lt;&amp;lt; s &amp;lt;&amp;lt; &#39;\n&#39;;
+      return dtc::Event::REMOVE;
+    }
+    return dtc::Event::DEFAULT;
+  };
+
+  auto AB = G.stream(A, B).on(lambda);
+  auto BA = G.stream(B, A).on(lambda);
+
+  A.on([&amp;amp;AB] (dtc::Vertex&amp;amp; v) { (*v.ostream(AB))(&amp;quot;hello world from A&amp;quot;s); });
+  B.on([&amp;amp;BA] (dtc::Vertex&amp;amp; v) { (*v.ostream(BA))(&amp;quot;hello world from B&amp;quot;s); });
+
+  G.container().add(A).cpu(1).memory(1_GB);
+  G.container().add(B).cpu(1).memory(1_GB);
+
+  dtc::Executor(G).run();
+
+  return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;get-involved&#34;&gt;Get Involved&lt;/h1&gt;
+
+&lt;p&gt;Please visit our &lt;a href=&#34;https://github.com/twhuang-uiuc/DtCraft&#34; target=&#34;_blank&#34;&gt;DtCraft GitHub&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenTimer</title>
+      <link>https://twhuang-uiuc.github.io/project/opentimer/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/project/opentimer/</guid>
+      <description>
+
+&lt;p&gt;A High-Performance Static Timing Analysis Tool for VLSI Systems&lt;/p&gt;
+
+&lt;h1 id=&#34;static-timing-analysis&#34;&gt;Static Timing Analysis&lt;/h1&gt;
+
+&lt;p&gt;Static timing analysis (STA) is an important step in the over chip design flow.
+It verifies the expected timing characteristics of a circuit and ensures
+the chip can provide correct function after tape-out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;image/sta_concept.png&#34; width=&#34;60%&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;A practical timer has to interact with other tools that often
+call the timer thousand times in an inner loop.
+This raises many computational challenges, such as
+incremental timing,
+parallelization,
+scalability, and pessimism reduction.&lt;/p&gt;
+
+&lt;h1 id=&#34;what-is-opentimer&#34;&gt;What is OpenTimer?&lt;/h1&gt;
+
+&lt;p&gt;OpenTimer is a new STA tool to help IC designers quickly verify the circuit timing.
+It is developed completely from the ground up using modern C++
+to efficiently support parallel and incremental timing.
+Key features include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Industry standard format (.lib, .v, .spef, .sdc) support&lt;/li&gt;
+&lt;li&gt;Graph- and path-based timing analysis&lt;/li&gt;
+&lt;li&gt;Parallel incremental timing for fast timing closure&lt;/li&gt;
+&lt;li&gt;Award-winning tools and golden timers in CAD Contests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;OpenTimer lets you quickly analyze the timing critical paths of a design
+so you can have reasonable turnaround time and performance.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ot&amp;gt; report_timing
+Startpoint    : inp1
+Endpoint      : f1:D
+Analysis type : min
+------------------------------------------------------
+       Type       Delay        Time   Dir  Description
+------------------------------------------------------
+       port       0.000       0.000  fall  inp1
+        pin       0.000       0.000  fall  u1:A (NAND2X1)
+        pin       2.786       2.786  rise  u1:Y (NAND2X1)
+        pin       0.000       2.786  rise  u4:A (NOR2X1)
+        pin       0.181       2.967  fall  u4:Y (NOR2X1)
+        pin       0.000       2.967  fall  f1:D (DFFNEGX1)
+    arrival                   2.967        data arrival time
+
+related pin      25.000      25.000  fall  f1:CLK (DFFNEGX1)
+ constraint       1.518      26.518        library hold_falling
+   required                  26.518        data required time
+------------------------------------------------------
+      slack                 -23.551        VIOLATED
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;We introduced a new &lt;em&gt;API concept&lt;/em&gt; to facilitate the parallelization
+of incremental timing.
+You can use our C++ API to integrate OpenTimer to your project.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-cpp&#34;&gt;#include &amp;lt;ot/timer/timer.hpp&amp;gt;                     // top-level header to include
+
+int main(int argc, char *argv[]) {
+
+  ot::Timer timer;                                // create a timer instance (thread-safe)
+
+  timer.read_celllib(&amp;quot;simple.lib&amp;quot;, std::nullopt)  // read the library (O(1) builder)
+       .read_verilog(&amp;quot;simple.v&amp;quot;)                  // read the verilog netlist (O(1) builder)
+       .read_spef(&amp;quot;simple.spef&amp;quot;)                  // read the parasitics (O(1) builder)
+       .read_sdc(&amp;quot;simple.sdc&amp;quot;)                    // read the design constraints (O(1) builder)
+       .update_timing();                          // update timing (O(1) builder)
+
+  if(auto tns = timer.report_tns(); tns) std::cout &amp;lt;&amp;lt; &amp;quot;TNS: &amp;quot; &amp;lt;&amp;lt; *tns &amp;lt;&amp;lt; &#39;\n&#39;;  // (O(N) action)
+  if(auto wns = timer.report_wns(); wns) std::cout &amp;lt;&amp;lt; &amp;quot;WNS: &amp;quot; &amp;lt;&amp;lt; *wns &amp;lt;&amp;lt; &#39;\n&#39;;  // (O(N) action)
+
+  timer.dump_timer(std::cout);                    // dump the timer details (O(1) accessor)
+
+  return 0;
+}
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h1 id=&#34;get-involved&#34;&gt;Get Involved&lt;/h1&gt;
+
+&lt;p&gt;Please visit our &lt;a href=&#34;https://github.com/OpenTimer/OpenTimer&#34; target=&#34;_blank&#34;&gt;OpenTimer GitHub&lt;/a&gt; to learn more details.&lt;/p&gt;
+
+&lt;hr /&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECE220 (UIUC): Computer Systems and Programming</title>
+      <link>https://twhuang-uiuc.github.io/teaching/uiuc-ece220/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/teaching/uiuc-ece220/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This course was offered at the University of Illinois!&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Please visit &lt;a href=&#34;https://wiki.illinois.edu//wiki/display/ece220/Home&#34; target=&#34;_blank&#34;&gt;class wiki&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CSIE3008 (NCKU): Competitive Programming</title>
+      <link>https://twhuang-uiuc.github.io/teaching/ncku-csie3008/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/teaching/ncku-csie3008/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    &lt;p&gt;This course was offered at the Taiwan&amp;rsquo;s National Cheng-Kung University (NCKU)!&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Please visit &lt;a href=&#34;http://class-qry.acad.ncku.edu.tw/syllabus/online_display.php?syear=0103&amp;amp;sem=2&amp;amp;co_no=F731800&amp;amp;class_code=&#34; target=&#34;_blank&#34;&gt;class wiki&lt;/a&gt; for more details.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C&#43;&#43;</title>
+      <link>https://twhuang-uiuc.github.io/publication/ipdps19/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/ipdps19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General Cache Framework for Efficient Generation of Timing Critical Paths</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac19-2/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac19-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Essential Building Blocks for Creating an Open-source EDA Project</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac19-1/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac19-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Join us!</title>
+      <link>https://twhuang-uiuc.github.io/sliders/hiring_details/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/sliders/hiring_details/</guid>
+      <description>
+
+&lt;p&gt;&lt;img src=&#34;utah-campus.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;open-phd-and-postdoc-positions&#34;&gt;&lt;strong&gt;Open PhD and Postdoc Positions&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;We are looking for self-motivated PhD students and postdoc to work on the following research topics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Parallel and Distributed Systems&lt;/li&gt;
+&lt;li&gt;Machine Learning Systems&lt;/li&gt;
+&lt;li&gt;Electronic Design Automation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We expect you to have the following characteristics:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Strong motivation&lt;/li&gt;
+&lt;li&gt;C/C++/Python/Linux programming experience&lt;/li&gt;
+&lt;li&gt;Good English communication and writing skills&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Experience with &lt;em&gt;parallel programming&lt;/em&gt;, &lt;em&gt;distributed systems&lt;/em&gt;, &lt;em&gt;electronic design automation&lt;/em&gt;,
+and &lt;em&gt;machine learning&lt;/em&gt; is a big plus!
+Please also take a look at our &lt;a href=&#34;../../#projects&#34;&gt;Research Projects&lt;/a&gt; to see our research activities.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-join-us&#34;&gt;&lt;strong&gt;Why Join us?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Our group is very supportive for each other.
+We solve &lt;em&gt;real-world&lt;/em&gt; problems that matter to the society.
+When you start with real problems, you will find plenty of research challenges and topics
+worth a PhD thesis. Specifically, you will learn:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;How to become a &lt;em&gt;good&lt;/em&gt; programmer&lt;/li&gt;
+&lt;li&gt;How to become an &lt;em&gt;independent&lt;/em&gt; researcher&lt;/li&gt;
+&lt;li&gt;How to apply ECE/CS knowledge to solve problems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Your graduate life is much more than just research.
+In Utah, you can enjoy a variety of outdoor activities such as
+camping, hiking trails, rock hounding, fishing, skiing and more.
+Visit &lt;a href=&#34;https://www.utahoutdooractivities.com/&#34; target=&#34;_blank&#34;&gt;Utah Outdoor Activities&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-join&#34;&gt;&lt;strong&gt;How to Join?&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:twh760812@gmail.com&#34; target=&#34;_blank&#34;&gt;Email me&lt;/a&gt; (twh760812 at gmail dot com) your CV if you are interested.
+You can also see the hiring poster &lt;a href=&#34;utah-recruit-poster.pdf&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DtCraft: A High-performance Distributed Execution Engine at Scale</title>
+      <link>https://twhuang-uiuc.github.io/publication/tcad19/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/tcad19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-purpose Distributed Programming System using Data-parallel Streams</title>
+      <link>https://twhuang-uiuc.github.io/publication/acmmm18/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/acmmm18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MtDetector: A High-performance Marine Traffic Detector at Stream Scale</title>
+      <link>https://twhuang-uiuc.github.io/publication/debs18/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/debs18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Distributed Power Grid Analysis Framework from Sequential Stream Graph</title>
+      <link>https://twhuang-uiuc.github.io/publication/glsvlsi18/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/glsvlsi18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routing at Compile Time</title>
+      <link>https://twhuang-uiuc.github.io/publication/isqed18/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/isqed18/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

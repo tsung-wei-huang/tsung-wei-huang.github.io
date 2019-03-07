@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>high-performance-computing on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/tags/high-performance-computing/</link>
+    <description>Recent content in high-performance-computing on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/tags/high-performance-computing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C&#43;&#43;</title>
+      <link>https://twhuang-uiuc.github.io/publication/ipdps19/</link>
+      <pubDate>Sun, 03 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/ipdps19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DtCraft: A High-performance Distributed Execution Engine at Scale</title>
+      <link>https://twhuang-uiuc.github.io/publication/tcad19/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/tcad19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A General-purpose Distributed Programming System using Data-parallel Streams</title>
+      <link>https://twhuang-uiuc.github.io/publication/acmmm18/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/acmmm18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DtCraft: A Distributed Execution Engine for Compute-intensive Applications</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad17/</link>
+      <pubDate>Mon, 13 Nov 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OpenTimer: A High-Performance Timing Analysis Tool</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad15/</link>
+      <pubDate>Mon, 02 Nov 2015 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

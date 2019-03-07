@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data-structure on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/tags/data-structure/</link>
+    <description>Recent content in data-structure on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Sep 2010 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/tags/data-structure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CSIE3008 (NCKU): Competitive Programming</title>
+      <link>https://twhuang-uiuc.github.io/teaching/ncku-csie3008/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/teaching/ncku-csie3008/</guid>
+      <description>This course was offered at the Taiwan&amp;rsquo;s National Cheng-Kung University (NCKU)!
+  Please visit class wiki for more details.</description>
+    </item>
+    
+  </channel>
+</rss>

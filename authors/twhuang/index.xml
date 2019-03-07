@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>twhuang on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/authors/twhuang/</link>
+    <description>Recent content in twhuang on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/authors/twhuang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://twhuang-uiuc.github.io/author/twhuang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/author/twhuang/</guid>
+      <description>Dr. Tsung-Wei Huang is an Assistant Professor of the Department of Electrical and Computer Engineering (ECE) at the University of Utah. His research interests lie in the area of Software Systems with a specific focus on Parallel and Distributed Computing, Programming Models, Machine Learning, and Design Automation.
+He received his PhD degree from the ECE Department of the University of Illinois at Urbana-Champaign (UIUC) in 2017, and BS/MS degrees in Computer Science from Taiwan&amp;rsquo;s National Cheng-Kung University.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J.W. Chang on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/authors/j.w.-chang/</link>
+    <description>Recent content in J.W. Chang on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jan 2013 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/authors/j.w.-chang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Integrated Fluidic-Chip Co-Design Methodology for Digital Microfluidic Biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/tcad13-1/</link>
+      <pubDate>Mon, 21 Jan 2013 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/tcad13-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

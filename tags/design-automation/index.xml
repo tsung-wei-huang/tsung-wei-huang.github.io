@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>design-automation on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/tags/design-automation/</link>
+    <description>Recent content in design-automation on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/tags/design-automation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Essential Building Blocks for Creating an Open-source EDA Project</title>
+      <link>https://twhuang-uiuc.github.io/publication/dac19-1/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/dac19-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

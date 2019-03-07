@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C.-H. Lin on TWH @ Utah</title>
+    <link>https://twhuang-uiuc.github.io/authors/c.-h.-lin/</link>
+    <description>Recent content in C.-H. Lin on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Oct 2010 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://twhuang-uiuc.github.io/authors/c.-h.-lin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Contamination Aware Droplet Routing Algorithm for the Synthesis of Digital Microfluidic Biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/tcad10/</link>
+      <pubDate>Mon, 18 Oct 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/tcad10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A contamination aware droplet routing algorithm for digital microfluidic biochips</title>
+      <link>https://twhuang-uiuc.github.io/publication/iccad09/</link>
+      <pubDate>Mon, 02 Nov 2009 00:00:00 -0600</pubDate>
+      
+      <guid>https://twhuang-uiuc.github.io/publication/iccad09/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
