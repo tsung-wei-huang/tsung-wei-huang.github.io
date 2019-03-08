@@ -6,6 +6,7 @@
     <description>Recent content in Tags on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
     
 	<atom:link href="https://tsung-wei-huang.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -40,7 +41,7 @@
     <item>
       <title>common-path-pessimism-removal</title>
       <link>https://tsung-wei-huang.github.io/tags/common-path-pessimism-removal/</link>
-      <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 25 May 2017 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/tags/common-path-pessimism-removal/</guid>
       <description></description>
@@ -88,6 +89,15 @@
       <pubDate>Mon, 18 Aug 2014 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/tags/digital-microfluidic-biochip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>distributed computing</title>
+      <link>https://tsung-wei-huang.github.io/tags/distributed-computing/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/tags/distributed-computing/</guid>
       <description></description>
     </item>
     
@@ -322,6 +332,15 @@
       <pubDate>Wed, 01 Jan 2014 00:00:00 -0600</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/tags/routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static timing analysis</title>
+      <link>https://tsung-wei-huang.github.io/tags/static-timing-analysis/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/tags/static-timing-analysis/</guid>
       <description></description>
     </item>
     

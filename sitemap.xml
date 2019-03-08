@@ -156,6 +156,14 @@
     
     <url>
     
+      <loc>https://tsung-wei-huang.github.io/publication/patent17-1/</loc>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://tsung-wei-huang.github.io/publication/dac16/</loc>
       <lastmod>2017-06-18T00:00:00-05:00</lastmod>
     </url>
@@ -166,6 +174,14 @@
     
       <loc>https://tsung-wei-huang.github.io/publication/dac17/</loc>
       <lastmod>2017-06-18T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tsung-wei-huang.github.io/publication/patent17-2/</loc>
+      <lastmod>2017-05-25T00:00:00-05:00</lastmod>
     </url>
     
   
@@ -404,6 +420,15 @@
     
     <url>
     
+      <loc>https://tsung-wei-huang.github.io/publication_types/7/</loc>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://tsung-wei-huang.github.io/post/</loc>
       <lastmod>2019-03-07T00:00:00-06:00</lastmod>
     </url>
@@ -482,7 +507,7 @@
     <url>
     
       <loc>https://tsung-wei-huang.github.io/authors/d.-sinha/</loc>
-      <lastmod>2017-06-18T00:00:00-05:00</lastmod>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -536,7 +561,7 @@
     <url>
     
       <loc>https://tsung-wei-huang.github.io/authors/k.-kalafala/</loc>
-      <lastmod>2017-06-18T00:00:00-05:00</lastmod>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -572,7 +597,7 @@
     <url>
     
       <loc>https://tsung-wei-huang.github.io/authors/n.-venkateswaran/</loc>
-      <lastmod>2017-06-18T00:00:00-05:00</lastmod>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -730,6 +755,15 @@
     
     <url>
     
+      <loc>https://tsung-wei-huang.github.io/authors/v.-b.-rao/</loc>
+      <lastmod>2017-05-25T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://tsung-wei-huang.github.io/authors/y.-h.-chen/</loc>
       <lastmod>2013-06-15T00:00:00-05:00</lastmod>
       <priority>0</priority>
@@ -794,7 +828,7 @@
     <url>
     
       <loc>https://tsung-wei-huang.github.io/tags/common-path-pessimism-removal/</loc>
-      <lastmod>2014-11-02T00:00:00-05:00</lastmod>
+      <lastmod>2017-05-25T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -840,6 +874,15 @@
     
       <loc>https://tsung-wei-huang.github.io/tags/digital-microfluidic-biochip/</loc>
       <lastmod>2014-08-18T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tsung-wei-huang.github.io/tags/distributed-computing/</loc>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -1074,6 +1117,15 @@
     
       <loc>https://tsung-wei-huang.github.io/tags/routing/</loc>
       <lastmod>2014-01-01T00:00:00-06:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://tsung-wei-huang.github.io/tags/static-timing-analysis/</loc>
+      <lastmod>2017-08-24T00:00:00-05:00</lastmod>
       <priority>0</priority>
     </url>
     

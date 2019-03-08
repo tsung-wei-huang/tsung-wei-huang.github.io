@@ -6,6 +6,7 @@
     <description>Recent content in Authors on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
     
 	<atom:link href="https://tsung-wei-huang.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -58,7 +59,7 @@
     <item>
       <title>D. Sinha</title>
       <link>https://tsung-wei-huang.github.io/authors/d.-sinha/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/authors/d.-sinha/</guid>
       <description></description>
@@ -112,7 +113,7 @@
     <item>
       <title>K. Kalafala</title>
       <link>https://tsung-wei-huang.github.io/authors/k.-kalafala/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/authors/k.-kalafala/</guid>
       <description></description>
@@ -148,7 +149,7 @@
     <item>
       <title>N. Venkateswaran</title>
       <link>https://tsung-wei-huang.github.io/authors/n.-venkateswaran/</link>
-      <pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/authors/n.-venkateswaran/</guid>
       <description></description>
@@ -241,6 +242,15 @@
       <pubDate>Mon, 07 Nov 2011 00:00:00 -0600</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/authors/t.y.-ho/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>V. B. Rao</title>
+      <link>https://tsung-wei-huang.github.io/authors/v.-b.-rao/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/authors/v.-b.-rao/</guid>
       <description></description>
     </item>
     
