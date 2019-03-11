@@ -39,5 +39,23 @@
       <description>Congratulations! Our papers &amp;ldquo;A General Cache Framework for Efficient Generation of Timing Critical Paths&amp;rdquo; and &amp;ldquo;Essential Building Blocks for Creating an Open-source EDA Project&amp;ldquo; have been accepted by 2019 IEEE/ACM Design Automation Conference (DAC)!</description>
     </item>
     
+    <item>
+      <title>OpenTimer received the best open-source tool award</title>
+      <link>https://tsung-wei-huang.github.io/post/woset18/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/post/woset18/</guid>
+      <description>Congratulations! Our research project OpenTimer has been awarded the Best Open-source EDA Tool in 2018 WOSET at ICCAD!</description>
+    </item>
+    
+    <item>
+      <title>DtCraft received the best open-source tool award</title>
+      <link>https://tsung-wei-huang.github.io/post/acmmm18/</link>
+      <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/post/acmmm18/</guid>
+      <description>Congratulations! Our research project DtCraft has been awarded the Best Open-source EDA Tool in 2018 ACM Multimedia Conference (MM).</description>
+    </item>
+    
   </channel>
 </rss>

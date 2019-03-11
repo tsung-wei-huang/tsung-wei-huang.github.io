@@ -457,12 +457,15 @@ You can also see the hiring poster &lt;a href=&#34;utah-recruit-poster.pdf&#34; 
     </item>
     
     <item>
-      <title>A General-purpose Distributed Programming System using Data-parallel Streams</title>
-      <link>https://tsung-wei-huang.github.io/publication/acmmm18/</link>
-      <pubDate>Mon, 22 Oct 2018 00:00:00 -0500</pubDate>
+      <title>OpenTimer received the best open-source tool award</title>
+      <link>https://tsung-wei-huang.github.io/post/woset18/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 -0600</pubDate>
       
-      <guid>https://tsung-wei-huang.github.io/publication/acmmm18/</guid>
-      <description></description>
+      <guid>https://tsung-wei-huang.github.io/post/woset18/</guid>
+      <description>&lt;p&gt;Congratulations! Our research project OpenTimer
+has been awarded the Best Open-source EDA Tool in 2018
+WOSET at ICCAD!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
