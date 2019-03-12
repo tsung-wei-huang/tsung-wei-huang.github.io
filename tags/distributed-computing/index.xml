@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>distributed computing on TWH @ Utah</title>
     <link>https://tsung-wei-huang.github.io/tags/distributed-computing/</link>
     <description>Recent content in distributed computing on TWH @ Utah</description>
@@ -8,16 +9,42 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
     <lastBuildDate>Thu, 24 Aug 2017 00:00:00 -0500</lastBuildDate>
+=======
+    <title>distributed-computing on TWH @ Utah</title>
+    <link>https://tsung-wei-huang.github.io/tags/distributed-computing/</link>
+    <description>Recent content in distributed-computing on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
+    <lastBuildDate>Sun, 18 Jun 2017 00:00:00 -0500</lastBuildDate>
+>>>>>>> remotes/origin/master
     
 	<atom:link href="https://tsung-wei-huang.github.io/tags/distributed-computing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>Distributed Timing Analysis of a Partitioned Integrated Circuit Design</title>
       <link>https://tsung-wei-huang.github.io/publication/patent17-1/</link>
       <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/publication/patent17-1/</guid>
+=======
+      <title>A distributed timing analysis framework for large designs</title>
+      <link>https://tsung-wei-huang.github.io/publication/dac16/</link>
+      <pubDate>Sun, 18 Jun 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/publication/dac16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerated Path-Based Timing Analysis with MapReduce</title>
+      <link>https://tsung-wei-huang.github.io/publication/ispd15/</link>
+      <pubDate>Sun, 29 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/publication/ispd15/</guid>
+>>>>>>> remotes/origin/master
       <description></description>
     </item>
     

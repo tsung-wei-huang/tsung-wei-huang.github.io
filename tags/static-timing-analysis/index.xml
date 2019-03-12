@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>static-timing-analysis on TWH @ Utah</title>
     <link>https://tsung-wei-huang.github.io/tags/static-timing-analysis/</link>
     <description>Recent content in static-timing-analysis on TWH @ Utah</description>
@@ -8,11 +9,21 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
     <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
+=======
+    <title>static timing analysis on TWH @ Utah</title>
+    <link>https://tsung-wei-huang.github.io/tags/static-timing-analysis/</link>
+    <description>Recent content in static timing analysis on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
+    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 -0500</lastBuildDate>
+>>>>>>> remotes/origin/master
     
 	<atom:link href="https://tsung-wei-huang.github.io/tags/static-timing-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+<<<<<<< HEAD
       <title>OpenTimer</title>
       <link>https://tsung-wei-huang.github.io/project/opentimer/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
@@ -83,15 +94,30 @@ A practical timer has to interact with other tools that often call the timer tho
       <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/publication/iccad14-1/</guid>
+=======
+      <title>Distributed Timing Analysis of a Partitioned Integrated Circuit Design</title>
+      <link>https://tsung-wei-huang.github.io/publication/patent17-1/</link>
+      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/publication/patent17-1/</guid>
+>>>>>>> remotes/origin/master
       <description></description>
     </item>
     
     <item>
+<<<<<<< HEAD
       <title>UI-Timer: An ultra-fast clock network pessimism removal algorithm</title>
       <link>https://tsung-wei-huang.github.io/publication/iccad14-2/</link>
       <pubDate>Sun, 02 Nov 2014 00:00:00 -0500</pubDate>
       
       <guid>https://tsung-wei-huang.github.io/publication/iccad14-2/</guid>
+=======
+      <title>Incremental Common Path Pessimism Analysis</title>
+      <link>https://tsung-wei-huang.github.io/publication/patent17-2/</link>
+      <pubDate>Thu, 25 May 2017 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/publication/patent17-2/</guid>
+>>>>>>> remotes/origin/master
       <description></description>
     </item>
     
