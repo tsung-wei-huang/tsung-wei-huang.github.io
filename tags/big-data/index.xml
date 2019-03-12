@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big-data on TWH @ Utah</title>
+    <link>https://tsung-wei-huang.github.io/tags/big-data/</link>
+    <description>Recent content in big-data on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://tsung-wei-huang.github.io/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DtCraft</title>
+      <link>https://tsung-wei-huang.github.io/project/dtcraft/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/project/dtcraft/</guid>
+      <description>A general-purpose distributed programming system using data-parallel streams.
+New Distributed Programming Model DtCraft offers a new powerful programming model called stream graph to streamline the creation of distributed workloads. Users can focus on high-level developments using our models, leaving difficult concurrency details such as workload distribution and process communication to our system kernel.
+There are myriads of cluster computing frameworks such as Hadoop MapReduce, Apache Spark, Dryad, and Ray. Each has its reason to exist.</description>
+    </item>
+    
+  </channel>
+</rss>

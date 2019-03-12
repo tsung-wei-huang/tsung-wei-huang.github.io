@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sliders on TWH @ Utah</title>
+    <link>https://tsung-wei-huang.github.io/sliders/</link>
+    <description>Recent content in Sliders on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
+    <lastBuildDate>Sat, 02 Mar 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://tsung-wei-huang.github.io/sliders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Join us!</title>
+      <link>https://tsung-wei-huang.github.io/sliders/hiring_details/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/sliders/hiring_details/</guid>
+      <description>Open PhD and Postdoc Positions We are looking for self-motivated PhD students and postdoc to work on the following research topics:
+ Parallel and Distributed Systems Machine Learning Systems Electronic Design Automation  We expect you to have the following characteristics:
+ Strong motivation C/C++/Python/Linux programming experience Good English communication and writing skills  Experience with parallel programming, distributed systems, electronic design automation, and machine learning is a big plus!</description>
+    </item>
+    
+  </channel>
+</rss>

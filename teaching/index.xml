@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teaching on TWH @ Utah</title>
+    <link>https://tsung-wei-huang.github.io/teaching/</link>
+    <description>Recent content in Teaching on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://tsung-wei-huang.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ECE462 (UIUC): Logic Synthesis</title>
+      <link>https://tsung-wei-huang.github.io/teaching/uiuc-ece462/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/teaching/uiuc-ece462/</guid>
+      <description>This course was offered at the University of Illinois!
+  Please visit class page for more details.</description>
+    </item>
+    
+    <item>
+      <title>ECE220 (UIUC): Computer Systems and Programming</title>
+      <link>https://tsung-wei-huang.github.io/teaching/uiuc-ece220/</link>
+      <pubDate>Mon, 16 Jan 2017 00:00:00 -0600</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/teaching/uiuc-ece220/</guid>
+      <description>This course was offered at the University of Illinois!
+  Please visit class wiki for more details.</description>
+    </item>
+    
+    <item>
+      <title>CSIE3008 (NCKU): Competitive Programming</title>
+      <link>https://tsung-wei-huang.github.io/teaching/ncku-csie3008/</link>
+      <pubDate>Sat, 18 Sep 2010 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/teaching/ncku-csie3008/</guid>
+      <description>This course was offered at the Taiwan&amp;rsquo;s National Cheng-Kung University (NCKU)!
+  Please visit class wiki for more details.</description>
+    </item>
+    
+  </channel>
+</rss>

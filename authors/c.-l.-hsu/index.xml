@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C.-L. Hsu on TWH @ Utah</title>
+    <link>https://tsung-wei-huang.github.io/authors/c.-l.-hsu/</link>
+    <description>Recent content in C.-L. Hsu on TWH @ Utah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
+    <lastBuildDate>Sat, 15 Jun 2013 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://tsung-wei-huang.github.io/authors/c.-l.-hsu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Reliability-Oriented Placement Algorithm for Reconfigurable Digital Microfluidic Biochips Using 3-D Deferred Decision Making Technique</title>
+      <link>https://tsung-wei-huang.github.io/publication/tcad13-2/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 -0500</pubDate>
+      
+      <guid>https://tsung-wei-huang.github.io/publication/tcad13-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
