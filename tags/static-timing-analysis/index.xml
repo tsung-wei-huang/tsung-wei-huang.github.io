@@ -1,37 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>static timing analysis on TWH @ Utah</title>
+    <title>static-timing-analysis on TWH @ Utah</title>
     <link>https://tsung-wei-huang.github.io/tags/static-timing-analysis/</link>
-    <description>Recent content in static timing analysis on TWH @ Utah</description>
+    <description>Recent content in static-timing-analysis on TWH @ Utah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2019 Tsung-Wei Huang</copyright>
-    <lastBuildDate>Thu, 24 Aug 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://tsung-wei-huang.github.io/tags/static-timing-analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Distributed Timing Analysis of a Partitioned Integrated Circuit Design</title>
-      <link>https://tsung-wei-huang.github.io/publication/patent17-1/</link>
-      <pubDate>Thu, 24 Aug 2017 00:00:00 -0500</pubDate>
+      <title>OpenTimer</title>
+      <link>https://tsung-wei-huang.github.io/project/opentimer/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 -0600</pubDate>
       
-      <guid>https://tsung-wei-huang.github.io/publication/patent17-1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Incremental Common Path Pessimism Analysis</title>
-      <link>https://tsung-wei-huang.github.io/publication/patent17-2/</link>
-      <pubDate>Thu, 25 May 2017 00:00:00 -0500</pubDate>
-      
-      <guid>https://tsung-wei-huang.github.io/publication/patent17-2/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss> timing, parallelization, scalability, and pessimism reduction.</description>
+      <guid>https://tsung-wei-huang.github.io/project/opentimer/</guid>
+      <description>A High-Performance Static Timing Analysis Tool for VLSI Systems
+Static Timing Analysis Static timing analysis (STA) is an important step in the over chip design flow. It verifies the expected timing characteristics of a circuit and ensures the chip can provide correct function after tape-out.
+A practical timer has to interact with other tools that often call the timer thousand times in an inner loop. This raises many computational challenges, such as incremental timing, parallelization, scalability, and pessimism reduction.</description>
     </item>
     
     <item>
