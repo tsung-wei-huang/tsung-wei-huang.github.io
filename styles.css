@@ -880,7 +880,7 @@ article {
 }
 
 .article-container {
-  max-width: 760px;
+  max-width: 80%;
   padding: 0 20px 0 20px;
   margin: 0 auto 0 auto;
 }
@@ -2042,7 +2042,7 @@ div.alert a {
  **************************************************/
 
 .docs-article-container {
-  max-width: 760px;
+  max-width: 80%;
 }
 
 /* Documentation: article footer. */
