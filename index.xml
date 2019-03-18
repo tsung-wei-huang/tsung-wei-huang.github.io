@@ -404,7 +404,23 @@ have been accepted by
 Parallel and Distributed Systems, Electronic Design Automation, Machine Learning Systems,
 and Programming Models.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;research.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;row row-padded&#34;&gt;
+  &lt;div class=&#34;col-md-3 col-sm-3 masthead&#34;&gt;
+    &lt;img src=&#34;distributed-computing.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;parallel-computing.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;eda.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;machine-learning.png&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;We expect you to have the following characteristics:&lt;/p&gt;
 
@@ -436,13 +452,64 @@ industry, academia, and government agencies.
 You can mingle with people around the world
 to explore different research ideas.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;collaborators.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+  &lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;darpa.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;nsf.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;ibm.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;intel.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;w-100&#34;&gt;&lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;mentor-graphics.png&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;cadence.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;synopsys.png&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;uiuc.png&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;We have published our technical materials in top-tier conferences and journals.
 You will have access to leading researchers in the field of
 parallel programming, distributed systems, electronic design automation, multimedia, etc.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;publications.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;div class=&#34;row row-padded&#34;&gt;
+  &lt;div class=&#34;col-md-3 col-sm-3 masthead&#34;&gt;
+    &lt;img src=&#34;design-automation-conference.png&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;iccad.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;acmmm.png&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;col-md-3 col-sm-3&#34;&gt;
+    &lt;img src=&#34;ipdps.jpg&#34; style=&#34;width: 100%;&#34;&gt;
+  &lt;/div&gt;
+&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;After you leave our group, you will be ready for many job opportunities
 in both software and hardware companies!&lt;/p&gt;
