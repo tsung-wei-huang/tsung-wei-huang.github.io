@@ -1,0 +1,27 @@
+
+footer {
+  text-align: center;
+  color: #8f8f8f;
+  padding-bottom: 18px;
+  font-size: 12px;
+}
+
+footer a {
+  color: rgb(41, 132, 181);
+}
+
+.label-alarm {
+  background-color: #3b5998;
+}
+.label-alarm[href]:hover,
+.label-alarm[href]:focus {
+  background-color: #e0e12;
+}
+
+.label-purple {
+  background-color: #9b59b6;
+}
+.label-purple[href]:hover,
+.label-purple[href]:focus {
+  background-color: #8e44ad;
+}
