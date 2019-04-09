@@ -13,15 +13,16 @@ footer a {
 .label-alarm {
   background-color: #3b5998;
 }
-.label-alarm[href]:hover,
-.label-alarm[href]:focus {
-  background-color: #e0e12;
-}
 
 .label-purple {
   background-color: #9b59b6;
 }
-.label-purple[href]:hover,
-.label-purple[href]:focus {
-  background-color: #8e44ad;
+
+.label-tumblr {
+  background-color: #3b5998;
 }
+
+.label-twitter {
+  background-color: #2ba9e1;
+}
+
