@@ -9,8 +9,8 @@
 <title>TWH's Homepage</title>
 
 <!-- Bootstrap core CSS -->
-<link rel="stylesheet" href="css/custom.css?v=2019-04-11">
-<link rel="stylesheet" href="css/bootstrap.min.css?v=2019-04-11">
+<link rel="stylesheet" href="css/custom.css?v=2019-04-12">
+<link rel="stylesheet" href="css/bootstrap.min.css?v=2019-04-12">
 <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 
@@ -25,7 +25,7 @@
 <div class="container">
 
 <div class="row row-padded">
-  <div class="col-md-2 col-sm-2 masthead">
+  <div class="col-md-2 col-sm-2">
     <p class="lead">
     <div style="min-width: 100px; max-width: 150px; display: inline-block; text-align: center;">
       <img src="img/twhuang.jpg" style="width: 100%;">
@@ -34,11 +34,11 @@
   </div>
 
   <div class="col-md-10 col-sm-10">
-    <h2>Tsung-Wei Huang</h2>
-    <p>Research Assistant Professor, <a href="https://csl.illinois.edu/directory/profile/thuang19">CSL</a> &amp; <a href="https://ece.illinois.edu/directory/profile/thuang19">ECE</a><br>
+    <p><h2>Tsung-Wei Huang</h2>
+    Research Assistant Professor, <a href="https://csl.illinois.edu/directory/profile/thuang19">CSL</a> &amp; <a href="https://ece.illinois.edu/directory/profile/thuang19">ECE</a><br>
     University of Illinois at Urbana-Champaign, IL, USA<br>
     Office: 402 Coordinated Science Lab MC 228<br>
-    Email: <tt>twh760812 -at- gmail -dot- com</tt></p>
+    Email: <tt>twh760812 -at- gmail -dot- com</tt><br>
     BS/MS (<a href="http://www.csie.ncku.edu.tw/ncku_csie/">NCKU</a>), PhD (<a href="https://ece.illinois.edu/">UIUC</a>) &nbsp;
     <a href="https://github.com/tsung-wei-huang"><img src="img/logo-github.jpg" height=25px></a>&nbsp;
     <a href="https://scholar.google.com/citations?user=ibeirYQAAAAJ&hl=en"><img src="img/logo-scholar.jpg" height=25px></a>&nbsp;
@@ -51,13 +51,13 @@
 
 <div class="content">
 
-<span class="label label-primary"><a href="#research"><font color="white">Research</font></a></span>
-<span class="label label-default"><a href="#presentation"><font color="white">Presentation</font></a></span>
-<span class="label label-purple"><a href="#teaching"><font color="white">Teaching</font></a></span> 
-<span class="label label-alarm"><a href="#people"><font color="white">People</font></a></span> 
-<span class="label label-success"><a href="#awards"><font color="white">Awards</font></a></span>
-<span class="label label-twitter"><a href="#publication"><font color="white">Publication</font></a></span>
-<span class="label label-danger"><a href="#service"><font color="white">Service</font></a></span> 
+<span class="badge badge-primary"><a href="#research"><font color="white">Research</font></a></span>
+<span class="badge badge-secondary"><a href="#presentation"><font color="white">Presentation</font></a></span>
+<span class="badge badge-purple"><a href="#teaching"><font color="white">Teaching</font></a></span> 
+<span class="badge badge-alarm"><a href="#people"><font color="white">People</font></a></span> 
+<span class="badge badge-success"><a href="#awards"><font color="white">Awards</font></a></span>
+<span class="badge badge-twitter"><a href="#publication"><font color="white">Publication</font></a></span>
+<span class="badge badge-danger"><a href="#service"><font color="white">Service</font></a></span> 
 
 
 <hr>
@@ -134,7 +134,7 @@ Multiple PhD and Postdoc positions are available!
   </div>
 
   <div class="col-md-10 col-sm-10">
-    <h4><a href="https://github.com/twhuang-uiuc/DtCraft">DtCraft: A General-purpose Distributed Programming System using Data-parallel Streams</a></h4>
+    <h4><a href="https://github.com/twhuang-uiuc/DtCraft">DtCraft: A Distributed Programming System using Data-parallel Streams</a></h4>
     <p>
     DtCraft introduces a new C++ stream graph programming model to help developers streamline the building of high-performance distributed applications on a machine cluster.
     </p>
@@ -187,16 +187,18 @@ You are free to use it and distribute it to any places you want.</p>
 <!-- Teaching -->
 <h2 id="teaching">Teaching</h2>
 
-<div class="row row-padded">
-  <div class="col-md-2 col-sm-2 masthead">
-    <div style="max-width: 150px; display: inline-block; text-align: center;">
-      <p><img src="img/uiuc-ece462-sp19.jpg" style="width: 100%;"></p>
+<p>The following courses are given at UIUC. I am currently teaching ECE462 at the Spring Semester.</p>
+
+<div class="card-columns">
+  <div class="card bg-primary">
+    <div class="card-body text-center">
+      <p class="card-text"><a href="https://github.com/tsung-wei-huang/ECE462"><font color="white">ECE462: Logic Synthesis</font></a></p>
     </div>
   </div>
-
-  <div class="col-md-10 col-sm-10">
-    <h4><a href="https://github.com/tsung-wei-huang/ECE462">ECE462: Logic Synthesis</a> (SP19)</h4>
-    <p>Convert a high-level design description to an optimized gate-level representation</p>
+  <div class="card bg-info">
+    <div class="card-body text-center">
+      <p class="card-text"><a href="https://wiki.illinois.edu//wiki/display/ece220/Home"><font color="white">ECE220: Computer Systems and Programming</font></a></p>
+    </div>
   </div>
 </div>
 
@@ -264,7 +266,7 @@ You are free to use it and distribute it to any places you want.</p>
 
 </ul>
 
-<details><summary class="label label-success">More awards (click to expand)</summary><p></p>
+<details><summary class="badge badge-success">More awards (click to expand)</summary><p></p>
 <ul>
 <li>Outstanding Student Scholarship, Garmin Corporation, Taiwan, 2010</li>
 
