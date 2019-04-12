@@ -4,6 +4,11 @@ Changes to bootstrap.min
  - badge font-size:75% => font-size:90%
 */
 
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
+
 footer {
   text-align: center;
   color: #8f8f8f;
@@ -17,17 +22,50 @@ footer a {
 
 .badge-alarm {
   background-color: #3b5998;
+  color: white;
+}
+
+a.badge-alarm:focus, a.badge-alarm:hover {
+  color:#fff;background-color:#293e6a
 }
 
 .badge-purple {
   background-color: #9b59b6;
+  color: white;
+}
+
+a.badge-purple:focus, a.badge-purple:hover {
+  color:#fff;background-color:#6c3e7f
 }
 
 .badge-tumblr {
   background-color: #3b5998;
+  color: white;
 }
 
 .badge-twitter {
   background-color: #2ba9e1;
+  color: white;
 }
+
+a.badge-twitter:focus, a.badge-twitter:hover {
+  color:#fff;background-color:#1e769d
+}
+
+.badge-news {
+  background-color: navy;
+  color: white;
+}
+
+.badge-email{
+  background-color:#02786f;
+  color: white;
+}
+
+a.badge-email:focus, a.badge-email:hover {
+  color:#fff;background-color:#014842
+}
+
+
+
 
