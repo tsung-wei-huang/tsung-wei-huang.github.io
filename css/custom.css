@@ -57,6 +57,14 @@ a.badge-twitter:focus, a.badge-twitter:hover {
   color: white;
 }
 
+summary.badge-news:focus, summary.badge-news:hover {
+  color:#fff;background-color:#000FE6
+}
+
+summary.badge-success:focus, summary.badge-success:hover {
+  color:#fff;background-color:#126904
+}
+
 .badge-email{
   background-color:#02786f;
   color: white;
@@ -65,6 +73,16 @@ a.badge-twitter:focus, a.badge-twitter:hover {
 a.badge-email:focus, a.badge-email:hover {
   color:#fff;background-color:#014842
 }
+
+.badge-thankyou{
+  background-color:#2B9691;
+  color: white;
+}
+
+a.badge-thankyou:focus, a.badge-thankyou:hover {
+  color:#fff;background-color:#0C6560
+}
+
 
 
 
