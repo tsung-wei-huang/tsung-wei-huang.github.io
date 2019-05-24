@@ -65,6 +65,10 @@ summary.badge-success:focus, summary.badge-success:hover {
   color:#fff;background-color:#126904
 }
 
+summary.badge-secondary:focus, summary.badge-secondary:hover {
+  color:#fff;background-color:#42494A
+}
+
 .badge-email{
   background-color:#02786f;
   color: white;
