@@ -49,106 +49,263 @@
   </div>
 </div>
 
-<!-- Nav tabs -->
-<ul class="nav nav-tabs" role="tablist">
-  <li class="nav-item">
-    <a class="nav-link active" data-toggle="tab" href="#home">Home</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#research">Research</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#people">People</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#awards">Awards</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#teaching">Teaching</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#publication">Publication</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#service">Service</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" data-toggle="tab" href="#thank-you">Thank-you</a>
-  </li>
-</ul>
 
-<!-- Tab panes -->
-<div class="tab-content">
+<div class="content">
 
-<!-- begin of home -->
-<div id="home" class="container tab-pane active"><br>
+<a class="badge badge-primary" href="#research">Research</a>
+<a class="badge badge-secondary" href="#presentation">Presentation</a>
+<a class="badge badge-purple" href="#teaching">Teaching</a>
+<a class="badge badge-alarm" href="#people">People</a>
+<a class="badge badge-success" href="#awards">Awards</a>
+<a class="badge badge-twitter" href="#publication">Publication</a>
+<a class="badge badge-danger" href="#service">Service</a> 
+<a class="badge badge-thankyou" href="#acknowledgment">Thank-you</a> 
+
+<hr>
 
 <div class="alert alert-success" role="alert">
 Multiple PhD and Postdoc positions are available in my research team!
 <a class="badge badge-email" href="recruiting.html" role="badge">Hiring Details</a>
 </div>
 
-<p>I am an assistant professor in the 
-<a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a>
-at the <a href="https://www.utah.edu/">University of Utah</a>. 
-During my entire career, I have been building software from the ground up
-with extensive research interests
-in parallel processing, heterogeneous computing, computer-aided design, and machine learning.
-</p>
+
+<h2>Recent News</h2>
 
 
-<h2 id="recent-news">Recent News</h2>
 <ul>
-<li>2019/08/06: Served as the chair of 2019 ACM SIGDA <a href="https://www.sigda.org/sigda-events/cadathlon/">CADathlon International Programming Contest</a></li>
 <li>2019/07/15: One paper accepted by 2019 ACM Multimedia (MM) Conference</li>
 <li>2019/07/02: One paper accepted by 2019 IEEE High-performance Extreme Computing (HPEC) Conference</li>
 <li>2019/07/01: Started a new job as an assistant professor at the ECE department of the University of Utah</li>
 <li>2019/06/04: Gave an invited talk "<a href="talk/dac19-invited.pdf">Essential Building Blocks for Creating an Open-source EDA Project</a>" at DAC</li>
 <li>2019/03/31: My thesis "<a href="papers/sigda19-opda.pdf">Distributed Timing Analysis</a>" won 2019 ACM SIGDA Outstanding PhD Dissertation Award</li>
+
+</ul>
+
+<details><summary class="badge badge-news">More news (click to expand)</summary><p></p>
+<ul>
 <li>2019/03/21: One paper accepted by 2019 IEEE IPDPS at Rio De Janeiro, Brazil</li>
 <li>2019/03/01: Three papers accepted by 2019 IEEE/ACM DAC at Las Vegas, NV</li>
 <li>2018/11/10: OpenTimer won the Best Open-source EDA tool Award in 2019 WOSET at ICCAD</li>
 <li>2018/10/30: DtCraft won the Best Open-source Software Award in 2018 ACM Multimedia Conference</li>
-</ul>
-<details><summary class="badge badge-news">More news (click to expand)</summary><p></p>
-<ul>
 <li>2018/09/30: Cpp-Taskflow won the Best Poster Award in 2018 Official C++ Conference</li>
 </ul>
 </details>
 
 <hr>
 
-<h2 id="recent-talks">Recent Talks</h2>
+<h2 id="research">Research</h2>
+
+<p>My research group works on large-scale and complex software systems with a specific focus on parallel and distributed computing, programming models, electronic design automation, and machine learning systems.</p>
+
+
+<div class="row row-padded">
+  <div class="col-md-3 col-sm-3">
+    <p><img src="img/parallel-computing.jpg" style="width: 100%;"></p>
+  </div>
+  
+  <div class="col-md-3 col-sm-3 masthead">
+    <p><img src="img/distributed-computing.jpg" style="width: 100%;"></p>
+  </div>
+  
+  <div class="col-md-3 col-sm-3">
+    <p><img src="img/eda.jpg" style="width: 100%;"></p>
+  </div>
+  
+  <div class="col-md-3 col-sm-3">
+    <p><img src="img/machine-learning.png" style="width: 100%;"></p>
+  </div>
+  
+</div>
+
+<p>Most of our research projects are open-source under permissive licenses.</p>
+
+<div class="row row-padded vertical-align">
+  <div class="col-md-2 col-sm-2 masthead">
+    <div style="max-width: 100px; display: inline-block; text-align: center;">
+      <p><a href="https://cpp-taskflow.github.io/"><img src="img/cpp-taskflow_logo.png" style="width: 100%;"></a></p>
+    </div>
+  </div>
+
+  <div class="col-md-10 col-sm-10">
+    <h4><a href="https://github.com/cpp-taskflow/cpp-taskflow">Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C++</a></h4>
+    <p>
+    Cpp-Taskflow introduces a new parallel task programming model
+    to help C++ developers quickly write parallel programs and
+    implement efficient parallel decomposition strategies.
+    </p>
+  </div>
+</div>
+
+
+<div class="row row-padded vertical-align">
+  <div class="col-md-2 col-sm-2 masthead">
+    <div style="max-width: 100px; display: inline-block; text-align: center;">
+      <p><img src="img/dtcraft_logo.png" style="width: 100%;"></p>
+    </div>
+  </div>
+
+  <div class="col-md-10 col-sm-10">
+    <h4><a href="https://github.com/twhuang-uiuc/DtCraft">DtCraft: A Distributed Programming System using Data-parallel Streams</a></h4>
+    <p>
+    DtCraft introduces a new C++ stream graph programming model to help developers streamline the building of high-performance distributed applications on a machine cluster.
+    </p>
+  </div>
+</div>
+
+<div class="row row-padded vertical-align">
+  <div class="col-md-2 col-sm-2 masthead">
+    <div style="max-width: 100px; display: inline-block; text-align: center;">
+      <p><img src="img/opentimer_logo.png" style="width: 100%;"></p>
+    </div>
+  </div>
+  <div class="col-md-10 col-sm-10">
+    <h4><a href="https://github.com/OpenTimer/OpenTimer">OpenTimer: A High-performance Timing Analysis Tool for VLSI Systems</a></h4>
+    <p>
+    OpenTimer develops an efficient parallel incremental timing to help circuit designers quickly analyze the timing of complex designs that incorporate billions of transistors and more.
+    </p>
+  </div>
+</div>
+
+
+<hr>
+
+<h2 id="presentation">Presentation</h2>
 
 <p>Here is a list of presentation slides related to our research.
 You are free to use it and distribute it to any places you want.</p>
 
 <ul>
-  <li>"<a href="talk/dac19-invited.pdf">Essential Building Blocks for Creating an Open-source EDA Project</a>," Invited Talk, IEEE/ACM DAC, 2019</li>
+  <li>"<a href="talk/dac19-invited.pdf">Essential Building Blocks for Creating an Open-source EDA Project</a>," IEEE/ACM DAC, 2019</li>
   <li>"<a href="talk/ipdps19-presentation.pdf">Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C++</a>," IEEE IPDPS, 2019</li>
   <li>"<a href="talk/faculty-job-talk.pdf">A General-purpose Distributed and Parallel Programming System at Scale</a>," Faculty Job Talk, 2019</li>
   <li>"<a href="talk/cpp-conf-18-lightening.pdf">Fast Parallel Programming using Modern C++</a>," Lightening Talk, CPP Conference, Sep, 2018</li>
   <li>"<a href="talk/cslsh18.pdf">Task-based Parallel Programming using C++17</a>," CSL Social Hour, Sep, 2018</li>
+</ul>
+
+
+
+<details><summary class="badge badge-secondary">More presentations (click to expand)</summary><p></p>
+<ul>
   <li>"<a href="talk/c3sr18-summer.pdf">A General-purpose Distributed Programming System using Data-parallel Streams</a>," C3SR, UIUC, June, 2018</li>
   <li>"<a href="talk/vsd18.pdf">Distributed Timing Analysis in 100 Lines of Code</a>," VSD Webinar, May, 2018</li>
   <li>"<a href="https://www.youtube.com/watch?v=sO-VrpyMQ8o">DtCraft: High-performance Distributed Execution Engine at Scale</a>," CSLSC, UIUC, 2018</li>
   <li>"<a href="talk/orconf16.pdf">OpenTimer: An Open-source High-performance Timing Analysis Tool</a>," ORCONF, Bologna, Italy, 2016</li>
   <li>"<a href="talk/cadence16.pdf">Distributed Timing Analysis: Framework and Systems</a>," Cadence Design Systems, Austin, TX, 2016</li>
-</ul>
-
-
-<details><summary class="badge badge-secondary">More presentations (click to expand)</summary><p></p>
-<ul>
   <li>"<a href="talk/iccad15.pdf">OpenTimer: A High-performance Timing Analysis Tool</a>," Invited Talk, IEEE/ACM ICCAD, Nov. 2015</li>
   <li>"<a href="talk/iccad14.pdf">Fast Path-based Timing Analysis for CPPR</a>," Invited Talk, IEEE/ACM ICCAD, Nov. 2014</li>
 </ul>
 </details>
 
-</div>  <!-- end of home tab -->
+<hr>
 
-<!-- begin of publication  -->
-<div id="publication" class="container tab-pane fade"><br>
-<h2>Conference Papers</h2>
+<!-- Teaching -->
+<h2 id="teaching">Teaching</h2>
+
+<p>The following courses were offered at UIUC.</p>
+
+<div class="card-columns">
+  <div class="card bg-primary">
+    <div class="card-body text-center">
+      <p class="card-text"><a href="https://github.com/tsung-wei-huang/ECE462"><font color="white">ECE462: Logic Synthesis</font></a></p>
+    </div>
+  </div>
+  <div class="card bg-info">
+    <div class="card-body text-center">
+      <p class="card-text"><a href="https://wiki.illinois.edu//wiki/display/ece220/Home"><font color="white">ECE220: Computer Systems and Programming</font></a></p>
+    </div>
+  </div>
+</div>
+
+<hr>
+
+<!-- People -->
+<h2 id="people">People</h2>
+
+<ul>
+  <li><a href="https://ece.illinois.edu/directory/profile/gguo4">Guannan Guo</a>, 
+      2nd-year PhD student, co-supervised with Prof. Martin Wong at UIUC</li>
+</ul>
+
+<hr>
+
+
+<!-- Awards -->
+<h2 id="awards">Awards</h2>
+<ul>
+<li>ACM SIGDA Outstanding PhD Dissertation Award, 2019 (<a href="https://www.sigda.org/awards/opda/">ACM SIGDA OPDA</a>)</li>
+<li>Best Tool Award (<a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>), Workshop on Open-source EDA Technology, 2018 (<a href="img/woset-best-tool-award.jpg">WOSET Winner</a>)</li>
+<li>Best Open Source Software Award (<a href="https://github.com/twhuang-uiuc/DtCraft">DtCraft</a>), ACM Multimedia Conference, 2018
+(<a href="http://www.acmmm.org/2018/awards/">ACM MM Awards</a>)
+</li>
+<li>Best Poster Award (<a href="https://github.com/cpp-taskflow/cpp-taskflow">Cpp-Taskflow</a>), the Official C++ Conference, 2018</li>
+<li>Second and First Place, ACM/SIGDA CADathlon Programming Competition, 2014 and 2017
+(<a href="http://www.sigda.org/programs/cadathlon/winners">CADathlon</a>)</li>
+</ul>
+
+<details><summary class="badge badge-success">More awards (click to expand)</summary><p></p>
+<ul>
+<li>First, Second, and First Place, ACM TAU Timing Contest, 2014 through 2016
+(<a href="https://sites.google.com/site/taucontest2016/">TAU Contest</a>)
+</li>
+<li>Yi-Min Wang and Pi-Yu Chung Endowed Research Award, UIUC, IL, USA, 2016
+(<a href="https://ece.illinois.edu/academics/grad/awards/wang_chung">ECE Graduate Award 2016</a>)
+</li>
+<li>Rambus Computer Engineering Research Fellowship, UIUC, IL, USA, 2015-2016
+(<a href="https://ece.illinois.edu/academics/grad/fellowships/rambus">ECE Fellowship 2015-2016</a>)</li> 
+<li>A. Richard Newton Young Student Fellow Award, ACM/IEEE Design Automation Conference, 2009, 2011, and 2014</li>
+<li>Study Abroad Fellowship, Ministry of Education, Taiwan, 2012-2014</li>
+<li>Microelectronics and Computer Development Fellowships, UT Austin, TX, USA, 2012-2013</li>
+
+<li>Best Paper Award, Workshop on Synthesis and System Integration of Mixed Information Technology, 2012 
+(<a href="http://sasimi.jp/new/sasimi2012/award/">SASIMI 2012</a>)</li>
+
+<li>Second Place, ACM/Microsoft Student Research Competition Grand Final, ACM Award Banquet, 2011
+(<a href="http://www.acm.org/press-room/news-releases/2011/src2010-2011">ACM News</a>)</li>
+
+<li>Best Master Thesis Awards by multiple organizations (CIEE,
+    IEEE Tainan Section,
+    <a href="http://www.tieee.org.tw/index.php/64-awards/awards-list/82-n002">TIEE</a>, and
+    <a href="http://www.iicm.org.tw/award/paper2011.asp">IICM</a>), 
+    2011</li>
+
+<li>First Place, ACM/SIGDA/Microsoft Student Research Competition, 2010
+(<a href="http://src.acm.org/winners/2011">ACM News</a>)</li>
+<li>Outstanding Student Scholarship, Garmin Corporation, Taiwan, 2010</li>
+
+<li>Outstanding Graduate Fellowship, National Cheng Kung University, Taiwan, 2010
+(<a href="http://www.csie.ncku.edu.tw/ncku_csie/announce/oldnewview?content=NEWS&ID=724">CS Graduate Fellowship</a>)
+</li>
+
+<li>EDA Scholarship, SpringSoft Education Foundation, 2009 and 2010
+</li>
+
+<li>Outstanding Engineering Student Fellowship, Chinese Institute of Engineers, Taiwan, 2010
+(<a href="http://www.cie.org.tw/Honors/HonorsDetail?ch_id=9">CIE Fellowship 2010</a>)
+</li>
+
+<li>Third Place, National Collegiate Cell-Based IC Design Contest,  Ministry of Education, Taiwan, 2010</li>
+
+<li>First Place, National Collegiate Nano Device CAD Contest, Nano Device Laboratories, Taiwan, 2009</li>
+
+<li>Third Place, National Collegiate Programming Contest, Ministry of Education, Taiwan, 2009
+</li>
+
+<li>Travel Grant Award, Foundation for the Advancement of Outstanding Scholarship, Taiwan, 2009</li>
+
+<li>Second Place, National Collegiate IC/CAD Contest, Ministry of Education, Taiwan, 2008
+(<a href="http://cad-contest.cs.nctu.edu.tw/cad11/Result.htm">CAD Contest 2007</a>)
+</li>
+
+<li>Presidential Award (top 2% students), Department of Computer Science, National Cheng Kung University, Taiwan 2007</li>
+</ul>
+</details>
+
+
+<hr>
+
+<h2 id="publication">Publication</h2>
+
+<h4>Conference Papers</h4>
 
   <ol>
   
@@ -326,7 +483,7 @@ You are free to use it and distribute it to any places you want.</p>
                 
     </ol>
 
-<h2>Journal Papers</h2>
+<h4>Journal Papers</h4>
 <ol>
     <li><u>T.-W. Huang</u>, C.-X. Lin, and Martin D. F. Wong,
     "<a href="papers/tcad19.pdf">DtCraft: A High-performance Distributed Execution Engine at Scale</a>,"
@@ -379,7 +536,7 @@ You are free to use it and distribute it to any places you want.</p>
 
 </ol>
 
-<h2>Patents</h2>
+<h4>Patents</h4>
 <ol>
   <li>T.-W. Huang, K. Kalafala, D. Sinha, and N. Venkateswaran, 
   "<a href="https://patents.google.com/patent/US20170242945A1/en">Distributed Timing Analysis of a Partitioned Integrated Circuit Design</a>," 
@@ -391,12 +548,13 @@ You are free to use it and distribute it to any places you want.</p>
   US9836572B2, 12/05/2017
   </li>
 </ol>
-</div> 
-<!-- end of publication -->
-  
-<!-- begin of service -->  
-<div id="service" class="container tab-pane fade"><br>
-<h2>Conference Reviewer</h2>
+
+<hr>
+
+
+<h2 id="service">Service</h2>
+
+<h4>Conference Reviewer</h4>
 <ul>
 <li>ACM/IEEE Design Automation Conference (DAC)</li>
 <li>ACM/IEEE International Conference on Computer-Aided Design (ICCAD)</li>
@@ -404,7 +562,7 @@ You are free to use it and distribute it to any places you want.</p>
 <li>ACM International Symposium on Physical Design (ISPD)</li>
 </ul>
 
-<h2>Journal Reviewer</h2>
+<h4>Journal Reviewer</h4>
 <ul>
 <li>ACM Transactions on Design Automation of Electronic Systems (TODAES)</li>
 <li>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</li>
@@ -414,290 +572,36 @@ You are free to use it and distribute it to any places you want.</p>
 <li>Biomicrofluidics, American Institute of Physics</li>
 </ul>
 
-<h2>Organizer</h2>
+<h4>Organizer</h4>
 <ul>
 <li>Chair/Co-chair, ACM SIGDA CADathlon International Programming Contest, 2018-2019</li>
 <li>Chair, VSDOpen Online EDA Conference, 2018</li>
 <li>Co-chair, ACM TAU Timing Analysis Contest, 2018
 </ul>
 
-<h2>Program Committee</h2>
+<h4>Program Committee</h4>
 <ul>
 <li>IEEE/ACM International Conference on Computer-aided Design (ICCAD), 2019</li>
 <li>IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC), 2019</li>
 <li>The C++ Conference (CppCon), 2019</li>
 </ul>
-</div>
-<!-- end of service -->
-
-<!-- begin of research -->
-<div id="research" class="container tab-pane fade"><br>
-<p>My research group works on large-scale and complex software systems with a specific focus on parallel and distributed computing, heterogeneous programming models, electronic design automation, and machine learning.</p>
-
-
-<div class="row row-padded">
-  <div class="col-md-3 col-sm-3">
-    <p><img src="img/parallel-computing.jpg" style="width: 100%;"></p>
-  </div>
-  
-  <div class="col-md-3 col-sm-3 masthead">
-    <p><img src="img/distributed-computing.jpg" style="width: 100%;"></p>
-  </div>
-  
-  <div class="col-md-3 col-sm-3">
-    <p><img src="img/eda.jpg" style="width: 100%;"></p>
-  </div>
-  
-  <div class="col-md-3 col-sm-3">
-    <p><img src="img/machine-learning.png" style="width: 100%;"></p>
-  </div>
-  
-</div>
-
-<p>Most of our research projects are open-source under permissive licenses.</p>
-
-<div class="row row-padded vertical-align">
-  <div class="col-md-2 col-sm-2 masthead">
-    <div style="max-width: 100px; display: inline-block; text-align: center;">
-      <p><a href="https://cpp-taskflow.github.io/"><img src="img/cpp-taskflow_logo.png" style="width: 100%;"></a></p>
-    </div>
-  </div>
-
-  <div class="col-md-10 col-sm-10">
-    <h4><a href="https://github.com/cpp-taskflow/cpp-taskflow">Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C++</a></h4>
-    <p>
-    Cpp-Taskflow introduces a new parallel task programming model
-    to help C++ developers quickly write parallel programs and
-    implement efficient parallel decomposition strategies.
-    </p>
-  </div>
-</div>
-
-
-<div class="row row-padded vertical-align">
-  <div class="col-md-2 col-sm-2 masthead">
-    <div style="max-width: 100px; display: inline-block; text-align: center;">
-      <p><img src="img/dtcraft_logo.png" style="width: 100%;"></p>
-    </div>
-  </div>
-
-  <div class="col-md-10 col-sm-10">
-    <h4><a href="https://github.com/twhuang-uiuc/DtCraft">DtCraft: A Distributed Programming System using Data-parallel Streams</a></h4>
-    <p>
-    DtCraft introduces a new C++ stream graph programming model to help developers streamline the building of high-performance distributed applications on a machine cluster.
-    </p>
-  </div>
-</div>
-
-<div class="row row-padded vertical-align">
-  <div class="col-md-2 col-sm-2 masthead">
-    <div style="max-width: 100px; display: inline-block; text-align: center;">
-      <p><img src="img/opentimer_logo.png" style="width: 100%;"></p>
-    </div>
-  </div>
-  <div class="col-md-10 col-sm-10">
-    <h4><a href="https://github.com/OpenTimer/OpenTimer">OpenTimer: A High-performance Timing Analysis Tool for VLSI Systems</a></h4>
-    <p>
-    OpenTimer develops an efficient parallel incremental timing to help circuit designers quickly analyze the timing of complex designs that incorporate billions of transistors and more.
-    </p>
-  </div>
-</div>
-</div>
-<!-- end of research -->
-
-<!-- begin of awards -->
-<div id="awards" class="container tab-pane fade"><br>
-<h2 id="awards">Faculty Awards</h2>
-<ul>
-<li>ACM SIGDA Outstanding PhD Dissertation Award, 2019 (<a href="https://www.sigda.org/awards/opda/">ACM SIGDA OPDA</a>)</li>
-<li>Best Tool Award (<a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>), Workshop on Open-source EDA Technology, 2018 (<a href="img/woset-best-tool-award.jpg">WOSET Winner</a>)</li>
-<li>Best Open Source Software Award (<a href="https://github.com/twhuang-uiuc/DtCraft">DtCraft</a>), ACM Multimedia Conference, 2018
-(<a href="http://www.acmmm.org/2018/awards/">ACM MM Awards</a>)
-</li>
-<li>Best Poster Award (<a href="https://github.com/cpp-taskflow/cpp-taskflow">Cpp-Taskflow</a>), the Official C++ Conference, 2018</li>
-<li>Second and First Place, ACM/SIGDA CADathlon Programming Competition, 2014 and 2017
-(<a href="http://www.sigda.org/programs/cadathlon/winners">CADathlon</a>)</li>
-<li>First, Second, and First Place, ACM TAU Timing Contest, 2014 through 2016
-(<a href="https://sites.google.com/site/taucontest2016/">TAU Contest</a>)
-</li>
-<li>Yi-Min Wang and Pi-Yu Chung Endowed Research Award, UIUC, IL, USA, 2016
-(<a href="https://ece.illinois.edu/academics/grad/awards/wang_chung">ECE Graduate Award 2016</a>)
-</li>
-<li>Rambus Computer Engineering Research Fellowship, UIUC, IL, USA, 2015-2016
-(<a href="https://ece.illinois.edu/academics/grad/fellowships/rambus">ECE Fellowship 2015-2016</a>)</li> 
-<li>A. Richard Newton Young Student Fellow Award, ACM/IEEE Design Automation Conference, 2009, 2011, and 2014</li>
-<li>Study Abroad Fellowship, Ministry of Education, Taiwan, 2012-2014</li>
-<li>Microelectronics and Computer Development Fellowships, UT Austin, TX, USA, 2012-2013</li>
-
-<li>Best Paper Award, Workshop on Synthesis and System Integration of Mixed Information Technology, 2012 
-(<a href="http://sasimi.jp/new/sasimi2012/award/">SASIMI 2012</a>)</li>
-
-<li>Second Place, ACM/Microsoft Student Research Competition Grand Final, ACM Award Banquet, 2011
-(<a href="http://www.acm.org/press-room/news-releases/2011/src2010-2011">ACM News</a>)</li>
-
-<li>Best Master Thesis Awards by multiple organizations (CIEE,
-    IEEE Tainan Section,
-    <a href="http://www.tieee.org.tw/index.php/64-awards/awards-list/82-n002">TIEE</a>, and
-    <a href="http://www.iicm.org.tw/award/paper2011.asp">IICM</a>), 
-    2011</li>
-
-<li>First Place, ACM/SIGDA/Microsoft Student Research Competition, 2010
-(<a href="http://src.acm.org/winners/2011">ACM News</a>)</li>
-<li>Outstanding Student Scholarship, Garmin Corporation, Taiwan, 2010</li>
-
-<li>Outstanding Graduate Fellowship, National Cheng Kung University, Taiwan, 2010
-(<a href="http://www.csie.ncku.edu.tw/ncku_csie/announce/oldnewview?content=NEWS&ID=724">CS Graduate Fellowship</a>)
-</li>
-
-<li>EDA Scholarship, SpringSoft Education Foundation, 2009 and 2010
-</li>
-
-<li>Outstanding Engineering Student Fellowship, Chinese Institute of Engineers, Taiwan, 2010
-(<a href="http://www.cie.org.tw/Honors/HonorsDetail?ch_id=9">CIE Fellowship 2010</a>)
-</li>
-
-<li>Third Place, National Collegiate Cell-Based IC Design Contest,  Ministry of Education, Taiwan, 2010</li>
-
-<li>First Place, National Collegiate Nano Device CAD Contest, Nano Device Laboratories, Taiwan, 2009</li>
-
-<li>Third Place, National Collegiate Programming Contest, Ministry of Education, Taiwan, 2009
-</li>
-
-<li>Travel Grant Award, Foundation for the Advancement of Outstanding Scholarship, Taiwan, 2009</li>
-
-<li>Second Place, National Collegiate IC/CAD Contest, Ministry of Education, Taiwan, 2008
-(<a href="http://cad-contest.cs.nctu.edu.tw/cad11/Result.htm">CAD Contest 2007</a>)
-</li>
-
-<li>Presidential Award (top 2% students), Department of Computer Science, National Cheng Kung University, Taiwan 2007</li>
-</ul>
-</div>
-<!-- end of awards -->
-
-<!-- begin of teaching -->
-<div id="teaching" class="container tab-pane fade"><br>
-
-<h2>University of Utah</h2>
-<p></p>
 
 <hr>
 
-<h2>University of Illinois at Urbana-Champaign</h2>
-<p></p>
-<div class="card-columns">
-  <div class="card bg-primary">
-    <div class="card-body text-center">
-      <p class="card-text"><a href="https://github.com/tsung-wei-huang/ECE462"><font color="white">ECE462: Logic Synthesis</font></a></p>
-    </div>
-  </div>
-  <div class="card bg-info">
-    <div class="card-body text-center">
-      <p class="card-text"><a href="https://wiki.illinois.edu//wiki/display/ece220/Home"><font color="white">ECE220: Computer Systems and Programming</font></a></p>
-    </div>
-  </div>
-</div>
-</div>
-<!-- end of teaching -->
+<h2 id="acknowledgment">Acknowledgment</h2>
 
-<!-- begin of Thank-you -->
-<div id="thank-you" class="container tab-pane fade"><br>
-<h2 id="thank-you-list">THANK YOU ALL!</h2>
-
-<p>I could not come this far without the following people 
-who have supported, motivated, and inspired me to continue growing:</p>
-<ul>
-<li>Pao-I Chen, my beloved wife</li>
-<li>Hui-Fei Hu, Ming-Ching Huang, and Sheng-Yi Huang, my beloved family</li>
-<li>Martin D. F. Wong, my PhD advisor</li>
-<li>D. Chen, W.-M. Hwu, and R. Rutenbar, my PhD committee</li>
-<li>T.-Y. Ho, my master advisor</li>
-<li>Jhih-Chian Wu, my roommate during my PhD life</li>
-<li>David Z. Pan, UT Austin</li>
-<li>Krishnendu Chakrabarty, Duke University</li>
-<li>Chun-Yao Wong, NTHU</li>
-<li>Y.-W. Chang and Iris H.-R. Jiang NTU</li>
-<li>Bei Yu, Michael R. Lyu, CUHK</li>
-<li>Xiaoqing Xu, ARM</li>
-<li>Benny Tseng, my roommate at UT Austin</li>
-<li>Marco and Daniele, my colleague at Citadel LLC</li>
-<li>Jin Hu, M.-C. Kim, D. Sinha, N. Venkateswaran, L. Stok, and K. Kalafala, my colleague at IBM</li>
-<li>P. V. Srinivas, my colleague at Mentor Graphics</li>
-<li>Li-Da Huang, my landlord at Austin</li>
-<li>C.-X. Lin, G. Guo, H. Tian, L. Hwang, Z. Xiao, D. Guo, T.-Y. Lai, and I.-J. Liu, my colleagues at UIUC CAD group</li>
-<li>Yuting Chen Wu, UIUC</li>
-<li>Chen-Hsuan Lin, Google</li>
-<li>Kunal Ghosh, director of VSD</li>
-<li>Billy Lee, NCTU</li>
-<li>Igor Keller, Cadence</li>
-<li>George Chen and Jignesh, Intel</li>
-<li>Jingtong Hu, U Pitt</li>
-<li>Andreas Olofoson, program manager at DARPA</li>
-<li>Bill Swartz, TimberWolf and UT Dallas</li>
-<li>Pierre-Emmanuel Gaillardon, my Utah Colleague</li>
-</ul>
-
-<hr>
-
-
-<h2 id="research-grants">Research Grants</h2>
-<p>I am grateful for the following organizations to support my research:</p>
-<ol>
-<li>PI, "OpenTimer and DtCraft," $427K, DARPA, 2018-2019 (University of Illinois)</li>
-</ol>
-</div>
-<!-- end of thank-you -->
-
-<!-- begin of people -->
-<div id="people" class="container tab-pane fade"><br>
-
-<div class="alert alert-success" role="alert">
-Multiple PhD and Postdoc positions are available in my research team!
-<a class="badge badge-email" href="recruiting.html" role="badge">Hiring Details</a>
-</div>
-
-<h2>PhD Students</h2>
-
-<hr>
-
-<h2>External Student Collaborators</h2>
-
-<p>I am blessed to collaborate with the following students:</p>
-
-<div class="row">
-
-<div class="col-sm-3 vertical-align">
-<div class="card text-center" style="width: 13rem;">
-  <div class="card-body">
-    <p><img src="img/guannan.jpeg" style="max-width: 100%"></p>
-    <h6 class="card-title">Guannan Guo</h6>
-    (PhD@UIUC 17-)
-  </div>
-</div>
-</div>
-
-<div class="col-sm-3 vertical-align">
-<div class="card text-center" style="width: 13rem;">
-  <div class="card-body">
-    <p><img src="img/cxlin.png" style="max-width: 100%"></p>
-    <h6 class="card-title">Chun-Xun Lin</h6>
-    (PhD@UIUC 14-)
-  </div>
-</div>
-</div>
-
-</div>
-
-</div>
-<!-- end of people -->
+<p>I could not come this far without <a href="acknowledgment.html#thank-you-list">great people</a> 
+around who have supported, motivated, and inspired me to continue growing.
+I am also grateful for 
+<a href="acknowledgment.html#research-grants">many organizations</a> to support my research.</p>
 
 
 </div>
-
 
 
 
 <hr>
-<footer>Last update 08/12/2019</footer>
+<footer>Last update 07/01/2019</footer>
 
 </div>
 
