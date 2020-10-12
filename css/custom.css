@@ -4,6 +4,10 @@ Changes to bootstrap.min
  - badge font-size:75% => font-size:90%
 */
 
+html {
+  scroll-behavior: smooth;
+}
+
 .vertical-align {
   display: flex;
   align-items: center;
@@ -87,7 +91,9 @@ a.badge-thankyou:focus, a.badge-thankyou:hover {
   color:#fff;background-color:#0C6560
 }
 
-
+div .hideNews {
+  display: none;
+}
 
 
 
