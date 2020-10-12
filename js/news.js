@@ -26,7 +26,14 @@ const news = [
     image_url: "https://woset-workshop.github.io/",
     content: `We are presenting Taskflow at the 2020 Workshop of Open-source EDA Technology (WOSET) co-located with the International Conference on Computer-aided Design (ICCAD)!`,
     footer: "Last updated on 2020/10/01"
-  },
+  }, 
+  {
+    title: "CAD Contest @ ICCAD 2020",
+    image_src: "images/iccad-cad-contest.png",
+    image_url: "https://iccad.com/event_details?id=305-5-D",
+    content: `We are organizing the <a href="https://iccad.com/event_details?id=305-5-D">2020 CAD Contest Session</a> at the International Conference on Computer-aided Design (ICCAD) on Thu, Nov 3, 8:00 AM, CST! Please join us for the awarding ceremony`,
+    footer: "Last updated on 2020/10/01"
+  }, 
   {
     title: "Taskflow @ MUC++ 2020",
     image_src: "images/mucpp-meetup.jpeg",
@@ -49,18 +56,18 @@ const news = [
     footer: "Last updated on 2020/09/20"
   },
   {
+    title: "Student won Champion Award of Graph Challenge",
+    image_src: "images/hpec-gc20.png",
+    image_url: "http://graphchallenge.mit.edu/champions",
+    content: `Our Taskflow-powered machine learning algorithm, <q><i>A Novel Inference Algorithm for Large Sparse Neural Network using Task Graph Parallelism,</i></q> is placed on the <a href="http://graphchallenge.mit.edu/champions">Champions</a> of the 2020 IEEE/MIT/Amazon HPEC Graph Challenge.`,
+    footer: "Last updated on 2020/08/25"
+  },
+  {
     title: "Taskflow @ Cpp-India 2020",
     image_src: "images/cpp-india-20.jpg",
     image_url: "https://www.cppindia.co.in/",
     content: `We are presenting Taskflow to the C++ group in India (Cpp-India). Please join the event, <q><a href="https://www.cppindia.co.in/TechTalk/2020/">Parallel Programming in Modern C++</a></q>, on Sat, Oct 10, 11:30 AM, IST.`,
     footer: "Last updated on 2020/09/21"
-  },
-  {
-    title: "Taskflow won the Champion of 2020 HPEC Graph Challenge",
-    image_src: "images/hpec-gc20.png",
-    image_url: "http://graphchallenge.mit.edu/champions",
-    content: `Our Taskflow-powered machine learning algorithm, <q><i>A Novel Inference Algorithm for Large Sparse Neural Network using Task Graph Parallelism,</i></q> is placed on the <a href="http://graphchallenge.mit.edu/champions">Champions</a> of the 2020 IEEE/MIT/Amazon HPEC Graph Challenge.`,
-    footer: "Last updated on 2020/08/25"
   },
   {
     title: "Taskflow @ CppCon 2020",
