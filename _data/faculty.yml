@@ -1,0 +1,9 @@
+- name: Tsung-Wei Huang
+  photo: twhuang.jpg
+  info: Assistant Professor, Electrical and Computer Engineering Dept, University of Utah
+  email: milan.allan@gmail.com
+  number_educ: 3
+  education1: PhD&colon; <a href="https://ece.illinois.edu/">Electrical and Computer Engineering Dept</a>, <a href="https://illinois.edu">University of Illinois at Urbana-Champaign</a>
+  education2: MS&colon; <a href="http://www.csie.ncku.edu.tw/ncku_csie/">Computer Science Dept</a>, <a href="https://www.ncku.edu.tw/">National Cheng Kung University</a>
+  education3: BS&colon; <a href="http://www.csie.ncku.edu.tw/ncku_csie/">Computer Science Dept</a>, <a href="https://www.ncku.edu.tw/">National Cheng Kung University</a>
+  research: Parallel and heterogeneous computing, electronic design automation

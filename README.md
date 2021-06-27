@@ -1,3 +1,6 @@
-# Tsung-Wei Huang's Personal Website
+# TW's Research Group @ University of Utah
 
-This repository contains the source files (html, tags, css, js, etc) of Tsung-Wei Huang's personal website.
+This is the website of our academic research group at the University of Utah. This website is powered by Jekyll and some Bootstrap, Bootwatch. 
+
+Special Thank goes to Allan Lab for providing the template. 
+
