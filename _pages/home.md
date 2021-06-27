@@ -27,7 +27,7 @@ situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range
 <h2>Join us!</h2>
 
 We are looking for  *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
-Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest.
+Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [research](/research)).
 
 <!--Please email [open positions]({{ site.url }}{{ site.baseurl }}/vacancies)!-->
 
