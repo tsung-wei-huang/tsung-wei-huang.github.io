@@ -6,7 +6,12 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-<link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+  <link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+  
+  <!-- bootstrap -->
+  <script src="{{ site.url }}{{ site.baseurl }}/js/jquery.min.js"></script>
+  <script src="{{ site.url }}{{ site.baseurl }}/js/bootstrap.min.js"></script>
+
 
 {% if jekyll.environment == 'production' %}
 {% include analytics.html %}

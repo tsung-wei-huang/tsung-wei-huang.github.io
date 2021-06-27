@@ -20,7 +20,6 @@ Our research streamlines the building of parallel and heterogeneous computing sy
   </div>
 </div>
 
-
 Our educational habitat is breathtakingly beautiful,
 situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range">Wasatch Mountains</a> in the state's <a href="https://www.visitsaltlake.com/">Salt Lake City</a>.
 
