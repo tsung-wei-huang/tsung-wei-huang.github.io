@@ -8,10 +8,10 @@ permalink: /
 
 ## Welcome to TW's Research Group
 
-We are a research group located at the
+We are a research group supervised by [Prof Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
 in the <a href="https://www.utah.edu/">University of Utah</a>.
-Our research streamlines the building of parallel and heterogeneous computing software and systems in a multidisciplinary area of electronic design automation, scientific computing, and machine learning.
+Our research streamlines the building of parallel and heterogeneous computing systems in a multidisciplinary area of electronic design automation, scientific computing, and machine learning.
 
 
 <div class="row row-padded align-items-center">
