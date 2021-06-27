@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-## Welcome to TW's Research Group
+## Welcome to TW's Research Group @ Utah
 
 We are a research group located at the
 <a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
@@ -38,7 +38,7 @@ We are grateful for funding from University of Utah,
 [Defense Advanced Research Projects Agency](https://www.darpa.mil/),
 [NumFocus](https://numfocus.org/).
 
-<div class="row row-padded align-items-center">
+<div class="row align-items-center">
   <div class="col-md-3 col-sm-3">
   <a href="https://www.ece.utah.edu/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utah-ece-logo.png" style="width: 100%;"></a>
   </div>
