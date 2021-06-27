@@ -6,12 +6,15 @@ sitemap: false
 permalink: /publications/
 ---
 
-<p>Jump to [Conference Papers](#conference-papers), 
-[Journal Papers](#journal-papers), [Patents](#patents), and
-[Thesis](#thesis).</p>
+## Publications
+
++ [Conference Papers](#conference-papers)
++ [Journal Papers](#journal-papers)
++ [Patents](#patents)
++ [Thesis](#thesis)
 
 <!-- begin of publication  -->
-## Conference Papers
+### Conference Papers
 
   <ol>
   
@@ -246,7 +249,7 @@ permalink: /publications/
 
 <hr>
 
-## Journal Papers
+### Journal Papers
 
 <ol>
     <li><u>Tsung-Wei Huang</u>, Chun-Xun Lin, and Martin Wong,
@@ -314,7 +317,7 @@ permalink: /publications/
 
 <hr>
 
-## Patents
+### Patents
 
 <ol>
   <li>Tsung-Wei Huang, K. Kalafala, D. Sinha, and N. Venkateswaran, 
@@ -330,7 +333,7 @@ permalink: /publications/
 
 <hr>
 
-## Thesis
+### Thesis
 <ol>
   <li>Tsung-Wei Huang,  
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/twhuang_phd_thesis.pdf">Distributed Timing Analysis</a>," 

@@ -6,6 +6,8 @@ sitemap: false
 permalink: /team/
 ---
 
+## Open Positions!
+
 <p>We are looking for *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
 Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest.</p>
 
@@ -71,11 +73,11 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 
 
-<!-- Master and Undergraduate Students -->
+<!-- Undergraduate Students -->
 
-## Master and Undergraduate Students
+## Undergraduate Students
 {% assign number_printed = 0 %}
-{% for member in site.data.msbs_students %}
+{% for member in site.data.bs_students %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
