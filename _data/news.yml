@@ -1,12 +1,11 @@
-- data: 14. July 2021
-  headline: We receive an NSF grant to support our parallel computing research (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126672">CCF-2126672</a>. Thank you NSF!
-
-- data: 9. July 2021
+- date: 9. July 2021
   headline: Yasin Zamani gives a talk, <q><a href="talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a></q> to Cadence.
+
+- date: 9. July 2021
+  headline: We are grateful for a new NSF grant to support our heterogeneous computing research (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126672">CCF-2126672</a>)!
 
 - date: 24. June 2021
   headline: Cheng-Hsiang Chiu's paper is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
-
 
 - date: 11. June 2021
   headline: Prof Huang gives a talk, <q><a href="talks/HeteroTime-Nvidia-21.pdf">GPU-accelerated Static Timing Analysis</a></q> to Nvidia Research.
@@ -19,6 +18,9 @@
 
 - date: 17. May 2021
   headline: Cheng-Hsiang Chiu starts his summer internship in <a href='https://www.cadence.com/en_US/home.html'>Cadence Design Systems</a> at Austin, TX.
+
+- date: 14. May 2021
+  headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Small Development Grant</a> to support our Taskflow project!
 
 - date: 10. May 2021
   headline: Prof Huang gives a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
