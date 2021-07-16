@@ -1,5 +1,5 @@
 - date: 16. July 2021
-  headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Small Development Grant r2</a> to support developing novel GPU algorithms for our Taskflow project!
+  headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Small Development Grant r2</a> to support developing novel GPU algorithms in Taskflow!
 
 - date: 9. July 2021
   headline: Yasin Zamani gives a talk, <q><a href="talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a></q> to Cadence.
@@ -23,7 +23,7 @@
   headline: Cheng-Hsiang Chiu starts his summer internship in <a href='https://www.cadence.com/en_US/home.html'>Cadence Design Systems</a> at Austin, TX.
 
 - date: 14. May 2021
-  headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Small Development Grant r1</a> to support the development of sanitizing algorithms for our Taskflow project!
+  headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Small Development Grant r1</a> to support developing sanitizing algorithms in Taskflow!
 
 - date: 10. May 2021
   headline: Prof Huang gives a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
