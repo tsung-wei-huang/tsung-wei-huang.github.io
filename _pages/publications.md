@@ -13,6 +13,8 @@ permalink: /publications/
 + [Patents](#patents)
 + [Thesis](#thesis)
 
+<hr>
+
 <!-- begin of publication  -->
 ### Conference Papers
 
