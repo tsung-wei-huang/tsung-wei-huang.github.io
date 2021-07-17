@@ -253,21 +253,22 @@ permalink: /publications/
 ### Journal Papers
 
 <ol>
-    <li><u>Tsung-Wei Huang</u>, Chun-Xun Lin, and Martin Wong,
-    "OpenTimer v2: A Parallel Incremental Timing Analysis Engine,"
-    <i>IEEE Design and Test (DAT)</i>, accepted</li>
 
     <li><u>Tsung-Wei Huang</u>, Yibo Lin, Chun-Xun Lin, Guannan Guo, and Martin Wong,
-    "Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted</li>
+    "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-taskflow.pdf">Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale</a>,"
+    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 8, pp. 1687-1700, Aug. 2021</li>
 
     <li><u>Tsung-Wei Huang</u>, Guannan Guo, Chun-Xun Lin, and Martin Wong,
-    "OpenTimer v2: A New Parallel Incremental Timing Analysis Engine,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted</li>
+    "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-ot2.pdf">OpenTimer v2: A New Parallel Incremental Timing Analysis Engine</a>,"
+    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 4, pp. 776-786, April 2021</li>
+
+    <li><u>Tsung-Wei Huang</u>, Chun-Xun Lin, and Martin Wong,
+    "<a href="{{ site.url }}{{ site.baseurl }}/papers/dat21-ot2.pdf">OpenTimer v2: A Parallel Incremental Timing Analysis Engine</a>,"
+    <i>IEEE Design and Test (DAT)</i>, vol. 38, no. 2, pp. 62-68, April 2021</li>
 
     <li><u>Tsung-Wei Huang</u>, Chun-Xun Lin, and Martin Wong,
     "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad19.pdf">DtCraft: A High-performance Distributed Execution Engine at Scale</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 38, no. 6, pp. 1070-1083, June, 2019</li>
+    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 38, no. 6, pp. 1070-1083, June 2019</li>
 
     <li><u>Tsung-Wei Huang</u> and Martin Wong,
     "<a href="http://ieeexplore.ieee.org/document/7400988/">UI-Timer 1.0: An Ultra-Fast Path-Based Timing Analysis Algorithm for CPPR</a>,"
