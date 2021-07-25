@@ -11,7 +11,8 @@ permalink: /
 We are a research group supervised by [Prof Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
 in the <a href="https://www.utah.edu/">University of Utah</a>.
-Our research streamlines the building of parallel and heterogeneous systems and algorithms in a multidisciplinary area of electronic design automation, scientific computing, and machine learning.
+Our research makes parallel and heterogeneous computing easier to handle
+in a multidisciplinary area of electronic design automation, scientific computing, and machine learning.
 
 
 <div class="row row-padded align-items-center">
