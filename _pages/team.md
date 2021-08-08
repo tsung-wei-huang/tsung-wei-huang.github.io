@@ -22,7 +22,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   </div>
   </div>
 
-  <div class="col-md-8 col-sm-8">
+  <div class="col-md-10 col-sm-10">
   <h4>Tsung-Wei Huang</h4>
   Assistant Professor, Department of ECE<br>
   University of Utah, Salt Lake City, UT, USA, 84112<br>
@@ -33,6 +33,13 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <a href="{{ site.url }}{{ site.baseurl }}/resumes/twhuang_cv.pdf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cv.png" height=25px></a>
   <a href="mailto:tsung-wei.huang@utah.edu"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-email.png" height=25px></a>
   <a href="https://twitter.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-twitter.png" height=25px></a>
+  </div>
+  
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-12 col-sm-12 vertical-align">
+  <p><b>Short bio</b>: Dr. Huang is an assistant professor in the ECE Department at the University of Utah. His research makes parallel and heterogeneous computing easier to handle in a multidisciplinary area of electronic design automation, scientific computing, and machine learning. He has created several award-winning open-source software, such as Taskflow and OpenTimer, that is being used by many industrial and academic research projects.</p>
   </div>
 </div>
 
