@@ -1,8 +1,8 @@
 - date: 9. Aug 2021
-  headline: Yasin's paper, <q>A High-Performance Heterogeneous Critical Path Analysis Framework</q>, is accepted by <a href="http://www.ieee-hpec.org/">2021 IEEE HPEC</a>!
+  headline: Our paper, <q>A High-Performance Heterogeneous Critical Path Analysis Framework</q>, is accepted by <a href="http://www.ieee-hpec.org/">2021 IEEE HPEC</a>!
 
 - date: 6. Aug 2021
-  headline: Our Taskflow paper, <q>Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</q>, is accepted by 2021 IEEE TPDS!
+  headline: Our paper, <q>Taskflow&#58; A Lightweight Parallel and Heterogeneous Task Graph Computing System</q>, is accepted by 2021 IEEE TPDS!
 
 - date: 16. July 2021
   headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Grant r2</a> to support developing novel GPU algorithms in Taskflow!
@@ -14,7 +14,7 @@
   headline: We are grateful for a new NSF grant to support our heterogeneous computing research (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126672">CCF-2126672</a>)!
 
 - date: 24. June 2021
-  headline: Cheng-Hsiang Chiu's paper, <q>An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</q>, is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
+  headline: Our paper, <q>An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</q>, is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
 
 - date: 11. June 2021
   headline: Prof Huang gives a talk, <q><a href="talks/HeteroTime-Nvidia-21.pdf">GPU-accelerated Static Timing Analysis</a></q> to Nvidia Research.
@@ -35,7 +35,7 @@
   headline: Prof Huang gives a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
 
 - date: 25. April 2021
-  headline: Dian-Lun Lin's paper, <q>Efficient GPU Computation using Task Graph Parallelism</q>, is accepted by <a href="https://2021.euro-par.org/">2021 Euro-Par</a>.
+  headline: Our paper, <q>Efficient GPU Computation using Task Graph Parallelism</q>, is accepted by <a href="https://2021.euro-par.org/">2021 Euro-Par</a>.
 
 - date: 20. April 2021
   headline: Prof Huang servces on the track chair of <a href="https://iccad.com/index.php">2021 IEEE/ACM ICCAD</a>.
@@ -78,7 +78,7 @@
   headline: One paper is accepted by 2020 IEEE/ACM ASPDAC.
 
 - date: 5. Sep 2020
-  headline: Our paper, <q>OpenTimer v2: A New Parallel Incremental Timing Analysis Engine</q>, is accepted by 2021 IEEE TCAD.
+  headline: Our paper, <q>OpenTimer v2&#58; A New Parallel Incremental Timing Analysis Engine</q>, is accepted by 2021 IEEE TCAD.
 
 - date: 31. Aug 2020
   headline: Dian-Lun Lin's machine learning paper won the <a href="http://graphchallenge.mit.edu/champions">Champion Award of 2020 HPEC Graph Challenge</a>.
@@ -90,7 +90,7 @@
   headline: Three papers are accepted by 2020 IEEE/ACM ICCAD.
 
 - date: 20. June 2020
-  headline: Our paper, <q>Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale</q>, is accepted by 2021 IEEE TCAD.
+  headline: Our paper, <q>Cpp-Taskflow&#58; A General-purpose Parallel Task Programming System at Scale</q>, is accepted by 2021 IEEE TCAD.
 
 - date: 17. April 2020
   headline: Prof Huang serves on the program committee of 2020 IEEE/ACM ICCAD.
