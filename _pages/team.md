@@ -9,9 +9,7 @@ permalink: /team/
 ## Open Positions!
 
 <p>We are looking for *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
-Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [research](/research)).</p>
-
-+ [Why Join Our Team?](#why-join-our-team)
+Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](#why-join-our-team)). </p>
 
 <hr>
 
