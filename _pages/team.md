@@ -11,6 +11,9 @@ permalink: /team/
 <p>We are looking for *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
 Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [research](/research)).</p>
 
++ [Why Join Our Team?](#why-join-our-team)
+
+<hr>
 
 <!-- Faculty -->
 ## Faculty
@@ -43,6 +46,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   </div>
 </div>
 
+<hr>
 
 <!-- PhD students -->
 
@@ -79,6 +83,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 {% endif %}
 
 
+<hr>
 
 <!-- Undergraduate Students -->
 
@@ -114,9 +119,40 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 </div>
 {% endif %}
 
+<hr>
 
 
 <!-- Alumni
 
 ## Alumni  -->
+
+
+## Why Join Our Team?
+
+
+<p>The code of conduct in our group is to *<u>respect</u>* and 
+*<u>support</u>* each other.
+Hierarchy does exist but only for project management.
+We solve real-world problems that matter to the society.
+You will find plenty of research opportunities for a BS/MS/PhD thesis.
+Specifically, in our group you will learn to:
+</p>
+
+<ul>
+<li>Apply EE/CS knowledge to solve scientific computing problems</li>
+<li>Create impactful research projects and software systems</li>
+<li>Become a good programmer and an independent researcher</li>
+</ul>
+
+<p>
+We collaborate with many people from industry, academia, and government agencies.
+You can work with people around the world to explore different research ideas.
+After you leave our group, you will be ready for many job opportunities
+in both software and hardware companies!</p>
+
+<br>
+
+
+
+
 
