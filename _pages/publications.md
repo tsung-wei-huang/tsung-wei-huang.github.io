@@ -24,7 +24,7 @@ permalink: /publications/
   "A High-Performance Heterogeneous Critical Path Analysis Framework," <i>IEEE High Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
   </li>
   
-  <li>Cheng-Hsiang Chiu, Dian-Lun Lin and Tsung-Wei Huang, 
+  <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
   "An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, in conjunction with Euro-Par, Portugal, 2021.
   </li>
   
@@ -34,7 +34,7 @@ permalink: /publications/
   Portugal, 2021.
   </li>
   
-  <li>Guannan Guo, Tsung-Wei Huang, Yibo Lin, and Martin Wong
+  <li>Guannan Guo, Tsung-Wei Huang, Yibo Lin, and Martin Wong,
   "GPU-accelerated Path-based Timing Analysis," 
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021.
   </li>
