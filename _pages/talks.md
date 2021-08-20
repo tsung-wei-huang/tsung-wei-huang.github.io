@@ -9,6 +9,7 @@ permalink: /talks/
 ## Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; Parallel and Heterogeneous Task Graph Computing</a>," CUHK (Evan's group), Aug 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a>," Cadence, July 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/HeteroTime-Nvidia-21.pdf">HeteroTime: Accelerating Static Timing Analysis with GPU</a>," Nvidia Research, June 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cppnow-21.pdf">Taskflow: A Lightweight Heterogeneous Task Programming System with Control Flow</a>," CPPNow, May 2021</li>
