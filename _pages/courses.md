@@ -16,7 +16,7 @@ permalink: /courses/
 <!-- begin of course list -->
 ### University of Utah
 
-+ CS 2420: Introduction to Algorithm and Data Structure (Fall 21)
++ [CS 2420: Introduction to Algorithm and Data Structure (Fall 21)](https://github.com/tsung-wei-huang/cs2420)
 + [ECE/CS 4710: Computer Engineering Senior Project Design II (Fall 21)](https://github.com/tsung-wei-huang/ece4710)
 + [ECE/CS 3992: Computer Engineering Senior Project Design I (Spring 21)](https://github.com/tsung-wei-huang/cs3992)
 + [CS 1410: Oboject-oriented Programming (Fall 20)](https://github.com/tsung-wei-huang/cs1410-40)
