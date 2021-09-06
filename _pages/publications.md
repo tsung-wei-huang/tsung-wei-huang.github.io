@@ -22,7 +22,7 @@ permalink: /publications/
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
   "A High-Performance Heterogeneous Critical Path Analysis Framework," 
-  <i>IEEE High Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
+  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
   </li>
   
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
