@@ -21,7 +21,8 @@ permalink: /publications/
   <ol>
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
-  "A High-Performance Heterogeneous Critical Path Analysis Framework," <i>IEEE High Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
+  "A High-Performance Heterogeneous Critical Path Analysis Framework," 
+  <i>IEEE High Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
   </li>
   
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
@@ -35,12 +36,12 @@ permalink: /publications/
   </li>
   
   <li>Guannan Guo, Tsung-Wei Huang, Yibo Lin, and Martin Wong,
-  "GPU-accelerated Path-based Timing Analysis," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac21_pba.pdf">GPU-accelerated Path-based Timing Analysis</a>," 
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021.
   </li>
 
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
-  "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac21_cppr.pdf">A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs</a>," 
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021.
   </li>
   
