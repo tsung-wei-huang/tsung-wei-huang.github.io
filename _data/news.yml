@@ -1,3 +1,12 @@
+- date: 24. Sep 2021
+  headline: Dian-Lun and Prof Huang's talk, <q>cudaFlow&#58; A Modern C++ Programming Model for GPU Task Graph Parallelism</q>, is accepted by 2021 C++ Conference.
+
+- date: 14. Sep 2021
+  headline: We have one paper accepted by 2022 IEEE/ACM ASPDAC!
+
+- date: 1. Sep 2021
+  headline: We have three papers accepted by 2021 IEEE/ACM ICCAD!
+
 - date: 17. Aug 2021
   headline: Prof Huang gives a talk, <q><a href="talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; A General-purpose Parallel and Heterogeneous Task Computing System</a></q> to <a href="https://www.cse.cuhk.edu.hk/~fyyoung/">Evangeline F. Y. Young</a>'s research group at the Chinese University of Hong Kong.
 

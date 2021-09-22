@@ -26,7 +26,7 @@ permalink: /publications/
   </li>
   
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
-  "An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, in conjunction with Euro-Par, Portugal, 2021.
+  "An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021.
   </li>
   
   <li>Dian-Lun Lin and Tsung-Wei Huang, 
