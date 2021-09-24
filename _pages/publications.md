@@ -21,16 +21,16 @@ permalink: /publications/
   <ol>
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
-  "A High-Performance Heterogeneous Critical Path Analysis Framework," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec21.pdf">A High-Performance Heterogeneous Critical Path Analysis Framework</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
   </li>
   
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
-  "An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021.
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/amte21.pdf">An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</a>," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021.
   </li>
   
   <li>Dian-Lun Lin and Tsung-Wei Huang, 
-  "Efficient GPU Computation using Task Graph Parallelism," 
+  "<a href="https://link.springer.com/chapter/10.1007/978-3-030-85665-6_27">Efficient GPU Computation using Task Graph Parallelism</a>," 
   <i>European Conference on Parallel and Distributed Computing (Euro-Par)</i>, 
   Portugal, 2021.
   </li>
