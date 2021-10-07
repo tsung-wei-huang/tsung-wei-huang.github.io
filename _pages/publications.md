@@ -18,7 +18,12 @@ permalink: /publications/
 <!-- begin of publication  -->
 ### Conference Papers
 
-  <ol>
+<ol>
+
+  <li>McKay Mower, Luke Majors, and Tsung-Wei Huang, "Taskflow-San: Sanitizing Erroneous Control Flow in Taskflow Programs," <i>IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2)</i>, St. Louis, Missouri, 2021</li>
+
+  <li>Tsung-Wei Huang, "TFProf: Profiling Large Taskflow Programs with Modern D3 and C++," <i>IEEE International Workshop on Programming and Performance Visualization Tools (ProTools)</i>, St. Louis, Missouri, 2021
+  </li>
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec21.pdf">A High-Performance Heterogeneous Critical Path Analysis Framework</a>," 
@@ -238,94 +243,96 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>
   (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Network-Flow Based Pin-Count Aware Routing Algorithm for Broadcast Electrode-Addressing EWOD Chips.ppt">slide</a>), pp. 425-431, San Jose, CA, 2010</li>
                 
-    <li>Tsung-Wei Huang and Tsung-Yi Ho, 
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips.pdf">A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips</a>," 
+  <li>Tsung-Wei Huang and Tsung-Yi Ho, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips.pdf">A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips</a>," 
   <i>ACM International Symposium on Physical Design (ISPD)</i> (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips.pdf">slide</a>), pp. 201-208, San Francisco, CA, 2010</li>
                 
-    <li>Tsung-Wei Huang, C.-H. Lin, and Tsung-Yi Ho, 
+  <li>Tsung-Wei Huang, C.-H. Lin, and Tsung-Yi Ho, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips.pdf">A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips</a>," 
-    <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>
-    (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips.pptx">slide</a>), pp. 151-156, San Jose, CA, 2009</li>
+  <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>
+  (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips.pptx">slide</a>), pp. 151-156, San Jose, CA, 2009</li>
                 
-    <li>Tsung-Wei Huang and Tsung-Yi Ho, 
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Fast Routability- and Permance-Driven Droplet Routing Algorithm for Digital Microfludic Biochips.pdf">A Fast Routability- and Performance-Driven Droplet Routing Algorithm for Digital Microfluidic Biochips</a>," 
-    <i>IEEE International Conference on Computer Design (ICCD)</i> (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Fast Routability- and Performance-Driven Droplet Routing Algorithm for Digital Microfluidic Biochips.ppt">slide</a>), pp. 445-450, Lake Tahoe, CA, 2009</li>
+  <li>Tsung-Wei Huang and Tsung-Yi Ho, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Fast Routability- and Permance-Driven Droplet Routing Algorithm for Digital Microfludic Biochips.pdf">A Fast Routability- and Performance-Driven Droplet Routing Algorithm for Digital Microfluidic Biochips</a>," 
+  <i>IEEE International Conference on Computer Design (ICCD)</i> (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Fast Routability- and Performance-Driven Droplet Routing Algorithm for Digital Microfluidic Biochips.ppt">slide</a>), pp. 445-450, Lake Tahoe, CA, 2009</li>
                 
-    </ol>
+  </ol>
 
 <hr>
 
 ### Journal Papers
 
 <ol>
-    <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
-    <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, accepted, 2021</li>
-    
-    <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
-    "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm,"
-    <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021</li>
+  <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study," Journal of Medical Internet Research (JMIR), accepted, 2021</li>
 
-    <li>Tsung-Wei Huang, Yibo Lin, Chun-Xun Lin, Guannan Guo, and Martin Wong,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-taskflow.pdf">Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 8, pp. 1687-1700, Aug. 2021</li>
+  <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
+  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, accepted, 2021</li>
+  
+  <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
+  "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm,"
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021</li>
 
-    <li>Tsung-Wei Huang, Guannan Guo, Chun-Xun Lin, and Martin Wong,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-ot2.pdf">OpenTimer v2: A New Parallel Incremental Timing Analysis Engine</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 4, pp. 776-786, April 2021</li>
+  <li>Tsung-Wei Huang, Yibo Lin, Chun-Xun Lin, Guannan Guo, and Martin Wong,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-taskflow.pdf">Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 8, pp. 1687-1700, Aug. 2021</li>
 
-    <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/dat21-ot2.pdf">OpenTimer v2: A Parallel Incremental Timing Analysis Engine</a>,"
-    <i>IEEE Design and Test (DAT)</i>, vol. 38, no. 2, pp. 62-68, April 2021</li>
+  <li>Tsung-Wei Huang, Guannan Guo, Chun-Xun Lin, and Martin Wong,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-ot2.pdf">OpenTimer v2: A New Parallel Incremental Timing Analysis Engine</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 4, pp. 776-786, April 2021</li>
 
-    <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad19.pdf">DtCraft: A High-performance Distributed Execution Engine at Scale</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 38, no. 6, pp. 1070-1083, June 2019</li>
+  <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/dat21-ot2.pdf">OpenTimer v2: A Parallel Incremental Timing Analysis Engine</a>,"
+  <i>IEEE Design and Test (DAT)</i>, vol. 38, no. 2, pp. 62-68, April 2021</li>
 
-    <li>Tsung-Wei Huang and Martin Wong,
-    "<a href="http://ieeexplore.ieee.org/document/7400988/">UI-Timer 1.0: An Ultra-Fast Path-Based Timing Analysis Algorithm for CPPR</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>,
-    vol. 35, no. 11, pp. 1862-1875, Nov. 2016</li>
+  <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad19.pdf">DtCraft: A High-performance Distributed Execution Engine at Scale</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 38, no. 6, pp. 1070-1083, June 2019</li>
 
-    <li>S.-H. Yeh, J.-W. Chang, Tsung-Wei Huang, S.-T. Yu, and Tsung-Yi Ho,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD14_01.pdf">Voltage-Aware Chip-Level Design for Reliability-Driven Pin-Constrained EWOD Chips</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>,
-    vol. 33, no. 9, pp. 1302-1315. Sept. 2014</li>
-    
-    <li>J.-W. Chang, S.-H. Yeh, Tsung-Wei Huang, and Tsung-Yi Ho,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD13_03.pdf">An ILP-based Routing Algorithm for Pin-Constrained EWOD Chips with Obstacle Avoidance</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
-    vol. 32, no. 11, pp. 1655-1667, Nov. 2013
-    </li>
-                            
-    <li>Y.-H. Chen, C.-L. Hsu, L.-C. Tsai, Tsung-Wei Huang, and Tsung-Yi Ho,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD13_02.pdf">A Reliability-Oriented Placement Algorithm for Reconfigurable Digital Microfluidic Biochips Using 3D Deferred Decision Making Technique</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
-    vol. 32, no. 8, pp. 1151-1162, Aug. 2013
-    </li>
+  <li>Tsung-Wei Huang and Martin Wong,
+  "<a href="http://ieeexplore.ieee.org/document/7400988/">UI-Timer 1.0: An Ultra-Fast Path-Based Timing Analysis Algorithm for CPPR</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>,
+  vol. 35, no. 11, pp. 1862-1875, Nov. 2016</li>
 
-    <li>J.-W. Chang, S.-H. Yeh, Tsung-Wei Huang, and Tsung-Yi Ho,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD13_01.pdf">Integrated Fluidic-Chip Co-Design Methodology for Digital Microfluidic Biochips</a>,"
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
-    vol. 32, no. 2, pp. 216-227, Feb. 2013
-    </li>
-                    
-    <li>Tsung-Wei Huang, S.-Y. Yeh, and Tsung-Yi Ho,
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD-2011-2.pdf">A Network-Flow Based Pin-Count Aware Routing Algorithm for Broadcast-Addressing EWOD Chips</a>," 
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
-    vol. 30, no. 12, pp. 1786-1799, Dec. 2011
-    </li>
-                             
-    <li>Tsung-Wei Huang and Tsung-Yi Ho, 
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips (TCAD).pdf">A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips</a>," 
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 30, no. 2, pp. 215-228, Feb. 2011
-    </li>
-                    
-    <li>Tsung-Wei Huang, C.-H. Lin, and Tsung-Yi Ho, 
-    "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Synthesis of Digital Microfluidic Biochips.pdf">A Contamination Aware Droplet Routing Algorithm for the Synthesis of Digital Microfluidic Biochips</a>," 
-    <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
-    vol. 29, no. 11, pp. 1682-1695, Nov. 2010
-    </li>
+  <li>S.-H. Yeh, J.-W. Chang, Tsung-Wei Huang, S.-T. Yu, and Tsung-Yi Ho,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD14_01.pdf">Voltage-Aware Chip-Level Design for Reliability-Driven Pin-Constrained EWOD Chips</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>,
+  vol. 33, no. 9, pp. 1302-1315. Sept. 2014</li>
+  
+  <li>J.-W. Chang, S.-H. Yeh, Tsung-Wei Huang, and Tsung-Yi Ho,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD13_03.pdf">An ILP-based Routing Algorithm for Pin-Constrained EWOD Chips with Obstacle Avoidance</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
+  vol. 32, no. 11, pp. 1655-1667, Nov. 2013
+  </li>
+                          
+  <li>Y.-H. Chen, C.-L. Hsu, L.-C. Tsai, Tsung-Wei Huang, and Tsung-Yi Ho,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD13_02.pdf">A Reliability-Oriented Placement Algorithm for Reconfigurable Digital Microfluidic Biochips Using 3D Deferred Decision Making Technique</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
+  vol. 32, no. 8, pp. 1151-1162, Aug. 2013
+  </li>
+
+  <li>J.-W. Chang, S.-H. Yeh, Tsung-Wei Huang, and Tsung-Yi Ho,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD13_01.pdf">Integrated Fluidic-Chip Co-Design Methodology for Digital Microfluidic Biochips</a>,"
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
+  vol. 32, no. 2, pp. 216-227, Feb. 2013
+  </li>
+                  
+  <li>Tsung-Wei Huang, S.-Y. Yeh, and Tsung-Yi Ho,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/TCAD-2011-2.pdf">A Network-Flow Based Pin-Count Aware Routing Algorithm for Broadcast-Addressing EWOD Chips</a>," 
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
+  vol. 30, no. 12, pp. 1786-1799, Dec. 2011
+  </li>
+                           
+  <li>Tsung-Wei Huang and Tsung-Yi Ho, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips (TCAD).pdf">A Two-Stage ILP-Based Droplet Routing Algorithm for Pin-Constrained Digital Microfluidic Biochips</a>," 
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 30, no. 2, pp. 215-228, Feb. 2011
+  </li>
+                  
+  <li>Tsung-Wei Huang, C.-H. Lin, and Tsung-Yi Ho, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Synthesis of Digital Microfluidic Biochips.pdf">A Contamination Aware Droplet Routing Algorithm for the Synthesis of Digital Microfluidic Biochips</a>," 
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, 
+  vol. 29, no. 11, pp. 1682-1695, Nov. 2010
+  </li>
 
 </ol>
 

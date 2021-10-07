@@ -1,5 +1,17 @@
+- date: 6. Oct 2021 
+  headline: Prof Huang will give a talk, <q>A General-purpose Parallel and Heterogeneous Task Graph Programming System</q>, at the 2021 Intel eXtreme Performance User Group (IXPUG) conference 
+
+- date: 6. Oct 2021
+  headline: McKay and Luke's paper, <q>Taskflow-San&#58; Sanitizing Erroneous Control Flow in Taskflow Programs</q>, is accepted by 2021 IEEE ESPM2!
+
+- date: 4. Oct 2021
+  headline: Prof Huang's paper, <q>Energy Efficiency of Inference Algorithms for Medical Datasets&#58; A Green AI study</q>, is accepted by JMIR!
+
+- date: 2. Oct 2021
+  headline: Prof Huang's paper, <q>TFProf&#58; Profiling Large Taskflow Programs with Modern D3 and C++</q>, is accepted by 2021 IEEE ProTools!
+
 - date: 24. Sep 2021
-  headline: Dian-Lun and Prof Huang's talk, <q>cudaFlow&#58; A Modern C++ Programming Model for GPU Task Graph Parallelism</q>, is accepted by 2021 C++ Conference.
+  headline: Prof Huang and Dian-Lun's talk, <q>cudaFlow&#58; A Modern C++ Programming Model for GPU Task Graph Parallelism</q>, is accepted by 2021 C++ Conference.
 
 - date: 14. Sep 2021
   headline: We have one paper accepted by 2022 IEEE/ACM ASPDAC!
