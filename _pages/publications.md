@@ -263,6 +263,8 @@ permalink: /publications/
 ### Journal Papers
 
 <ol>
+  <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD), accepted, 2021</li>
+
   <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study," Journal of Medical Internet Research (JMIR), accepted, 2021</li>
 
   <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
