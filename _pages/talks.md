@@ -9,8 +9,8 @@ permalink: /talks/
 ## Talks
 
 <ol>
-<li>"cudaFlow: A Modern C++ Programming Model for GPU Task Graph Parallelism," CppCon, Oct 2021</li>
-<li>"Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System," Intel IXPUG, Oct 2021</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cpp-con-21.pdf">cudaFlow: A Modern C++ Programming Model for GPU Task Graph Parallelism</a>," CppCon, Oct 2021</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/ixpug-21.pdf">Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System</a>," IXPUG, Oct 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; Parallel and Heterogeneous Task Graph Computing</a>," CUHK (Evan's group), Aug 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a>," Cadence, July 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/HeteroTime-Nvidia-21.pdf">HeteroTime: Accelerating Static Timing Analysis with GPU</a>," Nvidia Research, June 2021</li>
