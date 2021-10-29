@@ -271,7 +271,7 @@ permalink: /publications/
 
   <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
-  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, accepted, 2021</li>
+  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 6, pp. 1303-1320, June 2021</li>
   
   <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
   "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm,"
