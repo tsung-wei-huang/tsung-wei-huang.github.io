@@ -263,16 +263,17 @@ permalink: /publications/
 ### Journal Papers
 
 <ol>
+  <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
+  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 6, pp. 1303-1320, June 2022</li>
+  
   <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," 
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021</li>
 
   <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study," 
   <i>Journal of Medical Internet Research (JMIR)</i>, accepted, 2021</li>
 
-  <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
-  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 6, pp. 1303-1320, June 2021</li>
-  
+
   <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
   "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021</li>
