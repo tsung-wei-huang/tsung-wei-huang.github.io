@@ -20,18 +20,33 @@ permalink: /publications/
 
 <ol>
 
-  <li>McKay Mower, Luke Majors, and Tsung-Wei Huang, "Taskflow-San: Sanitizing Erroneous Control Flow in Taskflow Programs," <i>IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2)</i>, St. Louis, Missouri, 2021</li>
+  <li>Kexing Zhou, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/espm2-21.pdf">Efficient Critical Paths Search Algorithm using Mergeable Heap</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Taiwan, 2022</li>
 
-  <li>Tsung-Wei Huang, "TFProf: Profiling Large Taskflow Programs with Modern D3 and C++," <i>IEEE International Workshop on Programming and Performance Visualization Tools (ProTools)</i>, St. Louis, Missouri, 2021
+  <li>McKay Mower, Luke Majors, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/espm2-21.pdf">Taskflow-San: Sanitizing Erroneous Control Flow in Taskflow Programs</a>," <i>IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2)</i>, St. Louis, Missouri, 2021</li>
+
+  <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/protool-21.pdf">TFProf: Profiling Large Taskflow Programs with Modern D3 and C++</a>," <i>IEEE International Workshop on Programming and Performance Visualization Tools (ProTools)</i>, St. Louis, Missouri, 2021
+  </li>
+  
+  <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/heterocppr-iccad-21.pdf">HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism</a>," 
+  <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, Germany, 2021
+  </li>
+  
+  <li>Guannan Guo, Tsung-Wei Huang, Yibo Lin, and Martin Wong, "<a href="{{ site.url }}{{ site.baseurl }}/papers/gpu-pba-iccad-21.pdf">GPU-accelerated Critical Path Generation with Path Constraints</a>," 
+  <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, Germany, 2021
+  </li>
+  
+  <li>Tsung-Wei Huang, Chun-Yao Wang, Yu-Guang Chen, and Takashi Sato,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/cad-contest-iccad-21.pdf">Overview of 2020 CAD Contest at ICCAD</a>," 
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, Germany, 2021
   </li>
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec21.pdf">A High-Performance Heterogeneous Critical Path Analysis Framework</a>," 
-  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2021.
+  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2021
   </li>
   
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/amte21.pdf">An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</a>," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021.
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/amte21.pdf">An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</a>," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021
   </li>
   
   <li>Dian-Lun Lin and Tsung-Wei Huang, 
@@ -42,93 +57,93 @@ permalink: /publications/
   
   <li>Guannan Guo, Tsung-Wei Huang, Yibo Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac21_pba.pdf">GPU-accelerated Path-based Timing Analysis</a>," 
-  <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021.
+  <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021
   </li>
 
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac21_cppr.pdf">A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs</a>," 
-  <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021.
+  <i>IEEE/ACM Design Automation Conference (DAC)</i>, CA, 2021
   </li>
   
   <li>Kuan-Ming Lai, Tsung-Wei Huang, Pei-Yu Lee, and Tsung-Yi Ho,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ATM-ASPDAC.pdf">ATM: A High Accuracy Extracted Timing Model for Hierarchical Timing Analysis</a>," 
-  <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)</i>, Japan, 2021.
+  <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)</i>, Japan, 2021
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/icpads20.pdf">An Efficient Work-Stealing Scheduler for Task Dependency Graph</a>," 
-  <i>IEEE International Conference on Parallel and Distributed Systems (ICPADS)</i>, Hong Kong, 2020.
+  <i>IEEE International Conference on Parallel and Distributed Systems (ICPADS)</i>, Hong Kong, 2020
   </li>
   
   <li>Dian-Lun Lin and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec20.pdf">A Novel Inference Algorithm for Large Sparse Neural Network using Task Graph Parallelism,</a>" 
-  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2020.
+  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2020
   </li>
   
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad20-gpusta.pdf">GPU-accelerated Static Timing Analysis</a>," 
-  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020.
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020
   </li>
   
   <li>Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad20-taskflow.pdf">A General-purpose Parallel and Heterogeneous Task Programming System for VLSI CAD</a>," 
-  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020.
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020
   </li>
   
   <li>I.-C. Lin, U. Schlichtmann, Tsung-Wei Huang, and M. P.-H. Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad20-cadcontest.pdf">Overview of 2020 CAD Contest at ICCAD</a>," 
-  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020.
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020
   </li>
   
   <li>Guannan Guo, Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac20.pdf">An Efficient Critical Path Generation Algorithm Considering Extensive Path Constraints</a>," 
-  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2020.
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2020
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/mm09.pdf">A Modern C++ Parallel Task Programming Library</a>," 
-  <i>ACM Multimedia Conference (MM)</i>, pp. 2285-2287, Nice, France, 2019.
+  <i>ACM Multimedia Conference (MM)</i>, pp. 2285-2287, Nice, France, 2019
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec-19.pdf">An Efficient and Composable Parallel Task Programming Library</a>," 
-  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, Waltham, MA, 2019.
+  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, Waltham, MA, 2019
   </li>
   
   <li>Tsung-Wei Huang, Chun-Xun Lin, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ipdps19.pdf">Cpp-Taskflow: Fast Task-based Parallel Programming using Modern C++</a>," 
-  <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, pp. 974-983, Rio de Janeiro, Brazil, 2019.
+  <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, pp. 974-983, Rio de Janeiro, Brazil, 2019
   </li>
   
   <li>Kuan-Ming Lai, Tsung-Wei Huang, and Tsung-Yi Ho,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac19.pdf">A General Cache Framework for Efficient Generation of Timing Critical Paths</a>," 
-  <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 108:1-108:6, Las Vegas, NV, 2019.
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 108:1-108:6, Las Vegas, NV, 2019
   </li>
   
   <li>Tsung-Wei Huang, Chun-Xun Lin, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac19-invited.pdf">Essential Building Blocks for Creating an Open-source EDA Project</a>," 
-  <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 78:1-78:4, Las Vegas, NV, 2019.
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 78:1-78:4, Las Vegas, NV, 2019
   </li>
   
   <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac19-lbr.pdf">Distributed Timing Analysis at Scale</a>," 
-  <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 1-2, Las Vegas, NV, 2019.
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 1-2, Las Vegas, NV, 2019
   </li>
   
   <li>Tsung-Wei Huang, Chun-Xun Lin, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/acmmm18.pdf">A General-purpose Distributed Programming System using Data-parallel Streams,</a>" 
-  <i>ACM Multimedia Conference (MM)</i>, pp. 1360-1363, Seoul, Korea, 2018.
+  <i>ACM Multimedia Conference (MM)</i>, pp. 1360-1363, Seoul, Korea, 2018
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/mtdetector.pdf">MtDetector: A High-performance Marine Traffic Detector at Stream Scale</a>," 
-  <i>ACM International Conference on Distributed and Event-based Systems (DEBS)</i>, pp. 205-208, Hamilton, New Zealand, 2018.
+  <i>ACM International Conference on Distributed and Event-based Systems (DEBS)</i>, pp. 205-208, Hamilton, New Zealand, 2018
   </li>
 
   <li>Chun-Xun Lin, Tsung-Wei Huang, Ting Yu, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/GLSVLSI18.pdf">A Distributed Power Grid Analysis Framework from Sequential Stream Graph</a>," 
   <i>ACM Great Lakes Symposium on VLSI (GLSVLSI)</i>, pp. 183-188,
-  Chicago, IL, 2018.
+  Chicago, IL, 2018
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, and Martin Wong,
@@ -140,62 +155,62 @@ permalink: /publications/
   <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ICCAD17.pdf">DtCraft: A Distributed Execution Engine for Compute-intensive Applications,</a>" 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>,
-  pp. 757-765, Irvine, CA, 2017.
+  pp. 757-765, Irvine, CA, 2017
   </li>
   
   <li>T.-Y. Lai, Tsung-Wei Huang, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/DAC17.pdf">Libabs: An Effective and Accurate Macro-modeling Algorithm for Large Hierarchical Designs,</a>" 
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, pp. 1-6,
-  Austin, TX, 2017.
+  Austin, TX, 2017
   </li>
   
   <li>Tsung-Wei Huang, Martin Wong, D. Sinha, K. Kalafala, and N. Venkateswaran,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/DAC16.pdf">A Distributed Timing Analysis Framework for Large Designs</a>," 
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, pp. 116:1-116:6, 
-  Austin, TX, 2016.
+  Austin, TX, 2016
   </li>
   
   <li>Tsung-Wei Huang and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/10A_3.pdf">OpenTimer: A High-Performance Timing Analysis Tool</a>," 
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>,
-  pp. 895-902, Austin, TX, 2015.
+  pp. 895-902, Austin, TX, 2015
   </li>
 
   <li>Tsung-Wei Huang and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/slip15.pdf">On Fast Timing Closure: Speeding Up Incremental Path-Based Timing Analysis with MapReduce</a>," 
-  <i>IEEE/ACM International Workshop on System Level Interconnect Prediction (SLIP)</i>, CA, 2015.
+  <i>IEEE/ACM International Workshop on System Level Interconnect Prediction (SLIP)</i>, CA, 2015
   </li>
 
   <li>Tsung-Wei Huang and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ISPD15.pdf">Accelerated Path-Based Timing Analysis with MapReduce</a>," 
   <i>ACM International Symposium on Physical Design (ISPD)</i>
   (<a href="{{ site.url }}{{ site.baseurl }}/papers/ISPD15.pptx">slide</a>),
-  pp. 103-110, Monterey, CA, 2015.
+  pp. 103-110, Monterey, CA, 2015
   </li>
 
   <li>Tsung-Wei Huang, P.-C. Wu, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/08B_3.PDF">Fast Path-Based Timing Analysis for CPPR</a>," 
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>,
-  pp. 596-599, San Jose, CA, 2014.
+  pp. 596-599, San Jose, CA, 2014
   </li>
                     
   <li>Tsung-Wei Huang, P.-C. Wu, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/09D_3.PDF">UI-Timer: An Ultra-Fast Clock Network Pessimism Removal Algorithm</a>," 
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>
   (<a href="{{ site.url }}{{ site.baseurl }}/papers/ICCAD14_1.pptx">slide</a>),
-  pp. 758-765, San Jose, CA, 2014.
+  pp. 758-765, San Jose, CA, 2014
   </li>
                     
   <li>Tsung-Wei Huang, P.-C. Wu, and Martin Wong,
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/SLIP_2014.pdf">UI-Route: An Ultra-Fast Incremental Maze Routing Algorithm</a>," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/SLIP_2014pdf">UI-Route: An Ultra-Fast Incremental Maze Routing Algorithm</a>," 
   <i>IEEE/ACM International Workshop on System Level Interconnect Prediction (SLIP)</i>
-  (<a href="{{ site.url }}{{ site.baseurl }}/papers/SLIP_2014.ppt">slide</a>),
-  San Francisco, CA, 2014.</li>
+  (<a href="{{ site.url }}{{ site.baseurl }}/papers/SLIP_2014ppt">slide</a>),
+  San Francisco, CA, 2014</li>
                     
   <li>S.-H. Yeh, J.-W. Chang, Tsung-Wei Huang, and Tsung-Yi Ho, 
   "<a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6386637">Voltage-Aware Chip-Level Design for Reliability-Driven Pin-Constrained EWOD Chips</a>," 
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>,
-  pp. 353-360, San Jose, CA, 2012.
+  pp. 353-360, San Jose, CA, 2012
   </li>
                                     
   <li>Tsung-Wei Huang, J.-W. Chang, and Tsung-Yi Ho, 
@@ -205,7 +220,7 @@ permalink: /publications/
   </li>
                 
   <li>Jia-Wei Chang, Tsung-Wei Huang, and Tsung-Yi Ho, 
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC_2012.pdf">An ILP-based Obstacle-Avoiding Routing Algorithm for Pin-Constrained EWOD Chips</a>," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC_2012pdf">An ILP-based Obstacle-Avoiding Routing Algorithm for Pin-Constrained EWOD Chips</a>," 
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, pp. 67-72, Sydney, Australia, 2012
   </li>
             
@@ -270,7 +285,7 @@ permalink: /publications/
   <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," 
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021</li>
 
-  <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study," 
+  <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/jmir-21.pdf">Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study</a>," 
   <i>Journal of Medical Internet Research (JMIR)</i>, accepted, 2021</li>
 
 

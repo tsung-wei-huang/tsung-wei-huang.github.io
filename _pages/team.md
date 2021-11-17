@@ -49,6 +49,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 <!-- PhD students -->
 
 ## PhD Students
+
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_students %}
 
@@ -64,6 +65,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
+  <p>{{ member.intern }}</p>
   {% endif %}
 </div>
 

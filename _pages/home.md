@@ -60,3 +60,9 @@ We are grateful for funding from [University of Utah](https://www.ece.utah.edu/)
   <a href="https://numfocus.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NumFocus.png" style="width: 100%;"></a>
   </div>
 </div>
+
+<div class="row align-items-center">
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.ece.utah.edu/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
+  </div>
+</div>
