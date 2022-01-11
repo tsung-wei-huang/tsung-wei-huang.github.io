@@ -20,7 +20,7 @@ permalink: /publications/
 
 <ol>
 
-  <li>Kexing Zhou, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/espm2-21.pdf">Efficient Critical Paths Search Algorithm using Mergeable Heap</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Taiwan, 2022</li>
+  <li>Kexing Zhou, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/aspdac-22.pdf">Efficient Critical Paths Search Algorithm using Mergeable Heap</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Taiwan, 2022</li>
 
   <li>McKay Mower, Luke Majors, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/espm2-21.pdf">Taskflow-San: Sanitizing Erroneous Control Flow in Taskflow Programs</a>," <i>IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2)</i>, St. Louis, Missouri, 2021</li>
 
@@ -278,6 +278,10 @@ permalink: /publications/
 ### Journal Papers
 
 <ol>
+  <li>Dian-Lun Lin and Tsung-Wei Huang,
+  "Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism,"
+  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, accepted, 2022</li>
+
   <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
   <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 6, pp. 1303-1320, June 2022</li>
@@ -299,7 +303,7 @@ permalink: /publications/
 
   <li>Tsung-Wei Huang, Guannan Guo, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-ot2.pdf">OpenTimer v2: A New Parallel Incremental Timing Analysis Engine</a>,"
-  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 4, pp. 776-786, April 2021</li>
+  <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 4, pp. 776-789, April 2021</li>
 
   <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dat21-ot2.pdf">OpenTimer v2: A Parallel Incremental Timing Analysis Engine</a>,"
@@ -379,10 +383,12 @@ permalink: /publications/
   <li>Tsung-Wei Huang,  
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/twhuang_phd_thesis.pdf">Distributed Timing Analysis</a>," 
   PhD Dissertation, University of Illinois at Urbana-Champaign (UIUC), Dec 2017
+  (Received 2019 ACM SIGDA Outstanding PhD Dissertation Award)
   </li>
 
-  <li>T.-W Huang, 
+  <li>Tsung-Wei Huang, 
   "<a href="http://www.airitilibrary.com/Publication/alDetailedMesh1?DocID=U0026-1107201111421600">Routing for Digital Microfluidic Biochips: From Fluidic-Level toward Chip-Level</a>," Master Thesis, National Cheng-Kung University, Taiwan, July 2011
+  (Received 2011 Chinese Institute of Electrical and Engineering Best Master Thesis Award)
   </li>
 
 </ol>

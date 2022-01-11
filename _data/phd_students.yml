@@ -1,42 +1,48 @@
+- name: Guannan Guo
+  photo: guannan.jpeg
+  info: Fall 2017--present (co-supervised with Prof Wong at UIUC)
+  email: gguo4@illinois.edu
+  research: Parallel and heterogeneous algorithms for static timing analysis
+  experience: Work Experience&#58; Cadence (summer'19), IBM (summer'21)
+  number_educ: 1
+  education1: BS&colon; University of Illinois at Urbana-Champaign
 
-- name: Dian-Lun Lin (Luan)
+- name: <a href="https://dian-lun-lin.github.io/">Dian-Lun Lin (Luan)</a>
   photo: dian-lun-lin.png
   info: Spring 2020--present
   email: dian-lun.lin@utah.edu
-  research: GPU programming systems, simulation, and machine learning
-  intern: Intern&#58; Nvidia (summer'21)
+  research: GPU-accelerated logic simulation and machine learning
+  experience: Work Experience&#58; Nvidia (summer'21, summer'22)
 
 - name: <a href="https://cheng-hsiang-chiu.github.io/">Cheng-Hsiang Chiu</a>
   photo: cheng-hsiang-chiu.jpg
   info: Fall 2020--present
   email: cheng-hsiang.chiu@utah.edu
   research: Parallel programming models and system runtimes
-  intern: Intern&#58; Cadence (summer'21)
+  experience: Work Experience&#58; Cadence (summer'21)
   number_educ: 3
   education1: MS&colon; Ecole Polytechnique F´ed´erale de Lausanne (EPFL)
   education2: MS&colon; National Chiao Tung University
   education3: BS&colon; National Chung Cheng University
 
-- name: Yasin Zamani
-  photo: yasin.jpeg
-  info: Fall 2020--present
-  email: yasin.zamani@utah.edu
-  research: GPU programming, static timing anlaysis
-  number_educ: 2
-  education1: MS&colon; Isfahan University of Technology
-  education2: BS&colon; Isfahan University of Technology
+- name: Che Chang (Randy)
+  photo: randy_chang.jpg
+  info: Spring 2022--present
+  email: che.chang@utah.edu
+  research: Parallel verification and constraint-solving algorithms
+  experience: Work Experience&#58; Intel (summer'22)
 
-- name: Guannan Guo
-  photo: guannan.jpeg
-  info: Fall 2017--present (at UIUC)
-  email: gguo4@illinois.edu
-  research: Parallel and heterogeneous algorithms for design automation
-  intern: Intern&#58; Cadence (summer'19), IBM (summer'21)
-  number_educ: 1
-  education1: BS&colon; University of Illinois at Urbana-Champaign
+- name: Wan-Luan Lee
+  photo: wan_luan_lee.jpg
+  info: Spring 2022--present
+  email: che.chang@utah.edu
+  research: Parallel and heterogeneous design automation algorithms
+
 
 - name: "This could be you !"
   photo: rock.jpg
   info: Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest.
   email: milan.allan@gmail.com
   number_educ: 0
+
+

@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><b>Short bio</b>: Dr. Huang is an assistant professor in the ECE Department at the University of Utah. His research makes parallel and heterogeneous computing easier to handle in a multidisciplinary area of electronic design automation, scientific computing, and machine learning. He has created several award-winning open-source software, such as Taskflow and OpenTimer, that is being used by many industrial and academic research projects.</p>
+  <p><b>Bio</b>: Dr. Huang is an assistant professor in the ECE Department at the University of Utah. His research makes parallel and heterogeneous computing easier to handle in various scientific computing, machine learning, and design automation applications. He has created several open-source software (e.g., <a href="https://github.com/taskflow">Taskflow</a>, <a href="https://github.com/taskflow">OpenTimer</a>) that is being used by many industrial and academic research projects. His research is recognized by several awards, such as ACM SIGDA Outstanding PhD Dissertation Award, ACM Multimedia Best Open Source Software Award, and NSF CAREER Award.</p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
-  <p>{{ member.intern }}</p>
+  <p>{{ member.experience }}</p>
   {% endif %}
 </div>
 
@@ -122,9 +122,45 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 <hr>
 
 
-<!-- Alumni
+<!-- Alumni -->
 
-## Alumni  -->
+## Alumni
+{% assign number_printed = 0 %}
+{% for member in site.data.alumni %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row https://utah.zoom.us/s/2468214418">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  {% if member.research %}
+  <p>Research: {{ member.research }}</p>
+  <p>{{ member.experience }}</p>
+  {% endif %}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+<hr>
+
+<!-- End of Alumni -->
+
 
 
 ## Why Join Our Team?
@@ -146,9 +182,11 @@ Specifically, in our group you will learn to:
 
 <p>
 We collaborate with many people from industry, academia, and government agencies.
+For instance, my students have been working in Nvidia, Intel, Cadence, IBM, etc.
 You can work with people around the world to explore different research ideas.
 After you leave our group, you will be ready for many job opportunities
-in both software and hardware companies!</p>
+in both software and hardware companies.</p>
+
 
 <br>
 

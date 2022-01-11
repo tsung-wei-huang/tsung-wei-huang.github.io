@@ -16,7 +16,7 @@ We have released several open-source software
 <a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>)
 that is being used by many industrial and academic projects 
 (>1M downloads & 5000+ GitHub stars).
-Our research is framed by three themes.
+Our research is framed by three themes:
 
 + [Theme #1: Parallel Programming Environments](#theme-1-parallel-programming-environments)
 + [Theme #2: VLSI Electronic Design Automation](#theme-2-vlsi-electronic-design-automation)
