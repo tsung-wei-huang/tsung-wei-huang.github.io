@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><b>Bio</b>: Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign. His research makes parallel and heterogeneous computing easier to handle, with a broad interest in scientific computing, machine learning, and design automation. He has created several open-source software (e.g., <a href="https://github.com/taskflow">Taskflow</a>, <a href="https://github.com/taskflow">OpenTimer</a>) that is being used by many people. His research is recognized by several awards, such as ACM SRC Grand Final Second Prize, ACM SIGDA Outstanding PhD Dissertation Award, ACM Multimedia Best Open Source Software Award, and NSF CAREER Award.</p>
+  <p><b>Bio</b>: Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign. His research makes parallel and heterogeneous computing easier to handle, with a broad interest in scientific computing, machine learning, and design automation. He has created several open-source software (e.g., <a href="https://github.com/taskflow">Taskflow</a>, <a href="https://github.com/taskflow">OpenTimer</a>) that is being used by many people. His research is recognized by several prestigious awards, such as ACM SIGDA Outstanding PhD Dissertation Award and NSF CAREER Award.</p>
   </div>
 </div>
 
