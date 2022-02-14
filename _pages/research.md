@@ -8,7 +8,9 @@ permalink: /research/
 
 ## Research
 
-Our overarching goal is to create innovative software systems that can assist researchers and developers in the implementation of parallel and heterogeneous programs. We focus on a multidisciplinary area of electronic design automation, scientific computing, and machine learning.
+Our overarching goal is to create novel software systems to streamline the implementation of 
+parallel and heterogeneous programs. We focus on a multidisciplinary area of scientific computing,
+electronic design automation, and machine learning.
 We have released several open-source software
 (<a href="https://taskflow.github.io/">Taskflow</a>,
 <a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,

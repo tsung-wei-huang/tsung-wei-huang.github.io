@@ -11,13 +11,8 @@ permalink: /
 We are a research group supervised by [Prof Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
 in the <a href="https://www.utah.edu/">University of Utah</a>.
-Our group creates innovative software systems 
-(<a href="https://taskflow.github.io/">Taskflow</a>,
-<a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
-<a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
-<a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>)
-to assist researchers to implement high-performance scientific computing programs.
-
+Our group creates novel software systems to streamline the building of high-performance
+scientific computing applications.
 
 <div class="row row-padded align-items-center">
   <div class="col-md-12">
@@ -31,7 +26,7 @@ situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range
 
 <h2>Join us!</h2>
 
-We are looking for  *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
+We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
 Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
 
 <!--Please email [open positions]({{ site.url }}{{ site.baseurl }}/vacancies)!-->
@@ -41,7 +36,8 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 We are grateful for funding from [University of Utah](https://www.ece.utah.edu/),
 [National Science Foudation](https://www.nsf.gov/),
 [Defense Advanced Research Projects Agency](https://www.darpa.mil/),
-[NumFocus](https://numfocus.org/).
+[NumFocus](https://numfocus.org/), and
+[Nvidia](https://nvidia.com).
 
 <div class="row align-items-center">
   <div class="col-md-3 col-sm-3">
