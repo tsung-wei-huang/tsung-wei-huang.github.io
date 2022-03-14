@@ -1,3 +1,11 @@
+- name: Elmir Dzaka
+  photo: elmir.jpeg
+  info: Spring 2022--present
+  email: elmir.dzaka@utah.edu
+  number_educ: 1
+  research: Parallel logic simulation algorithms
+  education1: BS&colon; University of Utah
+
 - name: Luke Majors
   photo: luke_majors.jpeg
   info: Summer 2021
