@@ -40,25 +40,29 @@ We are grateful for funding from [University of Utah](https://www.ece.utah.edu/)
 [Nvidia](https://nvidia.com).
 
 <div class="row align-items-center">
-  <div class="col-md-3 col-sm-3">
+  <div class="col-md-4 col-sm-4">
   <a href="https://www.ece.utah.edu/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utah-ece-logo.png" style="width: 100%;"></a>
   </div>
 
-  <div class="col-md-3 col-sm-3">
+  <div class="col-md-4 col-sm-4">
   <a href="https://www.nsf.gov/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 100%;"></a>
   </div>
   
-  <div class="col-md-3 col-sm-3">
+  <div class="col-md-4 col-sm-4">
   <a href="https://www.darpa.mil/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.png" style="width: 100%;"></a>
   </div>
 
-  <div class="col-md-3 col-sm-3">
+
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.nvidia.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
+  </div>
+  <div class="col-md-4 col-sm-4">
   <a href="https://numfocus.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NumFocus.png" style="width: 100%;"></a>
   </div>
 </div>
 
-<div class="row align-items-center">
-  <div class="col-md-3 col-sm-3">
-  <a href="https://www.nvidia.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
-  </div>
-</div>
+
+

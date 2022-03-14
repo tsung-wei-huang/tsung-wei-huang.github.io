@@ -175,17 +175,38 @@ Specifically, in our group you will learn to:
 </p>
 
 <ul>
-<li>Apply EE/CS knowledge to solve scientific computing problems</li>
+<li>Apply ECE/CS knowledge to solve scientific computing problems</li>
 <li>Create impactful research projects and software systems</li>
 <li>Become a good programmer and an independent researcher</li>
 </ul>
 
 <p>
 We collaborate with many people from industry, academia, and government agencies.
-For instance, my students have been working in Nvidia, Intel, Cadence, IBM, etc.
 You can work with people around the world to explore different research ideas.
 After you leave our group, you will be ready for many job opportunities
-in both software and hardware companies.</p>
+in both software and hardware companies.
+For instance, my students have been working in Nvidia, Intel, Cadence, IBM, etc.
+</p>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.nvidia.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
+  </div>
+  
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.intel.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intel-logo.png" style="width: 100%;"></a>
+  </div>
+  
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.cadence.com"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cadence-logo.jpeg" style="width: 100%;"></a>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.ibm.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm-logo.png" style="width: 100%;"></a>
+  </div>
+</div>
 
 
 <br>
