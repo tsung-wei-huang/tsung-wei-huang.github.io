@@ -19,6 +19,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Tsung-Wei Huang and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/HIPS22.pdf">Concurrent CPU-GPU Task Programming using Modern C++</a>," <i>IEEE International Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS)</i>, France, 2022</li>
 
   <li>Kexing Zhou, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/aspdac-22.pdf">Efficient Critical Paths Search Algorithm using Mergeable Heap</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Taiwan, 2022</li>
 
