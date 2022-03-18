@@ -27,6 +27,29 @@ situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range
 <h2>Join us!</h2>
 
 We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
+My students have been collaborating and working with many companies,
+including Nvidia, Intel, Cadence, IBM, and so on.
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.nvidia.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
+  </div>
+  
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.intel.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intel-logo.png" style="width: 100%;"></a>
+  </div>
+  
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.cadence.com"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cadence-logo.jpeg" style="width: 100%;"></a>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.ibm.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm-logo.png" style="width: 100%;"></a>
+  </div>
+</div>
+
 Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
 
 <!--Please email [open positions]({{ site.url }}{{ site.baseurl }}/vacancies)!-->
