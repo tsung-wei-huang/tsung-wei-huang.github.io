@@ -77,8 +77,6 @@ We are grateful for funding from [University of Utah](https://www.ece.utah.edu/)
   <div class="col-md-4 col-sm-4">
   <a href="https://www.darpa.mil/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.png" style="width: 100%;"></a>
   </div>
-
-
 </div>
 
 <div class="row align-items-center">
