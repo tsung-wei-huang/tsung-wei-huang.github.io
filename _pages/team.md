@@ -204,6 +204,9 @@ For instance, my students have been working in Nvidia, Intel, Cadence, IBM, etc.
 
 <div class="row align-items-center">
   <div class="col-md-4 col-sm-4">
+  <a href="https://www.drivevariant.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/variant-logo.jpeg" style="width: 100%;"></a>
+  </div>
+  <div class="col-md-4 col-sm-4">
   <a href="https://www.ibm.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm-logo.png" style="width: 100%;"></a>
   </div>
 </div>
