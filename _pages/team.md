@@ -56,7 +56,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row https://utah.zoom.us/s/2468214418">
+<div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
@@ -65,7 +65,9 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
-  <p>{{ member.experience }}</p>
+  {% endif %}
+  {% if member.intern %}
+  <p>Intern: {{ member.intern }}</p>
   {% endif %}
 </div>
 
@@ -94,7 +96,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row https://utah.zoom.us/s/2468214418">
+<div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">
@@ -131,7 +133,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row https://utah.zoom.us/s/2468214418">
+<div class="row">
 {% endif %}
 
 <div class="col-sm-6 clearfix">

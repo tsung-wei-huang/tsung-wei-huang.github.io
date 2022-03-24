@@ -9,6 +9,14 @@ permalink: /allnews.html
 # News
 
 {% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+
+<span class="badge badge-primary">{{ article.date }}</span>
+<p><em>{{ article.headline }}</em></p>
+
+{% if article.image %}
+<center><div style="max-width: 300px;">
+<img src="{{ article.image }}" style="width: 100%"/>
+</div></center>
+{% endif %}
+
 {% endfor %}

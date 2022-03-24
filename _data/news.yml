@@ -1,38 +1,49 @@
 - date: 15. March 2022
   headline: Prof Huang receives the prestigious Humboldt Research Fellowship for experienced researchers, hosted by the Technical University of Munich (TUM)!
+  image: "images/logopic/avh-logo.png"
 
 - date: 16. Feb 2022
   headline: Prof Huang gives a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Distinguished Lecture at the Stevens Institute of Technology.
+  image: "images/logopic/sit-logo.png"
 
 - date: 8. Feb 2022
   headline: Prof Huang gives a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Department at the University of Minnesota.
+  image: "images/logopic/umn-logo.png"
 
 - date: 11. Jan 2022
   headline: We are grateful for receiving the prestigious NSF CAREER Award to support our research on parallel and heterogeneous circuit simulation algorithms (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2144523">CAREER-2144523</a>)!
+  image: "images/logopic/nsf-career-logo.jpeg"
 
 - date: 24. Dec 2021
   headline: Dian-Lun's paper, <q>Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism</q>, is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS)!
+  image: "images/logopic/tpds-logo.png"
 
 - date: 17. Nov 2021
   headline: We are grateful for a hardware donation of two RTX 6000 GPUs by Nvidia to support our GPU computing research!
+  image: "images/logopic/nvidia-logo.png"
 
 - date: 13. Oct 2021
   headline: Prof Huang's paper, <q>A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs</q>, is accepted by IEEE TCAD!
 
 - date: 6. Oct 2021 
   headline: Prof Huang will give a talk, <q>A General-purpose Parallel and Heterogeneous Task Graph Programming System</q>, at the 2021 Intel eXtreme Performance User Group (IXPUG) Conference.
+  image: "images/logopic/ixpug-logo.jpeg"
 
 - date: 6. Oct 2021
   headline: McKay and Luke's paper, <q>Taskflow-San&#58; Sanitizing Erroneous Control Flow in Taskflow Programs</q>, is accepted by 2021 IEEE ESPM2!
+  image: "images/logopic/sc21-logo.png"
 
 - date: 4. Oct 2021
   headline: Prof Huang's paper, <q>Energy Efficiency of Inference Algorithms for Medical Datasets&#58; A Green AI study</q>, is accepted by Journal of Medical Internet Research (JMIR)!
+  image: "images/logopic/jmir-logo.png"
 
 - date: 2. Oct 2021
   headline: Prof Huang's paper, <q>TFProf&#58; Profiling Large Taskflow Programs with Modern D3 and C++</q>, is accepted by 2021 IEEE ProTools!
+  image: "images/logopic/sc21-logo.png"
 
 - date: 24. Sep 2021
   headline: Prof Huang and Dian-Lun's talk, <q>cudaFlow&#58; A Modern C++ Programming Model for GPU Task Graph Parallelism</q>, is accepted by 2021 C++ Conference.
+  image: "images/logopic/cppcon-logo.png"
 
 - date: 14. Sep 2021
   headline: We have one paper accepted by 2022 IEEE/ACM ASPDAC!
@@ -42,42 +53,53 @@
 
 - date: 17. Aug 2021
   headline: Prof Huang gives a talk, <q><a href="talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; A General-purpose Parallel and Heterogeneous Task Computing System</a></q> to <a href="https://www.cse.cuhk.edu.hk/~fyyoung/">Evangeline F. Y. Young</a>'s research group at the Chinese University of Hong Kong.
+  image: "images/logopic/cuhk-logo.png"
 
 - date: 9. Aug 2021
   headline: Our paper, <q>A High-Performance Heterogeneous Critical Path Analysis Framework</q>, is accepted by <a href="http://www.ieee-hpec.org/">2021 IEEE HPEC</a>!
 
 - date: 6. Aug 2021
   headline: Our paper, <q>Taskflow&#58; A Lightweight Parallel and Heterogeneous Task Graph Computing System</q>, is accepted by 2021 IEEE TPDS!
+  image: "images/logopic/tpds-logo.png"
 
 - date: 16. July 2021
   headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Grant r2</a> to support developing novel GPU algorithms in Taskflow!
+  image: "images/logopic/NumFocus.png"
 
 - date: 9. July 2021
   headline: Yasin Zamani gives a talk, <q><a href="talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a></q> to Cadence.
+  image: "images/logopic/cadence-logo.jpeg"
 
 - date: 9. July 2021
   headline: We are grateful for a new NSF grant to support our heterogeneous computing research (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2126672">CCF-2126672</a>)!
+  image: "images/logopic/nsf.png"
 
 - date: 24. June 2021
   headline: Our paper, <q>An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</q>, is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
 
 - date: 11. June 2021
   headline: Prof Huang gives a talk, <q><a href="talks/HeteroTime-Nvidia-21.pdf">GPU-accelerated Static Timing Analysis</a></q> to Nvidia Research.
+  image: "images/logopic/nvidia-logo.png"
 
 - date: 24. May 2021
   headline: Guannan Guo starts his summer internship in <a href='https://www.ibm.com/'>IBM</a> at Poughkeepsie New York, NY.
+  image: "images/logopic/ibm-logo.png"
 
 - date: 17. May 2021
   headline: Dian-Lun Lin starts his summer internship in <a href='https://www.nvidia.com/en-us/research/'>Nvidia Research</a> at Austin, TX.
+  image: "images/logopic/nvidia-logo.png"
 
 - date: 17. May 2021
   headline: Cheng-Hsiang Chiu starts his summer internship in <a href='https://www.cadence.com/en_US/home.html'>Cadence Design Systems</a> at Austin, TX.
+  image: "images/logopic/cadence-logo.jpeg"
 
 - date: 14. May 2021
   headline: We are grateful for a new <a href="https://numfocus.org/programs/small-development-grants">NumFOCUS Grant r1</a> to support developing sanitizing algorithms in Taskflow!
+  image: "images/logopic/NumFocus.png"
 
 - date: 10. May 2021
   headline: Prof Huang gives a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
+  image: "images/logopic/cppnow-logo.png"
 
 - date: 25. April 2021
   headline: Our paper, <q>Efficient GPU Computation using Task Graph Parallelism</q>, is accepted by <a href="https://2021.euro-par.org/">2021 Euro-Par</a>.
@@ -93,6 +115,7 @@
 
 - date: 21. March 2021
   headline: Prof Huang gives a talk, <q><a href="talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a></q>, to UCSC EDA Seminar.
+  image: "images/logopic/ucsc-logo.png"
 
 - date: 20. March 2021
   headline: Prof Huang servces on the chair of <a href="http://iccad-contest.org/2021/">2021 ICCAD CAD Contest</a>.
@@ -172,5 +195,6 @@
 
 - date: 1. July 2019
   headline: Prof Huang launches the research group in the University of Utah.
+  image: "images/logopic/utah-logo.jpeg"
 
 
