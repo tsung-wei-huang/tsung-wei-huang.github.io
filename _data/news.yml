@@ -112,6 +112,7 @@
 
 - date: 10. April 2021
   headline: Prof Huang gives a talk, <q><a href="talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a></q>, 2021 GTC.
+  image: "images/logopic/gtc-logo.png"
 
 - date: 21. March 2021
   headline: Prof Huang gives a talk, <q><a href="talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a></q>, to UCSC EDA Seminar.
@@ -135,6 +136,7 @@
 
 - date: 20. Oct 2020
   headline: Prof Huang gives a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 CppCon
+  image: "images/logopic/cppcon-logo.png"
 
 - date: 20. Oct 2020
   headline: Prof Huang gives a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to CppIndia
@@ -151,9 +153,6 @@
 - date: 31. Aug 2020
   headline: Dian-Lun Lin's machine learning paper won the <a href="http://graphchallenge.mit.edu/champions">Champion Award of 2020 HPEC Graph Challenge</a>.
 
-- date: 12. Aug 2020
-  headline: Taskflow is accepted by the 2020 CPP Conference.
-  
 - date: 14. July 2020
   headline: Three papers are accepted by 2020 IEEE/ACM ICCAD.
 
@@ -183,12 +182,14 @@
 
 - date: 24. Oct 2019
   headline: Taskflow receives the 2nd Place in 2019 ACM Multimedia Conference Open-Source Software Competition.
+  image: "images/logopic/acmmm-osc-19.jpeg"
 
 - date: 6. Aug 2019
   headline: Prof Huang serves on chair of <a href="https://www.sigda.org/sigda-events/cadathlon/">2019 SIGDA CADathlon International Programming Contest</a>.
 
 - date: 15. July 2019
   headline: One paper is accepted by <a href="https://2019.acmmm.org/">2019 ACM Multimedia Conference</a>.
+  image: "images/logopic/ACMMM19-logo.jpeg"
 
 - date: 2. July 2019
   headline: One paper is accepted by <a href="http://ieee-hpec.org/2019/">2019 IEEE HPEC</a>.
