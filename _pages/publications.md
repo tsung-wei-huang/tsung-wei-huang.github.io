@@ -252,7 +252,7 @@ permalink: /publications/
   <li>Jia-Wei Chang, Tsung-Wei Huang, and Tsung-Yi Ho, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC_2012pdf">An ILP-based Obstacle-Avoiding Routing Algorithm for Pin-Constrained EWOD Chips</a>," 
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, pp. 67-72, Sydney, Australia, 2012 <br>
-  <a href="https://ieeexplore.ieee.org/document/6634553" class="badge badge-primary">DOI: 10.1109/TCAD.2013.2269767</a>
+  <a href="https://ieeexplore.ieee.org/document/6165041" class="badge badge-primary">DOI: 10.1109/ASPDAC.2012.6165041</a>
   </li>
             
   <li>Tsung-Wei Huang, Tsung-Yi Ho, and K. Chakrabarty, 
