@@ -343,7 +343,7 @@ permalink: /publications/
 
 
   <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
-  "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming Systesm,"
+  "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9438696" class="badge badge-primary">DOI: 10.1109/TCAD.2021.3082507</a>
   </li>
