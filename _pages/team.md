@@ -64,10 +64,10 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
-  <p><span class="badge badge-dark">Research</span> {{ member.research }}</p>
+  <p>Research: {{ member.research }}</p>
   {% endif %}
   {% if member.intern %}
-  <p><span class="badge badge-info">Intern</span> {{ member.intern }}</p>
+  <p>Intern: {{ member.intern }}</p>
   {% endif %}
 </div>
 
@@ -104,7 +104,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
-  <p><span class="badge badge-dark">Research</span> {{ member.research }}</p>
+  <p>Research: {{ member.research }}</p>
   {% endif %}
 </div>
 
@@ -141,7 +141,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
-  <p><span class="badge badge-dark">Research</span> {{ member.research }}</p>
+  <p>Research: {{ member.research }}</p>
   <p>{{ member.experience }}</p>
   {% endif %}
 </div>
