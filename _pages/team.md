@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><b>Bio</b>: Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign. His research makes parallel and heterogeneous computing easier to handle, with a broad interest in scientific computing, machine learning, and design automation. He has created several open-source software (e.g., <a href="https://github.com/taskflow">Taskflow</a>, <a href="https://github.com/taskflow">OpenTimer</a>) that is being used by many people. His research is recognized by several prestigious awards, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, and Humboldt Research Fellowship Award.</p>
+  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign. His research makes parallel and heterogeneous computing easier to handle, with a broad interest in scientific computing, machine learning, and design automation. He has created several open-source software (e.g., <a href="https://github.com/taskflow">Taskflow</a>, <a href="https://github.com/taskflow">OpenTimer</a>) that is being used by many people. His research receives several awards, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, and Humboldt Research Fellowship Award.</p>
   </div>
 </div>
 
@@ -64,10 +64,10 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
-  <p>Research: {{ member.research }}</p>
+  <p><span class="badge badge-dark">Research</span> {{ member.research }}</p>
   {% endif %}
   {% if member.intern %}
-  <p>Intern: {{ member.intern }}</p>
+  <p><span class="badge badge-info">Intern</span> {{ member.intern }}</p>
   {% endif %}
 </div>
 
@@ -104,7 +104,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
-  <p>Research: {{ member.research }}</p>
+  <p><span class="badge badge-dark">Research</span> {{ member.research }}</p>
   {% endif %}
 </div>
 
@@ -141,7 +141,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   {% if member.research %}
-  <p>Research: {{ member.research }}</p>
+  <p><span class="badge badge-dark">Research</span> {{ member.research }}</p>
   <p>{{ member.experience }}</p>
   {% endif %}
 </div>
