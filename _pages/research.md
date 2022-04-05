@@ -70,11 +70,11 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <div class="row">
 <div class="col-sm-6">
-  <h4>Taskflow at CppCon</h4>
+  <h4 class="badge badge-primary">Taskflow at CppCon</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MX15huP5DsM" allowfullscreen></iframe></div>
 </div>
 <div class="col-sm-6">
-  <h4>cudaFlow at CppCon</h4>
+  <h4 class="badge badge-primary">cudaFlow at CppCon</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-tIQbIhTAv8" allowfullscreen></iframe></div>
 </div>
 </div>

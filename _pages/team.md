@@ -187,7 +187,7 @@ We collaborate with many people from industry, academia, and government agencies
 You can work with people around the world to explore different research ideas.
 After you leave our group, you will be ready for many job opportunities
 in both software and hardware companies.
-For instance, my students have been working in Nvidia, Intel, Cadence, IBM, etc.
+For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys, IBM, etc.
 </p>
 
 <div class="row align-items-center">
