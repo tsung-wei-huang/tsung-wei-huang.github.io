@@ -140,7 +140,7 @@ permalink: /publications/
   <i>ACM Multimedia Conference (MM)</i>, pp. 2285-2287, Nice, France, 2019 <br> 
   <a href="https://dl.acm.org/doi/10.1145/3343031.3350537" class="badge badge-primary">DOI: 10.1145/3343031.3350537</a>
   <span class="badge badge-info">Acceptance Rate: 26.9%</span>
-  <span class="badge badge-warning">Second Prize of Open Source Software Competition</span>
+  <span class="badge badge-warning">Second Prize Open Source Software Award</span>
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, Guannan Guo, and Martin Wong,
