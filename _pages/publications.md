@@ -28,7 +28,9 @@ permalink: /publications/
   <li>Tsung-Wei Huang and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/HIPS22.pdf">Concurrent CPU-GPU Task Programming using Modern C++</a>," <i>IEEE International Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS)</i>, France, 2022</li>
 
   <li>Kexing Zhou, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/aspdac-22.pdf">Efficient Critical Paths Search Algorithm using Mergeable Heap</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Taiwan, 2022 <br>
-  <a href="https://ieeexplore.ieee.org/document/9712566" class="badge badge-primary">DOI: 10.1109/ASP-DAC52403.2022.9712566</a></li>
+  <a href="https://ieeexplore.ieee.org/document/9712566" class="badge badge-primary">DOI: 10.1109/ASP-DAC52403.2022.9712566</a>
+  <span class="badge badge-info">Acceptance Rate: 30.6%</span>
+  </li>
 
   <li>McKay Mower, Luke Majors, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/espm2-21.pdf">Taskflow-San: Sanitizing Erroneous Control Flow in Taskflow Programs</a>," <i>IEEE Workshop on Extreme Scale Programming Models and Middleware (ESPM2)</i>, St. Louis, Missouri, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9651218" class="badge badge-primary">DOI: 10.1109/ESPM254806.2021.00009</a></li>
