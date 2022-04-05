@@ -35,6 +35,7 @@ permalink: /publications/
 
   <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/protool-21.pdf">TFProf: Profiling Large Taskflow Programs with Modern D3 and C++</a>," <i>IEEE International Workshop on Programming and Performance Visualization Tools (ProTools)</i>, St. Louis, Missouri, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9651224" class="badge badge-primary">DOI: 10.1109/ProTools54808.2021.00006</a>
+  <a href="https://taskflow.github.io/tfprof/" class="badge badge-success">GitHub</a>
   </li>
   
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/heterocppr-iccad-21.pdf">HeteroCPPR: Accelerating Common Path Pessimism Removal with Heterogeneous CPU-GPU Parallelism</a>," 
@@ -105,6 +106,7 @@ permalink: /publications/
   <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2020 <br>
   <a href="https://ieeexplore.ieee.org/document/9286218" class="badge badge-primary">DOI: 10.1109/HPEC43674.2020.9286218</a>
   <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Champion Award</a>
+  <a href="https://github.com/dian-lun-lin/SNIG" class="badge badge-success">GitHub</a>
   </li>
   
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
@@ -154,6 +156,7 @@ permalink: /publications/
   <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, pp. 974-983, Rio de Janeiro, Brazil, 2019 <br>
   <a href="https://ieeexplore.ieee.org/document/8821011" class="badge badge-primary">DOI: 10.1109/IPDPS.2019.00105</a>
   <span class="badge badge-info">Acceptance Rate: 27.7%</span>
+  <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
   </li>
   
   <li>Kuan-Ming Lai, Tsung-Wei Huang, and Tsung-Yi Ho,
@@ -216,6 +219,7 @@ permalink: /publications/
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, pp. 1-6, Austin, TX, 2017 <br>
   <a href="https://dl.acm.org/doi/10.1145/3061639.3062274" class="badge badge-primary">DOI: 10.1145/3061639.3062274</a>
   <span class="badge badge-info">Acceptance Rate: 22.4%</span>
+  <a href="https://sites.google.com/site/taucontest2016/" class="badge badge-warning">First Place of TAU'16 Contest</a>
   </li>
   
   <li>Tsung-Wei Huang, Martin Wong, D. Sinha, K. Kalafala, and N. Venkateswaran,
@@ -229,6 +233,8 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, pp. 895-902, Austin, TX, 2015 <br>
   <a href="https://dl.acm.org/doi/10.5555/2840819.2840944" class="badge badge-primary">DOI: 10.5555/2840819.2840944</a>
   <span class="badge badge-info">Acceptance Rate: 24.6%</span>
+  <a href="https://sites.google.com/site/taucontest2015" class="badge badge-warning">Second Place of TAU'15 Contest</a>
+  <a href="https://github.com/OpenTimer/OpenTimer" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang and Martin Wong,
@@ -249,6 +255,7 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>, pp. 596-599, San Jose, CA, 2014 <br>
   <a href="https://dl.acm.org/doi/10.5555/2691365.2691487" class="badge badge-primary">DOI: 10.5555/2691365.2691487</a>
   <span class="badge badge-info">Acceptance Rate: 24%</span>
+  <a href="https://sites.google.com/site/taucontest2014" class="badge badge-warning">First Place of TAU'14 Contest</a>
   </li>
                     
   <li>Tsung-Wei Huang, P.-C. Wu, and Martin Wong,
@@ -362,12 +369,14 @@ permalink: /publications/
   "Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism,"
   <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, accepted, 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9664223" class="badge badge-primary">DOI: 10.1109/TPDS.2021.3138856</a>
+  <a href="https://github.com/dian-lun-lin/SNIG" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, Dian-Lun Lin, Chun-Xun Lin, and Yibo Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds21-taskflow.pdf">Taskflow: A Lightweight Parallel and Heterogeneous Task Graph Computing System</a>,"
   <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 6, pp. 1303-1320, June 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9511796" class="badge badge-primary">DOI: 10.1109/TPDS.2021.3104255</a>
+  <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
   </li>
   
   <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," 
@@ -385,24 +394,28 @@ permalink: /publications/
   "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9438696" class="badge badge-primary">DOI: 10.1109/TCAD.2021.3082507</a>
+  <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, Yibo Lin, Chun-Xun Lin, Guannan Guo, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-taskflow.pdf">Cpp-Taskflow: A General-purpose Parallel Task Programming System at Scale</a>,"
   <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 8, pp. 1687-1700, Aug. 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9200667" class="badge badge-primary">DOI: 10.1109/TCAD.2020.3025075</a>
+  <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, Guannan Guo, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad21-ot2.pdf">OpenTimer v2: A New Parallel Incremental Timing Analysis Engine</a>,"
   <i>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 40, no. 4, pp. 776-789, April 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9134386" class="badge badge-primary">DOI: 10.1109/TCAD.2020.3007319</a>
+  <a href="https://github.com/OpenTimer/OpenTimer" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dat21-ot2.pdf">OpenTimer v2: A Parallel Incremental Timing Analysis Engine</a>,"
   <i>IEEE Design and Test (DAT)</i>, vol. 38, no. 2, pp. 62-68, April 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9314065" class="badge badge-primary">DOI: 10.1109/MDAT.2021.3049177</a>
+  <a href="https://github.com/OpenTimer/OpenTimer" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
