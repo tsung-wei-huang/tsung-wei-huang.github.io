@@ -10,7 +10,7 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 
-<span class="badge badge-primary">{{ article.date }}</span>
+<span class="badge-pill badge-info">{{ article.date }}</span>
 <p><em>{{ article.headline }}</em></p>
 
 {% if article.image %}

@@ -2,7 +2,7 @@
 <h4>News</h4>
 
 {% for article in site.data.news limit:8 %}
-<span class="badge badge-primary"> {{ article.date }} </span>
+<span class="badge-pill badge-info"> {{ article.date }} </span>
 <p>{{ article.headline }}</p>
 {% endfor %}
 
