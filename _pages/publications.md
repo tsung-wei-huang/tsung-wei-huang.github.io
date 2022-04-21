@@ -30,7 +30,7 @@ permalink: /publications/
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
   "Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
   <a href="https://doi.org/10.1145/3489517.3530616" class="badge badge-primary">DOI: 10.1145/3489517.3530616</a>
-  <span class="badge badge-secondary">Acceptance Rate (LBR): 20%</span>
+  <span class="badge badge-secondary">Acceptance Rate: 20%</span>
   </li>
 
   <li>Tsung-Wei Huang and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/HIPS22.pdf">Concurrent CPU-GPU Task Programming using Modern C++</a>," <i>IEEE International Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS)</i>, France, 2022</li>
@@ -379,7 +379,7 @@ permalink: /publications/
 <ol>
   <li>Dian-Lun Lin and Tsung-Wei Huang,
   "Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism,"
-  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, accepted, 2022 <br>
+  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, to appear in 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9664223" class="badge badge-primary">DOI: 10.1109/TPDS.2021.3138856</a>
   <a href="https://github.com/dian-lun-lin/SNIG" class="badge badge-success">GitHub</a>
   </li>
@@ -392,19 +392,19 @@ permalink: /publications/
   </li>
   
   <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," 
-  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021 <br>
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear in 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9598820" class="badge badge-primary">DOI: 10.1109/TCAD.2021.3124758</a>
   </li>
 
   <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/jmir-21.pdf">Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study</a>," 
-  <i>Journal of Medical Internet Research (JMIR)</i>, accepted, 2021 <br>
+  <i>Journal of Medical Internet Research (JMIR)</i>, to appear in 2022 <br>
   <a href="https://doi.org/10.2196/28036" class="badge badge-primary">DOI: 10.2196/28036</a>
   </li>
 
 
   <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
   "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System,"
-  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, accepted, 2021 <br>
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 41, no. 5, pp. 1448-1452, May 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9438696" class="badge badge-primary">DOI: 10.1109/TCAD.2021.3082507</a>
   <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
   </li>
