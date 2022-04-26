@@ -28,6 +28,7 @@ permalink: /publications/
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, "Composing Pipeline Parallelism using Control Taskflow Graph," <i>ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)</i>, Minneapolis, Minnesota, 2022
   <a href="https://doi.org/10.1145/3502181.3533714" class="badge badge-primary">DOI: 10.1145/3502181.3533714</a>
   <span class="badge badge-secondary">Acceptance Rate: 19%</span>
+  <a href="https://taskflow.github.io/taskflow/ParallelPipeline.html" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
