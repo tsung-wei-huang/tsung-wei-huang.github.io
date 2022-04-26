@@ -25,7 +25,10 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, "Composing Pipeline Parallelism using Control Taskflow Graph," <i>ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)</i>, Minneapolis, Minnesota, 2022</li>
+  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, "Composing Pipeline Parallelism using Control Taskflow Graph," <i>ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)</i>, Minneapolis, Minnesota, 2022
+  <a href="https://doi.org/10.1145/3502181.3533714" class="badge badge-primary">DOI: 10.1145/3502181.3533714</a>
+  <span class="badge badge-secondary">Acceptance Rate: 19%</span>
+  </li>
 
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
   "Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
