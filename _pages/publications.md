@@ -32,7 +32,7 @@ permalink: /publications/
   </li>
 
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
-  "Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac2022.pdf">Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms,</a>" <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
   <a href="https://doi.org/10.1145/3489517.3530616" class="badge badge-primary">DOI: 10.1145/3489517.3530616</a>
   <span class="badge badge-secondary">Acceptance Rate: 20%</span>
   </li>
