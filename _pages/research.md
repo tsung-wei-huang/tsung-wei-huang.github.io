@@ -15,7 +15,8 @@ We have released several open-source software
 (<a href="https://taskflow.github.io/">Taskflow</a>,
 <a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
 <a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
-<a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>)
+<a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
+<a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
 that is being used by many industrial and academic projects 
 (>1M downloads & 5000+ GitHub stars).
 Our research is framed by three themes:
@@ -101,6 +102,18 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
   <div class="col-md-10 col-sm-10">
   <h4><a href="https://github.com/OpenTimer/OpenTimer">OpenTimer: A High-performance Timing Analysis Tool for VLSI Systems</a></h4>
   <p>OpenTimer helps electronic design automation tool researchers and developers quickly analyze the timing of large circuit designs.</p>
+  </div>
+</div>
+
+<div class="row row-padded align-items-center">
+  <div class="col-md-2 col-sm-2 masthead">
+  <div style="max-width: 100px; display: inline-block; text-align: center;">
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rtlflow-logo.png" style="width: 100%;"></p>
+  </div>
+  </div>
+  <div class="col-md-10 col-sm-10">
+  <h4><a href="https://github.com/dian-lun-lin/RTLflow">RTLflow: A GPU Acceleration Flow for RTL Simulation with Stimulus Batches</a></h4>
+  <p>RTLflow helps circuit designers quickly simulate RTL designs using automatically generated C++ and CUDA code on a high-throughput GPU platform.</p>
   </div>
 </div>
 
