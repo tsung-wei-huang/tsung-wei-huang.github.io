@@ -89,6 +89,9 @@ We are grateful for funding from [University of Utah](https://www.ece.utah.edu/)
   <div class="col-md-4 col-sm-4">
   <a href="https://numfocus.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NumFocus.png" style="width: 100%;"></a>
   </div>
+  <div class="col-md-4 col-sm-4">
+  <a href="https://summerofcode.withgoogle.com/programs/2022/projects/FgTgRVLt"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gsoc.png" style="width: 100%;"></a>
+  </div>
 </div>
 
 

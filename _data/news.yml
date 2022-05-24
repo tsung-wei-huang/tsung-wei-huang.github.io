@@ -1,3 +1,11 @@
+- date: 23. May 2022
+  headline: Thank you, Google Summer of Code, for supporting our Taskflow project to enhance the pipeline programming model! Project details can be found at <a href="https://summerofcode.withgoogle.com/programs/2022/projects/FgTgRVLt">here</a> (contributor&#58; Xiong Zhicheng). 
+  image: "images/logopic/gsoc.png"
+
+- date: 21. May 2022
+  headline: Prof Huang receives ACM SIGDA Meritorious Service Award! The award will be presented at the 2022 ACM/IEEE Design Automation Conference at San Francisco. 
+  image: "images/logopic/sigda-logo.jpeg"
+
 - date: 14. April 2022
   headline: We are grateful for receiving an NSF REU Grant to support undergraduate research on parallel computing! Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> if you (an undergraduate in the University of Utah) are interested. 
   image: "images/logopic/nsf-reu.jpeg"
