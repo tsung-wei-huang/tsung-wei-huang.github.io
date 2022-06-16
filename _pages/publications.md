@@ -25,7 +25,12 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, "Composing Pipeline Parallelism using Control Taskflow Graph," <i>ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)</i>, Minneapolis, Minnesota, 2022
+  <li>Dian-Lun Lin, Haoxing Ren, Yanqing Zhang, and Tsung-Wei Huang, "From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Bordeaux, France, 2022<br>
+  <span class="badge badge-secondary">27%</span>
+  <a href="https://github.com/dian-lun-lin/RTLflow" class="badge badge-success">GitHub</a>
+  </li>
+
+  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, "Composing Pipeline Parallelism using Control Taskflow Graph," <i>ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC)</i>, Minneapolis, Minnesota, 2022 <br>
   <a href="https://doi.org/10.1145/3502181.3533714" class="badge badge-primary">10.1145/3502181.3533714</a>
   <span class="badge badge-secondary">19%</span>
   <a href="https://taskflow.github.io/taskflow/ParallelPipeline.html" class="badge badge-success">GitHub</a>
