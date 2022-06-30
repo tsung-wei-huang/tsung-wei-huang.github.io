@@ -26,6 +26,7 @@ permalink: /publications/
 
 <ol>
   <li>Dian-Lun Lin, Haoxing Ren, Yanqing Zhang, and Tsung-Wei Huang, "From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Bordeaux, France, 2022<br>
+  <a href="https://doi.org/10.1145/3545008.3545091" class="badge badge-primary">10.1145/3545008.3545091</a>
   <span class="badge badge-secondary">27%</span>
   <a href="https://github.com/dian-lun-lin/RTLflow" class="badge badge-success">GitHub</a>
   </li>
@@ -38,7 +39,7 @@ permalink: /publications/
 
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac2022.pdf">Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms,</a>" <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
-  <a href="https://doi.org/10.1145/3489517.3530616" class="badge badge-primary">DOI: 10.1145/3489517.3530616</a>
+  <a href="https://doi.org/10.1145/3489517.3530616" class="badge badge-primary">10.1145/3489517.3530616</a>
   <span class="badge badge-secondary">20%</span>
   </li>
 
