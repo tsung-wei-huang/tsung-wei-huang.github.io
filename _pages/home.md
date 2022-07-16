@@ -11,9 +11,20 @@ permalink: /
 We are a research group supervised by [Prof Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
 in the <a href="https://www.utah.edu/">University of Utah</a>.
-Our group creates novel software systems to streamline the building of high-performance
-scientific computing applications.
+Our group creates novel software systems
+(e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
+<a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
+<a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
+<a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
+<a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
+to streamline the building of high-performance
+computing applications.
 
+<center><div style="max-width: 400px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p.png"  class="rounded" style="max-width: 100%">
+</div></center>
+
+<!--
 <div class="row row-padded align-items-center">
   <div class="col-md-12">
   <img src="{{ site.url }}{{ site.baseurl }}/images/slider/utah-campus-spring.jpeg" style="width: 100%;">
@@ -21,12 +32,12 @@ scientific computing applications.
 </div>
 
 Our educational habitat is breathtakingly beautiful,
-situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range">Wasatch Mountains</a> in the state's <a href="https://www.visitsaltlake.com/">Salt Lake City</a>.
+situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range">Wasatch Mountains</a> in the state's <a href="https://www.visitsaltlake.com/">Salt Lake City</a>.-->
 
 
 <h2>Join us!</h2>
 
-We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning computing algorithms**.
+We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning systems**.
 My students have been collaborating and working with many companies,
 such as Nvidia, Intel, Cadence, Synopsys, IBM, and so on.
 

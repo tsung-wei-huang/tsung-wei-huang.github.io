@@ -22,6 +22,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"Intelligent Heterogeneous Computing," AMD Research, June 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Department, Johns Hopkins University, March 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Distinguished Lecture, Stevens Institute of Technology, Feb 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Department, University of Minnesota, Feb 2022</li>

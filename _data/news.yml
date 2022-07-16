@@ -1,6 +1,14 @@
+- date: 16. July 2022
+  headline: Prof Huang received ACM SIGDA Meritorious Service Award, presented at the 2022 ACM/IEEE Design Automation Conference at San Francisco. 
+  image: "images/newspic/sigda_service_award_2022.jpeg"
+
 - date: 26. June 2022
   headline: We are grateful for a new NSF grant to support our high-performance computing (HPC) research (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2209957">OAC-2209957</a>)!
   image: "images/logopic/nsf.png"
+
+- date: 21. June 2022
+  headline: Prof Huang gave a talk, <i>Intelligent Heterogeneous Computing</i>, to AMD Research.
+  image: "images/logopic/amd-logo.png"
 
 - date: 16. June 2022
   headline: Dian-Luan's paper is accepted by 2022 ACM International Conference on Parallel Processing (ICPP)! This year is very competitive with only 27% acceptance rate.
@@ -9,10 +17,6 @@
 - date: 23. May 2022
   headline: Thank you, Google Summer of Code, for supporting our Taskflow project to enhance the pipeline programming model! Project details can be found at <a href="https://summerofcode.withgoogle.com/programs/2022/projects/FgTgRVLt">here</a> (contributor&#58; Xiong Zhicheng). 
   image: "images/logopic/gsoc.png"
-
-- date: 21. May 2022
-  headline: Prof Huang receives ACM SIGDA Meritorious Service Award! The award will be presented at the 2022 ACM/IEEE Design Automation Conference at San Francisco. 
-  image: "images/logopic/sigda-logo.jpeg"
 
 - date: 14. April 2022
   headline: We are grateful for receiving an NSF REU Grant to support undergraduate research on parallel computing! Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> if you (an undergraduate in the University of Utah) are interested. 
@@ -27,15 +31,15 @@
   image: "images/logopic/summer22-intern.png"
 
 - date: 15. March 2022
-  headline: Prof Huang receives the prestigious Humboldt Research Fellowship for experienced researchers, hosted by the Technical University of Munich (TUM)!
+  headline: Prof Huang received the prestigious Humboldt Research Fellowship for experienced researchers, hosted by the Technical University of Munich (TUM)!
   image: "images/logopic/avh-logo.png"
 
 - date: 16. Feb 2022
-  headline: Prof Huang gives a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Distinguished Lecture at the Stevens Institute of Technology.
+  headline: Prof Huang gave a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Distinguished Lecture at the Stevens Institute of Technology.
   image: "images/logopic/sit-logo.png"
 
 - date: 8. Feb 2022
-  headline: Prof Huang gives a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Department at the University of Minnesota.
+  headline: Prof Huang gave a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Department at the University of Minnesota.
   image: "images/logopic/umn-logo.png"
 
 - date: 11. Jan 2022
@@ -80,7 +84,7 @@
   headline: We have three papers accepted by 2021 IEEE/ACM ICCAD!
 
 - date: 17. Aug 2021
-  headline: Prof Huang gives a talk, <q><a href="talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; A General-purpose Parallel and Heterogeneous Task Computing System</a></q> to <a href="https://www.cse.cuhk.edu.hk/~fyyoung/">Evangeline F. Y. Young</a>'s research group at the Chinese University of Hong Kong.
+  headline: Prof Huang gave a talk, <q><a href="talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; A General-purpose Parallel and Heterogeneous Task Computing System</a></q> to <a href="https://www.cse.cuhk.edu.hk/~fyyoung/">Evangeline F. Y. Young</a>'s research group at the Chinese University of Hong Kong.
   image: "images/logopic/cuhk-logo.png"
 
 - date: 9. Aug 2021
@@ -95,7 +99,7 @@
   image: "images/logopic/NumFocus.png"
 
 - date: 9. July 2021
-  headline: Yasin Zamani gives a talk, <q><a href="talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a></q> to Cadence.
+  headline: Yasin Zamani gave a talk, <q><a href="talks/yasin_gpu_sta_talk_cadence_21.pdf">General Heterogeneous Framework for Path-based Timing Analysis</a></q> to Cadence.
   image: "images/logopic/cadence-logo.jpeg"
 
 - date: 9. July 2021
@@ -106,7 +110,7 @@
   headline: Our paper, <q>An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</q>, is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
 
 - date: 11. June 2021
-  headline: Prof Huang gives a talk, <q><a href="talks/HeteroTime-Nvidia-21.pdf">GPU-accelerated Static Timing Analysis</a></q> to Nvidia Research.
+  headline: Prof Huang gave a talk, <q><a href="talks/HeteroTime-Nvidia-21.pdf">GPU-accelerated Static Timing Analysis</a></q> to Nvidia Research.
   image: "images/logopic/nvidia-logo.png"
 
 - date: 24. May 2021
@@ -126,7 +130,7 @@
   image: "images/logopic/NumFocus.png"
 
 - date: 10. May 2021
-  headline: Prof Huang gives a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
+  headline: Prof Huang gave a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
   image: "images/logopic/cppnow-logo.png"
 
 - date: 25. April 2021
@@ -136,14 +140,14 @@
   headline: Prof Huang servces on the track chair of <a href="https://iccad.com/index.php">2021 IEEE/ACM ICCAD</a>.
 
 - date: 18. April 2021
-  headline: Prof Huang gives a talk, <q><a href="talks/vlsi-dat-21.pdf">Machine Learning System-enabled GPU Acceleration for EDA</a></q>, to 2021 VLSI-DAT.
+  headline: Prof Huang gave a talk, <q><a href="talks/vlsi-dat-21.pdf">Machine Learning System-enabled GPU Acceleration for EDA</a></q>, to 2021 VLSI-DAT.
 
 - date: 10. April 2021
-  headline: Prof Huang gives a talk, <q><a href="talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a></q>, 2021 GTC.
+  headline: Prof Huang gave a talk, <q><a href="talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a></q>, 2021 GTC.
   image: "images/logopic/gtc-logo.png"
 
 - date: 21. March 2021
-  headline: Prof Huang gives a talk, <q><a href="talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a></q>, to UCSC EDA Seminar.
+  headline: Prof Huang gave a talk, <q><a href="talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a></q>, to UCSC EDA Seminar.
   image: "images/logopic/ucsc-logo.png"
 
 - date: 20. March 2021
@@ -153,21 +157,21 @@
   headline: Guannan and Prof Huang receive the Best Paper Award in <a href="https://www.tauworkshop.com/2021/default.shtml">2021 TAU Workshop</a>.
 
 - date: 30. Oct 2020
-  headline: Prof Huang gives a talk, <q><a href="talks/cie-gnyc-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a></q>, to CIE/USA-GNYC
+  headline: Prof Huang gave a talk, <q><a href="talks/cie-gnyc-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a></q>, to CIE/USA-GNYC
 
 - date: 25. Oct 2020
-  headline: Prof Huang gives a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to C++ Programmer Meetup
+  headline: Prof Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to C++ Programmer Meetup
 
 - date: 24. Oct 2020
-  headline: Prof Huang gives a talk, <q><a href="talks/muc++-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 MUC++ Meetup
+  headline: Prof Huang gave a talk, <q><a href="talks/muc++-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 MUC++ Meetup
 
 
 - date: 20. Oct 2020
-  headline: Prof Huang gives a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 CppCon
+  headline: Prof Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 CppCon
   image: "images/logopic/cppcon-logo.png"
 
 - date: 20. Oct 2020
-  headline: Prof Huang gives a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to CppIndia
+  headline: Prof Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to CppIndia
 
 - date: 24. Sep 2020
   headline: Our paper, <q>An Efficient Work-Stealing Scheduler for Task Dependency Graph</q>, is accepted by <a href="https://icpads2020.comp.polyu.edu.hk/">2020 IEEE ICPADS</a>.
@@ -197,7 +201,7 @@
   headline: Prof Huang serves on the program committee of 2020 IEEE/ACM ASPDAC.
 
 - date: 30. March 2020
-  headline: Prof Huang gives a talk, <q><a href="talks/ornl-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System at Scale</a></q>, to the Future Technology Group at Oak Ridge National Laboratory.
+  headline: Prof Huang gave a talk, <q><a href="talks/ornl-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System at Scale</a></q>, to the Future Technology Group at Oak Ridge National Laboratory.
 
 - date: 10. Feb 2020
   headline: One paper is accepted by <a href="https://www.dac.com/">2020 IEEE/ACM DAC</a>.
@@ -206,10 +210,10 @@
   headline: Prof Huang serves on the co-chair of <a href="http://iccad-contest.org/2020/">2020 ICCAD CAD Contest</a>.
 
 - date: 7. Nov 2019
-  headline: Prof Huang gives a talk, <q><a href="talks/woset19.pdf">Growing Your Open-Source Projects</a></q>, at <a href="https://woset-workshop.github.io/WOSET2019.html">2019 WOSET</a>.
+  headline: Prof Huang gave a talk, <q><a href="talks/woset19.pdf">Growing Your Open-Source Projects</a></q>, at <a href="https://woset-workshop.github.io/WOSET2019.html">2019 WOSET</a>.
 
 - date: 24. Oct 2019
-  headline: Taskflow receives the 2nd Place in 2019 ACM Multimedia Conference Open-Source Software Competition.
+  headline: Taskflow received the 2nd Place in 2019 ACM Multimedia Conference Open-Source Software Competition.
   image: "images/logopic/acmmm-osc-19.jpeg"
 
 - date: 6. Aug 2019

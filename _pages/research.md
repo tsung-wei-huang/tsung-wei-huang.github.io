@@ -12,7 +12,7 @@ Our overarching goal is to create novel software systems to streamline the imple
 parallel and heterogeneous programs. We focus on a multidisciplinary area of scientific computing,
 electronic design automation, and machine learning.
 We have released several open-source software
-(<a href="https://taskflow.github.io/">Taskflow</a>,
+(e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
 <a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
 <a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
 <a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
@@ -23,7 +23,7 @@ Our research is framed by three themes:
 
 + [Theme #1: Parallel Programming Environments](#theme-1-parallel-programming-environments)
 + [Theme #2: VLSI Electronic Design Automation](#theme-2-vlsi-electronic-design-automation)
-+ [Theme #3: Machine Learning Kernels Acceleration](#theme-3-machine-learning-kernels-acceleration)
++ [Theme #3: Machine Learning Systems](#theme-3-machine-learning-systems)
 
 <hr>
 
@@ -120,7 +120,7 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
 
 <hr>
 
-### Theme 3: Machine Learning Kernels Acceleration
+### Theme 3: Machine Learning Systems
 
 **Research Question**: *How can we accelerate machine learning kernels in large-scale inference and training workloads using modern heterogeneous computing techniques?*
 
