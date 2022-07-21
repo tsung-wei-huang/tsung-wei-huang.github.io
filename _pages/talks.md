@@ -22,6 +22,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"A GPU Acceleration Flow for RTL Simulation with Batch Stimulus," IWLS Special Session, July 2022</li>
 <li>"Intelligent Heterogeneous Computing," AMD Research, June 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Department, Johns Hopkins University, March 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Distinguished Lecture, Stevens Institute of Technology, Feb 2022</li>
