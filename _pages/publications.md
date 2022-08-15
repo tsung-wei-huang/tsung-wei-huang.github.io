@@ -389,8 +389,8 @@ permalink: /publications/
 
 <ol>
   <li>Dian-Lun Lin and Tsung-Wei Huang,
-  "Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism,"
-  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, to appear in 2022 <br>
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds22-snig.pdf">Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism</a>,"
+  <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 11, pp. 3041-3052, Nov 2022<br>
   <a href="https://ieeexplore.ieee.org/document/9664223" class="badge badge-primary">10.1109/TPDS.2021.3138856</a>
   <a href="https://github.com/dian-lun-lin/SNIG" class="badge badge-success">GitHub</a>
   </li>
