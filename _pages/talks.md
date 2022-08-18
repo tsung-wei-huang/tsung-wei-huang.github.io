@@ -22,6 +22,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/xilinx-22.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a>," AMD Vivado Team, Aug 2022</li>
 <li>"A GPU Acceleration Flow for RTL Simulation with Batch Stimulus," IWLS Special Session, July 2022</li>
 <li>"Intelligent Heterogeneous Computing," AMD Research, June 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Department, Johns Hopkins University, March 2022</li>
