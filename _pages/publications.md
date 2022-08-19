@@ -25,7 +25,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Tsung-Wei Huang, "Task-Parallel Programming with Constrained Parallelism," 
+  <li>Tsung-Wei Huang and Leslie Hwang, "Task-Parallel Programming with Constrained Parallelism," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
   <a href="https://taskflow.github.io/taskflow/LimitTheMaximumConcurrency.html" class="badge badge-success">GitHub</a>
   </li>
