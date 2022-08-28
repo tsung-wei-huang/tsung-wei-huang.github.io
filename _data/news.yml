@@ -1,3 +1,7 @@
+- date: 10. Aug 2022
+  headline: Prof Huang gave a talk, <i>A General-purpose Parallel and Heterogeneous Task Programming System,</i>, to AMD Vivado Team.
+  image: "images/logopic/amd-logo.png"
+
 - date: 20. July 2022
   headline: Prof Huang gave a talk about our research on GPU-acceleration for circuit simulation to 2022 International Workshop on Logic & Synthesis (IWLS). 
   image: "images/logopic/iwls-logo.jpeg"
