@@ -1,0 +1,13 @@
+- name: McKay Mower
+  photo: mckay_mower.jpg
+  info: Fall 2022--present
+  email: mmower777@gmail.com
+  number_educ: 1
+  research: Graph algorithms, performance prediction
+  education1: BS&colon; University of Utah
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest.
+  email: milan.allan@gmail.com
+  number_educ: 0

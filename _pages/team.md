@@ -85,6 +85,41 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 </div>
 {% endif %}
 
+<hr>
+
+<!-- Master Students -->
+
+## Master Students
+{% assign number_printed = 0 %}
+{% for member in site.data.ms_students %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  {% if member.research %}
+  <p>Research: {{ member.research }}</p>
+  {% endif %}
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
 
 <hr>
 
