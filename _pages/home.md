@@ -37,7 +37,7 @@ situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range
 
 <h2>Join us!</h2>
 
-We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel and heterogeneous computing**, **electronic design automation**, and **machine learning systems**.
+We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel and heterogeneous computing**, **computer-aided design**, and **machine learning systems**.
 My students have been collaborating and working with many companies,
 such as Nvidia, Intel, Cadence, Synopsys, IBM, and so on.
 
