@@ -1,3 +1,7 @@
+- date: 15. Sep 2022
+  headline: We are grateful for a new NSF grant to support building task-parallel programming ecosystem for modern scientific computing (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2229304">TI-2229304</a>)!
+  image: "images/logopic/nsf.png"
+
 - date: 2. Sep 2022
   headline: Prof Huang gave a talk, <i>Programming System for Building High-performance CAD Applications</i>, to Google X (The Moonshot Factory).
   image: "images/logopic/x-logo.png"
