@@ -20,8 +20,8 @@ Our group creates novel software systems
 to streamline the building of high-performance
 computing applications.
 
-<center><div style="max-width: 400px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p.png"  class="rounded" style="max-width: 100%">
+<center><div style="max-width: 600px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png"  class="rounded" style="max-width: 100%">
 </div></center>
 
 <!--
