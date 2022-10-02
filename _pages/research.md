@@ -8,9 +8,9 @@ permalink: /research/
 
 ## Research
 
-Our overarching goal is to create novel software systems to streamline the implementation of 
+Our overarching goal is to create novel software systems to streamline the implementation complexity of 
 parallel and heterogeneous programs. We focus on a multidisciplinary area of scientific computing,
-computer-aided design, and machine learning.
+quantum computing, computer-aided design, and machine learning.
 We have released several open-source software
 (e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
 <a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
@@ -19,11 +19,12 @@ We have released several open-source software
 <a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
 that is being used by many industrial and academic projects 
 (>1M downloads & 5000+ GitHub stars).
-Our research is framed by three themes:
+Our research is framed by the following themes:
 
 + [Theme #1: Parallel Programming Environments](#theme-1-parallel-programming-environments)
-+ [Theme #2: VLSI Computer-aided Design](#theme-2-vlsi-electronic-design-automation)
-+ [Theme #3: Machine Learning Systems](#theme-3-machine-learning-systems)
++ [Theme #2: Quantum Computing](#theme-2-quantum-computing)
++ [Theme #3: VLSI Computer-aided Design](#theme-3-vlsi-electronic-design-automation)
++ [Theme #4: Machine Learning Systems](#theme-4-machine-learning-systems)
 
 <hr>
 
@@ -82,7 +83,26 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <hr>
 
-### Theme 2: VLSI Electronic Design Automation
+### Theme 2: Quantum Computing
+
+**Research Question**: *How can we create fast and reliable software for researchers and developers to understand quantum operations and validate quantum circuit functionality?*
+
+<center><div style="max-width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_qc.png"  class="rounded" style="max-width: 100%">
+</div></center>
+
+Quantum computing (QC) is a promising computing paradigm for tackling certain types of problems that are classically intractable, such as cryptography, chemistry simulation, finance, and combinatorial optimization.
+Among various QC applications, classical software support for quantum circuit analysis and synthesis
+is essential for researchers to understand quantum algorithms and optimize quantum circuits.
+However, building such software is extremely challenging 
+because it demands large computation and memory to evaluate quantum operations.
+For example, simulating an n-qubit quantum circuits requires an exponential size of vector to store 2^n
+amplitudes, as a result of superposition.
+**Our research investigates new algorithms for quantum circuit simulation and optimization by leveraging the power of classical high-performance computing techniques.**
+
+<hr>
+
+### Theme 3: VLSI Electronic Design Automation
 
 **Research Question**: *How can we leverage emerging heterogeneous parallelism to speed up electronic design automation (EDA) algorithms and achieve order-of-magnitude performance breakthrough?*
 
@@ -120,7 +140,7 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
 
 <hr>
 
-### Theme 3: Machine Learning Systems
+### Theme 4: Machine Learning Systems
 
 **Research Question**: *How can we accelerate machine learning kernels in large-scale inference and training workloads using modern heterogeneous computing techniques?*
 
