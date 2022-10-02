@@ -22,6 +22,8 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series at Hong Kong, Sep 2022</li>
+<li>"Intelligent Heterogeneous Computing," CS Department, University of California at Merced, Sep 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/seminar-x-090222.pdf">Programming System for Building High-performance CAD Applications</a>," Google X, Sep 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/xilinx-22.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a>," AMD Vivado Team, Aug 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/iwls22.pdf">A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," IWLS Special Session, July 2022</li>
