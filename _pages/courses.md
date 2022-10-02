@@ -16,6 +16,7 @@ permalink: /courses/
 <!-- begin of course list -->
 ### University of Utah
 
++ ECE 5960/6960: Heterogeneous Programming (Spring 23)
 + [ECE 5960/6960: Physical Design Algorithms (Fall 22)](https://github.com/tsung-wei-huang/ece5960-physical-design)
 + [CS 1420: Accelerated Introduction ot Object-oriented Programming (Fall 21)](https://github.com/tsung-wei-huang/cs1420)
 + [CS 2420: Introduction to Algorithm and Data Structure (Fall 21)](https://github.com/tsung-wei-huang/cs2420)
