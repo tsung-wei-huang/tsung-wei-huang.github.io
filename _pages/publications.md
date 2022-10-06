@@ -8,6 +8,7 @@ permalink: /publications/
 
 ## Publications
 
++ [Newest Results](#newest-results-arxiv)
 + [Conference Papers](#conference-papers)
 + [Journal Papers](#journal-papers)
 + [Patents](#patents)
@@ -18,6 +19,20 @@ permalink: /publications/
 <span class="badge badge-secondary">Acceptance Rate</span>
 <span class="badge badge-success">GitHub</span>
 <span class="badge badge-warning">Award</span>
+
+<hr>
+
+<!-- begin of publication  -->
+### Newest Results (arXiv)
+
+<ol>
+  <li>Tsung-Wei Huang, "<a href="https://arxiv.org/abs/2210.01076">qTask: Task-parallel Quantum Circuit Simulation with Incrementality</a>," 
+  <i>arXiv cs.DC</i>, 2022 <br>
+  </li>
+  <li>Cheng-Hsiang Chiu, Tsung-Wei Huang, Zizheng Guo, and Yibo Lin, "<a href="https://arxiv.org/abs/2202.00717">Pipeflow: An Efficient Task-Parallel Pipeline Programming Framework using Modern C++</a>," 
+  <i>arXiv cs.DC</i>, 2022 <br>
+  </li>
+</ol>
 
 <hr>
 
