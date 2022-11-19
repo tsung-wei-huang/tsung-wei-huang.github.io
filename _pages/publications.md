@@ -40,6 +40,11 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Guannan Guo, Tsung-Wei Huang, and Martin D. F. Wong, "Fast STA Graph Partitioning Framework for Multi-GPU Acceleration," 
+  <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Antwerp, Belgium, 2023 <br>
+  <span class="badge badge-secondary">25%</span>
+  </li>
+
   <li>Tsung-Wei Huang and Leslie Hwang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-semaphore.pdf">Task-Parallel Programming with Constrained Parallelism</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
   <a href="https://taskflow.github.io/taskflow/LimitTheMaximumConcurrency.html" class="badge badge-success">GitHub</a>
