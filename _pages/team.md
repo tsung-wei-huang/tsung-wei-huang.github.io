@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign. His research streamlines the building of high-performance computing applications, including scientific computing, machine learning, and design automation. He has created several open-source software (e.g., <a href="https://github.com/taskflow">Taskflow</a>, <a href="https://github.com/taskflow">OpenTimer</a>) that is being used by many people. </p>
+  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign and BS/MS from the CS Department at Taiwan's National Cheng Kung University. His research group has been creating software systems to streamline the building of high-performance computing applications, including machine learning, computer-aided design, and quantum computing.</p>
   <p>Dr. Huang receives several awards for his research contributions, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, and Humboldt Research Fellowship Award.</p>
   </div>
 </div>

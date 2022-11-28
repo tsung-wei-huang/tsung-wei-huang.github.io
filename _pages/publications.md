@@ -47,11 +47,13 @@ permalink: /publications/
 
   <li>Tsung-Wei Huang and Leslie Hwang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-semaphore.pdf">Task-Parallel Programming with Constrained Parallelism</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
+  <a href="https://doi.org/10.1109/HPEC55821.2022.9926348" class="badge badge-primary">10.1109/HPEC55821.2022.9926348</a>
   <a href="https://taskflow.github.io/taskflow/LimitTheMaximumConcurrency.html" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-ot.pdf">Enhancing the Performance Portability of Heterogeneous Circuit Analysis Programs</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
+  <a href="https://doi.org/10.1109/HPEC55821.2022.9926380" class="badge badge-primary">10.1109/HPEC55821.2022.9926380</a>
   </li>
 
   <li>Dian-Lun Lin, Haoxing Ren, Yanqing Zhang, Brucek Khailany, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/icpp22-rtlflow.pdf">From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Bordeaux, France, 2022<br>
