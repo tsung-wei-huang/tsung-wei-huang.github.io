@@ -26,9 +26,6 @@ permalink: /publications/
 ### Newest Results (arXiv)
 
 <ol>
-  <li>Tsung-Wei Huang, "<a href="https://arxiv.org/abs/2210.01076">qTask: Task-parallel Quantum Circuit Simulation with Incrementality</a>," 
-  <i>arXiv cs.DC</i>, 2022 <br>
-  </li>
   <li>Cheng-Hsiang Chiu, Tsung-Wei Huang, Zizheng Guo, and Yibo Lin, "<a href="https://arxiv.org/abs/2202.00717">Pipeflow: An Efficient Task-Parallel Pipeline Programming Framework using Modern C++</a>," 
   <i>arXiv cs.DC</i>, 2022 <br>
   </li>
@@ -40,6 +37,9 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Tsung-Wei Huang, "qTask: Task-parallel Quantum Circuit Simulation with Incrementality," <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, St. Petersburg, Florida, 2023 <br>
+  </li>
+
   <li>Guannan Guo, Tsung-Wei Huang, and Martin D. F. Wong, "Fast STA Graph Partitioning Framework for Multi-GPU Acceleration," 
   <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Antwerp, Belgium, 2023 <br>
   <span class="badge badge-secondary">25%</span>
