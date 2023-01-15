@@ -57,7 +57,7 @@ permalink: /publications/
   </li>
 
   <li>Dian-Lun Lin, Haoxing Ren, Yanqing Zhang, Brucek Khailany, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/icpp22-rtlflow.pdf">From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Bordeaux, France, 2022<br>
-  <a href="https://doi.org/10.1145/3545008.3545091" class="badge badge-primary">10.1145/3545008.3545091</a>
+  <a href="https://dl.acm.org/doi/10.1145/3545008.3545091" class="badge badge-primary">10.1145/3545008.3545091</a>
   <span class="badge badge-secondary">27%</span>
   <a href="https://github.com/dian-lun-lin/RTLflow" class="badge badge-success">GitHub</a>
   </li>
