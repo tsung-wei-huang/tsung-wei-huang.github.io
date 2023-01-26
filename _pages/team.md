@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign and BS/MS from the CS Department at Taiwan's National Cheng Kung University. His research group has been creating software systems to streamline the building of high-performance computing applications, including machine learning, computer-aided design, and quantum computing.</p>
+  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign and BS/MS from the CS Department at Taiwan's National Cheng Kung University. His research group has been creating software systems to streamline the building of high-performance computing applications, including machine learning, computer-aided design, and quantum computing. These software systems have accumulated over 1.5M downloads and have been used by many people (e.g., Xilinx, Nvidia, Intel, Xanadu AI).</p>
   <p>Dr. Huang receives several awards for his research contributions, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, and Humboldt Research Fellowship Award.</p>
   </div>
 </div>

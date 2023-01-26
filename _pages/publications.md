@@ -67,6 +67,14 @@ permalink: /publications/
   <span class="badge badge-secondary">19%</span>
   <a href="https://taskflow.github.io/taskflow/ParallelPipeline.html" class="badge badge-success">GitHub</a>
   </li>
+  
+  <li>Yu-Guang Chen, Chun-Yao Wang, Tsung-Wei Huang, and Takashi Sato,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad_22.pdf">Overview of 2022 CAD Contest at ICCAD</a>," 
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2021 <br>
+  <a href="https://dl.acm.org/doi/abs/10.1145/3508352.3561106" class="badge badge-primary">10.1145/3508352.3561106</a>
+  <span class="badge badge-secondary">22%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
+  </li>
 
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac2022.pdf">Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms,</a>" <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
@@ -108,6 +116,7 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, Germany, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9643523" class="badge badge-primary">10.1109/ICCAD51958.2021.9643523</a>
   <span class="badge badge-secondary">23.5%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
@@ -183,6 +192,7 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020 <br>
   <a href="https://dl.acm.org/doi/abs/10.1145/3400302.3415741" class="badge badge-primary">10.1145/3400302.3415741</a>
   <span class="badge badge-secondary">24%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
   <li>Guannan Guo, Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
