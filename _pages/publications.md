@@ -38,6 +38,7 @@ permalink: /publications/
 
 <ol>
   <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
+  <span class="badge badge-secondary">23%</span>
   </li>
 
   <li>Tsung-Wei Huang, "qTask: Task-parallel Quantum Circuit Simulation with Incrementality," <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, St. Petersburg, Florida, 2023 <br>
