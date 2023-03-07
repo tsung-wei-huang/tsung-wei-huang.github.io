@@ -26,9 +26,6 @@ permalink: /publications/
 ### Newest Results (arXiv)
 
 <ol>
-  <li>Tsung-Wei Huang, "<a href="https://arxiv.org/abs/2210.01076">qTask: Task-parallel Quantum Circuit Simulation with Incrementality</a>," 
-  <i>arXiv cs.DC</i>, 2022 <br>
-  </li>
   <li>Cheng-Hsiang Chiu, Tsung-Wei Huang, Zizheng Guo, and Yibo Lin, "<a href="https://arxiv.org/abs/2202.00717">Pipeflow: An Efficient Task-Parallel Pipeline Programming Framework using Modern C++</a>," 
   <i>arXiv cs.DC</i>, 2022 <br>
   </li>
@@ -40,17 +37,31 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
+  <span class="badge badge-secondary">23%</span>
+  </li>
+
+  <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ipdps23.pdf">qTask: Task-parallel Quantum Circuit Simulation with Incrementality</a>," <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, St. Petersburg, Florida, 2023 <br>
+  </li>
+
+  <li>Guannan Guo, Tsung-Wei Huang, and Martin D. F. Wong, "<a href="{{ site.url }}{{ site.baseurl }}/papers/date2023.pdf">Fast STA Graph Partitioning Framework for Multi-GPU Acceleration</a>," 
+  <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Antwerp, Belgium, 2023 <br>
+  <span class="badge badge-secondary">25%</span>
+  </li>
+
   <li>Tsung-Wei Huang and Leslie Hwang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-semaphore.pdf">Task-Parallel Programming with Constrained Parallelism</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
+  <a href="https://doi.org/10.1109/HPEC55821.2022.9926348" class="badge badge-primary">10.1109/HPEC55821.2022.9926348</a>
   <a href="https://taskflow.github.io/taskflow/LimitTheMaximumConcurrency.html" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-ot.pdf">Enhancing the Performance Portability of Heterogeneous Circuit Analysis Programs</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
+  <a href="https://doi.org/10.1109/HPEC55821.2022.9926380" class="badge badge-primary">10.1109/HPEC55821.2022.9926380</a>
   </li>
 
-  <li>Dian-Lun Lin, Haoxing Ren, Yanqing Zhang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/icpp22-rtlflow.pdf">From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Bordeaux, France, 2022<br>
-  <a href="https://doi.org/10.1145/3545008.3545091" class="badge badge-primary">10.1145/3545008.3545091</a>
+  <li>Dian-Lun Lin, Haoxing Ren, Yanqing Zhang, Brucek Khailany, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/icpp22-rtlflow.pdf">From RTL to CUDA: A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Bordeaux, France, 2022<br>
+  <a href="https://dl.acm.org/doi/10.1145/3545008.3545091" class="badge badge-primary">10.1145/3545008.3545091</a>
   <span class="badge badge-secondary">27%</span>
   <a href="https://github.com/dian-lun-lin/RTLflow" class="badge badge-success">GitHub</a>
   </li>
@@ -59,6 +70,14 @@ permalink: /publications/
   <a href="https://doi.org/10.1145/3502181.3533714" class="badge badge-primary">10.1145/3502181.3533714</a>
   <span class="badge badge-secondary">19%</span>
   <a href="https://taskflow.github.io/taskflow/ParallelPipeline.html" class="badge badge-success">GitHub</a>
+  </li>
+  
+  <li>Yu-Guang Chen, Chun-Yao Wang, Tsung-Wei Huang, and Takashi Sato,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad_22.pdf">Overview of 2022 CAD Contest at ICCAD</a>," 
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2021 <br>
+  <a href="https://dl.acm.org/doi/abs/10.1145/3508352.3561106" class="badge badge-primary">10.1145/3508352.3561106</a>
+  <span class="badge badge-secondary">22%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
 
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
@@ -101,6 +120,7 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, Germany, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9643523" class="badge badge-primary">10.1109/ICCAD51958.2021.9643523</a>
   <span class="badge badge-secondary">23.5%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
@@ -176,6 +196,7 @@ permalink: /publications/
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020 <br>
   <a href="https://dl.acm.org/doi/abs/10.1145/3400302.3415741" class="badge badge-primary">10.1145/3400302.3415741</a>
   <span class="badge badge-secondary">24%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
   <li>Guannan Guo, Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,

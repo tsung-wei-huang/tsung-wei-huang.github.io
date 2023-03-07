@@ -22,6 +22,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/pnnl-utah-22.pdf">Performance Portability and Optimization using Machine Learning</a>," PNNL-Utah Joint Seminar, Nov 2022</li>
 <li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series at Hong Kong, Sep 2022</li>
 <li>"Intelligent Heterogeneous Computing," CS Department, University of California at Merced, Sep 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/seminar-x-090222.pdf">Programming System for Building High-performance CAD Applications</a>," Google X, Sep 2022</li>
