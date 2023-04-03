@@ -42,6 +42,7 @@ permalink: /publications/
   </li>
 
   <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ipdps23.pdf">qTask: Task-parallel Quantum Circuit Simulation with Incrementality</a>," <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, St. Petersburg, Florida, 2023 <br>
+  </li>
   
   <li>Elmir Dzaka, Dian-Lun Lin, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/pdco-23.pdf">Parallel And-Inverter Graph Simulation Using a Task-graph Computing System</a>," <i>IEEE International Parallel and Distributed Processing Symposium Workshop (IPDPSW)</i>, St. Petersburg, Florida, 2023 <br>
   </li>
