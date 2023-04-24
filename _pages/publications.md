@@ -37,7 +37,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany and Tsung-Wei Huang, "GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
+  <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2023-dac.pdf">GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
   <span class="badge badge-secondary">23%</span>
   </li>
 
