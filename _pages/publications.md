@@ -37,7 +37,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2023-dac.pdf">GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
+  <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2023-dac.pdf">GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
   <span class="badge badge-secondary">23%</span>
   </li>
 
@@ -50,6 +50,7 @@ permalink: /publications/
 
   <li>Guannan Guo, Tsung-Wei Huang, and Martin D. F. Wong, "<a href="{{ site.url }}{{ site.baseurl }}/papers/date2023.pdf">Fast STA Graph Partitioning Framework for Multi-GPU Acceleration</a>," 
   <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Antwerp, Belgium, 2023 <br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10137050" class="badge badge-primary">10.23919/DATE56975.2023.10137050</a>
   <span class="badge badge-secondary">25%</span>
   </li>
 
