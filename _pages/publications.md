@@ -472,7 +472,7 @@ permalink: /publications/
   </li>
 
   <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/jmir-21.pdf">Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study</a>," 
-  <i>Journal of Medical Internet Research (JMIR)</i>, 2022<br>
+  <i>Journal of Medical Internet Research (JMIR)</i>, vol. 24, no. 1, Jan. 2022<br>
   <a href="https://doi.org/10.2196/28036" class="badge badge-primary">10.2196/28036</a>
   </li>
 
