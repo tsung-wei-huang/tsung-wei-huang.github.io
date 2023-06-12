@@ -8,7 +8,7 @@ permalink: /
 
 ## Welcome to TW's Research Group
 
-We are a research group supervised by [Prof Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
+We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
 in the <a href="https://www.utah.edu/">University of Utah</a>.
 Our group creates novel software systems
@@ -67,7 +67,7 @@ such as Nvidia, Intel, Cadence, Synopsys, IBM, and so on.
   </div>
 </div>
 
-Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
+Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof. Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
 
 <!--Please email [open positions]({{ site.url }}{{ site.baseurl }}/vacancies)!-->
 

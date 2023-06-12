@@ -81,7 +81,7 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad_22.pdf">Overview of 2022 CAD Contest at ICCAD</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2021 <br>
   <a href="https://dl.acm.org/doi/abs/10.1145/3508352.3561106" class="badge badge-primary">10.1145/3508352.3561106</a>
-  <span class="badge badge-secondary">22%</span>
+  <span class="badge badge-secondary">Invited Paper</span>
   <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
 
@@ -124,7 +124,7 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/cad-contest-iccad-21.pdf">Overview of 2021 CAD Contest at ICCAD</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, Germany, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9643523" class="badge badge-primary">10.1109/ICCAD51958.2021.9643523</a>
-  <span class="badge badge-secondary">23.5%</span>
+  <span class="badge badge-secondary">Invited Paper</span>
   <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
@@ -200,7 +200,7 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad20-cadcontest.pdf">Overview of 2020 CAD Contest at ICCAD</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, CA, 2020 <br>
   <a href="https://dl.acm.org/doi/abs/10.1145/3400302.3415741" class="badge badge-primary">10.1145/3400302.3415741</a>
-  <span class="badge badge-secondary">24%</span>
+  <span class="badge badge-secondary">Invited Paper</span>
   <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
@@ -273,6 +273,7 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/GLSVLSI18.pdf">A Distributed Power Grid Analysis Framework from Sequential Stream Graph</a>," 
   <i>ACM Great Lakes Symposium on VLSI (GLSVLSI)</i>, pp. 183-188, Chicago, IL, 2018 <br>
   <a href="https://dl.acm.org/doi/10.1145/3194554.3194560" class="badge badge-primary">10.1145/3194554.3194560</a>
+  <span class="badge badge-secondary">24%</span>
   </li>
   
   <li>Chun-Xun Lin, Tsung-Wei Huang, and Martin Wong,
@@ -300,6 +301,7 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/DAC16.pdf">A Distributed Timing Analysis Framework for Large Designs</a>," 
   <i>IEEE/ACM Design Automation Conference (DAC)</i>, pp. 116:1-116:6, Austin, TX, 2016 <br>
   <a href="http://ieeexplore.ieee.org/document/7544358/" class="badge badge-primary">10.1145/2897937.2897959</a>
+  <span class="badge badge-secondary">22%</span>
   </li>
   
   <li>Tsung-Wei Huang and Martin Wong,
@@ -361,12 +363,14 @@ permalink: /publications/
   "<a href="http://dl.acm.org/citation.cfm?id=2160927">Integrated Fluidic-Chip Co-Design Methodology for Digital Microfluidic Biochips</a>," 
   <i>ACM International Symposium on Physical Design (ISPD)</i>, pp. 49-56, Napa, CA, 2012 <br>
   <a href="https://dl.acm.org/doi/10.1145/2160916.2160927" class="badge badge-primary">10.1145/2160916.2160927</a>
+  <span class="badge badge-secondary">33%</span>
   </li>
                 
   <li>Jia-Wei Chang, Tsung-Wei Huang, and Tsung-Yi Ho, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC_2012pdf">An ILP-based Obstacle-Avoiding Routing Algorithm for Pin-Constrained EWOD Chips</a>," 
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, pp. 67-72, Sydney, Australia, 2012 <br>
   <a href="https://ieeexplore.ieee.org/document/6165041" class="badge badge-primary">10.1109/ASPDAC.2012.6165041</a>
+  <span class="badge badge-secondary">34%</span>
   </li>
             
   <li>Tsung-Wei Huang, Tsung-Yi Ho, and K. Chakrabarty, 
@@ -381,12 +385,14 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2011-MWSCAS.pdf">Chip-Level Design and Optimization for Digital Microfluidic Biochips</a>," 
   <i>Proceeding of IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)</i>, 2011  <br>
   <a href="https://ieeexplore.ieee.org/document/6026535" class="badge badge-primary">10.1109/MWSCAS.2011.6026535</a>
+  <span class="badge badge-secondary">Invited Paper</span>
   </li>
                 
   <li>Tsung-Wei Huang and Tsung-Yi Ho, 
   "<a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?reload=true&arnumber=6085143">Recent Research and Emerging Challenges in the Designs and Optimizations for Digital Microfluidic Biochips</a>," 
   <i>Proceeding of IEEE System on Chip Conference (SOCC)</i>, pp. 12-17, Taipei, Taiwan, 2011 <br>
   <a href="https://ieeexplore.ieee.org/document/6085143" class="badge badge-primary">10.1109/SOCC.2011.6085143</a>
+  <span class="badge badge-secondary">Invited Paper</span>
   </li>     
                     
   <li>P.-H. Yuh, C.-Y Lin, Tsung-Wei Huang, Tsung-Yi Ho, C.-L. Yang, and Yao-Wen Chang, 
@@ -422,7 +428,8 @@ permalink: /publications/
   <li>Tsung-Wei Huang, C.-H. Lin, and Tsung-Yi Ho, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips.pdf">A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips</a>," 
   <i>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</i>
-  (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips.pptx">slide</a>), pp. 151-156, San Jose, CA, 2009
+  (<a href="{{ site.url }}{{ site.baseurl }}/papers/A Contamination Aware Droplet Routing Algorithm for Digital Microfluidic Biochips.pptx">slide</a>), pp. 151-156, San Jose, CA, 2009<br>
+  <a href="https://doi.org/10.1109/TCAD.2010.2062770" class="badge badge-primary">10.1109/TCAD.2010.2062770</a>
   <span class="badge badge-secondary">26.2%</span>
   </li>
                 
@@ -440,6 +447,11 @@ permalink: /publications/
 ### Journal Papers
 
 <ol>
+  <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
+  "Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism,"
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear
+  </li>
+
   <li>Dian-Lun Lin and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tpds22-snig.pdf">Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism</a>,"
   <i>IEEE Transactions on Parallel and Distributed Systems (TPDS)</i>, vol. 33, no. 11, pp. 3041-3052, Nov 2022<br>
@@ -454,19 +466,19 @@ permalink: /publications/
   <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
   </li>
   
-  <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs," 
-  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear in 2022 <br>
+  <li>Zizheng Guo, Mingwei Yang, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2022-tcad-cppr.pdf">A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs</a>," 
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 41, no. 10, pp. 3466-3478, Oct. 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9598820" class="badge badge-primary">10.1109/TCAD.2021.3124758</a>
   </li>
 
   <li>Jia-Ruei Yu, Chun-Hsien Chen, Tsung-Wei Huang, Jang-Jih Lu, Chia-Ru Chung, Ting-Wei Lin, Min-Hsien Wu, Yi-Ju Tseng, Hsin-Yao Wang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/jmir-21.pdf">Energy Efficiency of Inference Algorithms for Medical Datasets: A Green AI study</a>," 
-  <i>Journal of Medical Internet Research (JMIR)</i>, to appear in 2022 <br>
+  <i>Journal of Medical Internet Research (JMIR)</i>, 2022<br>
   <a href="https://doi.org/10.2196/28036" class="badge badge-primary">10.2196/28036</a>
   </li>
 
 
   <li>Tsung-Wei Huang, Dian-Lun Lin, Yibo Lin, and Chun-Xun Lin,
-  "Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System,"
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2022-tcad-taskflow.pdf">Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System</a>,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 41, no. 5, pp. 1448-1452, May 2022 <br>
   <a href="https://ieeexplore.ieee.org/document/9438696" class="badge badge-primary">10.1109/TCAD.2021.3082507</a>
   <a href="https://taskflow.github.io/" class="badge badge-success">GitHub</a>
