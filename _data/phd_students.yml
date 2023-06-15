@@ -12,7 +12,7 @@
   info: Spring 2020--present
   email: dian-lun.lin@utah.edu
   research: GPU-accelerated logic simulation and machine learning
-  intern: Nvidia (summer'21, summer'22)
+  intern: Nvidia (summer'21, fall'21, summer'22)
 
 - name: <a href="https://cheng-hsiang-chiu.github.io/">Cheng-Hsiang Chiu</a>
   photo: cheng-hsiang-chiu.jpg
@@ -51,6 +51,11 @@
   email: boyang.zhang@utah.edu
   research: Parallel and heterogeneous computing algorithms
 
+- name: <a href="https://yi-huaaa.github.io/">Yi-Hua Chung</a>
+  photo: yi-hua-chung.jpeg
+  info: Fall 2023--present
+  email: 
+  research: TBD
 
 - name: "This could be you !"
   photo: rock.jpg

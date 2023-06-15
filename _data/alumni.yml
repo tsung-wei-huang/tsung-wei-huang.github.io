@@ -1,6 +1,14 @@
+- name: Luke Majors
+  photo: luke_majors.jpeg
+  info: ECE Master (Spring 2023)
+  email: lukemajors12@gmail.com
+  number_educ: 1
+  research: Graph algorithms
+  education1: BS&colon; University of Utah
+
 - name: Yasin Zamani
   photo: yasin.jpeg
-  info: Fall 2020--2021 (ECE Master)
+  info: ECE Master (Fall 2021)
   email: yasin.zamani@utah.edu
   research: GPU programming, static timing anlaysis
   number_educ: 2

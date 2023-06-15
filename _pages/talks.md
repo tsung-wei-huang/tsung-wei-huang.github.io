@@ -22,6 +22,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"Intelligent High-performance Computing," Technical University of Munich (TUM), June 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cruise-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Cruise, April 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/pnnl-utah-22.pdf">Performance Portability and Optimization using Machine Learning</a>," PNNL-Utah Joint Seminar, Nov 2022</li>
 <li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series at Hong Kong, Sep 2022</li>
