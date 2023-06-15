@@ -449,7 +449,8 @@ permalink: /publications/
 <ol>
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
   "Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism,"
-  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear<br>
+  <a href="https://ieeexplore.ieee.org/document/10153450" class="badge badge-primary">10.1109/TCAD.2023.3286261</a>
   </li>
 
   <li>Dian-Lun Lin and Tsung-Wei Huang,
