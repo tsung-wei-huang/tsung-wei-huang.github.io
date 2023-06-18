@@ -37,7 +37,8 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li> Shui Jiang, Tsung-Wei Huang, Bei Yu, and Tsung-Yi Ho, "SNICIT: Accelerating Sparse Neural Network Inference via Compression at Inference Time on GPU," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Salt Lake City, Utah, 2023
+  <li> Shui Jiang, Tsung-Wei Huang, Bei Yu, and Tsung-Yi Ho, "SNICIT: Accelerating Sparse Neural Network Inference via Compression at Inference Time on GPU," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Salt Lake City, Utah, 2023<br>
+  <a href="https://github.com/IDEA-CUHK/SNICIT" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Dian-Lun Lin, Yanqing Zhang, Haoxing Ren, Shih-Hsin Wang, Brucek Khailany, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2023-dac.pdf">GenFuzz: GPU-accelerated Hardware Fuzzing using Genetic Algorithm with Multiple Inputs</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2023 <br>
