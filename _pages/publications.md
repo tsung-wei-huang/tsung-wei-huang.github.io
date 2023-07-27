@@ -47,6 +47,7 @@ permalink: /publications/
   </li>
 
   <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ipdps23.pdf">qTask: Task-parallel Quantum Circuit Simulation with Incrementality</a>," <i>IEEE International Parallel and Distributed Processing Symposium (IPDPS)</i>, St. Petersburg, Florida, 2023 <br>
+  <a href="https://ieeexplore.ieee.org/document/10177478" class="badge badge-primary">10.1109/IPDPS54959.2023.00080</a>
   <span class="badge badge-secondary">25.7%</span>
   </li>
   
