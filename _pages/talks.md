@@ -10,11 +10,22 @@ permalink: /talks/
 
 <div class="row">
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">Taskflow at CppCon</h4>
+  <h4 class="badge badge-primary">Dian-Lun at CppNow'23</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIPzED3VD3w" allowfullscreen></iframe></div>
+</div>
+<div class="col-sm-6">
+  <h4 class="badge badge-primary">Cheng-Hsiang at CppNow'23</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AudA4WpTW6U" allowfullscreen></iframe></div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6">
+  <h4 class="badge badge-primary">Taskflow at CppCon'20</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MX15huP5DsM" allowfullscreen></iframe></div>
 </div>
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">cudaFlow at CppCon</h4>
+  <h4 class="badge badge-primary">cudaFlow at CppCon'21</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/-tIQbIhTAv8" allowfullscreen></iframe></div>
 </div>
 </div>

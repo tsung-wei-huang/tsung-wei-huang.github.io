@@ -24,7 +24,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   </div>
 
   <div class="col-md-10 col-sm-10">
-  <h4>Tsung-Wei Huang</h4>
+  <h4>Tsung-Wei (TW) Huang</h4>
   Assistant Professor, Department of ECE<br>
   University of Wisconsin at Madison, Madison, WI, USA, 53706<br>
   Office: Engineering Hall<br>

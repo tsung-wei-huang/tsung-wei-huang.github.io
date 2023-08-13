@@ -53,6 +53,7 @@ permalink: /publications/
   </li>
   
   <li>Elmir Dzaka, Dian-Lun Lin, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/pdco-23.pdf">Parallel And-Inverter Graph Simulation Using a Task-graph Computing System</a>," <i>IEEE International Parallel and Distributed Processing Symposium Workshop (IPDPSW)</i>, St. Petersburg, Florida, 2023 <br>
+  <a href="https://ieeexplore.ieee.org/document/10196548" class="badge badge-primary">10.1109/IPDPSW59300.2023.00150</a>
   </li>
 
   <li>Guannan Guo, Tsung-Wei Huang, and Martin D. F. Wong, "<a href="{{ site.url }}{{ site.baseurl }}/papers/date2023.pdf">Fast STA Graph Partitioning Framework for Multi-GPU Acceleration</a>," 

@@ -5,6 +5,15 @@ excerpt: "TW's Research Group -- Pictures"
 permalink: /pictures/
 ---
 
+## Conferences
+
+<div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-primary">07/12/23 Design Automation Conference</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/dac-2023.png" style="width: 100%;">
+</div>
+</div>
+
 ## Hiking
 
 <div class="row">
@@ -26,8 +35,8 @@ permalink: /pictures/
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_bbq_052122.png" style="width: 100%;">
 </div>
 <div class="col-sm-4">
-  <h4 class="badge badge-info">02/01/21 House Dinner</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_dining_020121.png" style="width: 100%;">
+  <h4 class="badge badge-info">02/01/23 Group Lunch</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group-dining-011023.png" style="width: 100%;">
 </div>
 </div>
 
