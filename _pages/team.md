@@ -9,7 +9,7 @@ permalink: /team/
 ## Open Positions!
 
 <p>We are looking for *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **high-performance computing**, **quantum computing**, **machine learning systems**, and **computer-aided design**.
-Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](#why-join-our-team)). </p>
+Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](#why-join-our-team)). </p>
 
 <hr>
 
@@ -26,13 +26,13 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
   <div class="col-md-10 col-sm-10">
   <h4>Tsung-Wei Huang</h4>
   Assistant Professor, Department of ECE<br>
-  University of Utah, Salt Lake City, UT, USA, 84112<br>
-  Office: 2124 Merrill Engineering Building (MEB)<br>
+  University of Wisconsin at Madison, Madison, WI, USA, 53706<br>
+  Office: Engineering Hall<br>
   BS/MS (<a href="http://www.csie.ncku.edu.tw/ncku_csie/">NCKU-CS</a>), PhD (<a href="https://ece.illinois.edu/">UIUC-ECE</a>)<br>
   <a href="https://github.com/tsung-wei-huang"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-github.jpg" height=25px></a>
   <a href="https://scholar.google.com/citations?user=ibeirYQAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-scholar.jpg" height=25px></a>
   <a href="{{ site.url }}{{ site.baseurl }}/resumes/twhuang_cv.pdf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cv.png" height=25px></a>
-  <a href="mailto:tsung-wei.huang@utah.edu"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-email.png" height=25px></a>
+  <a href="mailto:tsung-wei.huang@wisc.edu"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-email.png" height=25px></a>
   <a href="https://twitter.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-twitter.png" height=25px></a>
   </div>
   
@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an assistant professor in the ECE Department at the University of Utah. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign in 2017 and BS/MS from the CS Department at Taiwan's National Cheng Kung University in 2011. His research group has been creating software systems to simplify the building of high-performance computing applications. These software systems have been used by thousands of people from both academia and industry (e.g., Xilinx, Nvidia, Intel, Xanadu AI).</p>
+  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Assistant Professor in the ECE Department at the University of Wisconsin at Madison. He was an Assistant Professor at the University of Utah from 2019 to 2023. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign in 2017 and BS/MS from the CS Department at Taiwan's National Cheng Kung University in 2011. His research group has been creating software systems to simplify the building of high-performance computing applications. These software systems have been used by thousands of people from both academia and industry (e.g., Xilinx, Nvidia, Intel, Xanadu AI).</p>
 
   <p>Dr. Huang receives several awards for his research contributions, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship Award, and ACM SIGDA Outstanding New Faculty Award.</p>
   </div>

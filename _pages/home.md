@@ -9,19 +9,29 @@ permalink: /
 ## Welcome to TW's Research Group
 
 We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
-<a href="https://www.ece.utah.edu/">Department of Electrical and Computer Engineering</a> 
-in the <a href="https://www.utah.edu/">University of Utah</a>.
+<a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/">Department of Electrical and Computer Engineering</a> 
+in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
 Our group creates novel software systems
 (e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
 <a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
 <a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
 <a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
 <a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
-to streamline the building of high-performance
+to simplify the building of high-performance
 computing applications.
+Our software has been used by thousands of people in industry and academia.
 
 <center><div style="max-width: 600px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png"  class="rounded" style="max-width: 100%">
+</div></center>
+
+## Where Are We?
+
+Our research group is situated at the beautiful [Madison City](https://www.cityofmadison.com/) - an Isthmus between Lake Mendota and Lake Monona.
+Madison has been consistently placed top in the list of [Best Places to Live in the US](https://realestate.usnews.com/places/wisconsin/madison).
+
+<center><div style="max-width: 700px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg"  class="rounded" style="max-width: 100%">
 </div></center>
 
 <!--
@@ -74,6 +84,7 @@ Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof. Huang</a> your resu
 <h2>Sponsors</h2>
 
 We are grateful for funding from [University of Utah](https://www.ece.utah.edu/),
+[University of Wisconsin](https://www.wisc.edu/),
 [National Science Foudation](https://www.nsf.gov/),
 [Defense Advanced Research Projects Agency](https://www.darpa.mil/),
 [NumFocus](https://numfocus.org/), and
