@@ -40,7 +40,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Assistant Professor in the ECE Department at the University of Wisconsin at Madison. He was an Assistant Professor at the University of Utah from 2019 to 2023. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign in 2017 and BS/MS from the CS Department at Taiwan's National Cheng Kung University in 2011. His research group has been creating software systems to simplify the building of high-performance computing applications. These software systems have been used by thousands of people from both academia and industry (e.g., Xilinx, Nvidia, Intel, Xanadu AI).</p>
+  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Assistant Professor in the ECE Department at the University of Wisconsin at Madison. He was an Assistant Professor at the University of Utah from 2019 to 2023. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign in 2017 and BS/MS from the CS Department at Taiwan's National Cheng Kung University in 2011. He has been creating software systems to simplify the building of high-performance computing applications. These software systems are being used by thousands of people in industry and academia.</p>
 
   <p>Dr. Huang receives several awards for his research contributions, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship Award, and ACM SIGDA Outstanding New Faculty Award.</p>
   </div>

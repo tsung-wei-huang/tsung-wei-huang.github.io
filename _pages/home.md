@@ -22,7 +22,7 @@ computing applications.
 Our software has been used by thousands of people in industry and academia.
 
 <center><div style="max-width: 600px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png"  class="rounded" style="max-width: 100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" style="max-width: 100%">
 </div></center>
 
 ## Where Are We?
@@ -31,7 +31,7 @@ Our research group is situated at the beautiful [Madison City](https://www.cityo
 Madison has been consistently placed top in the list of [Best Places to Live in the US](https://realestate.usnews.com/places/wisconsin/madison).
 
 <center><div style="max-width: 700px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg"  class="rounded" style="max-width: 100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg" style="max-width: 100%">
 </div></center>
 
 <!--
@@ -115,6 +115,18 @@ We are grateful for funding from [University of Utah](https://www.ece.utah.edu/)
   <a href="https://summerofcode.withgoogle.com/programs/2022/projects/FgTgRVLt"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gsoc.png" style="width: 100%;"></a>
   </div>
 </div>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uw-madison-ece-logo.png" style="width: 100%;"></a>
+  </div>
+  
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.intel.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intel-logo.png" style="width: 100%;"></a>
+  </div>
+</div>
+
+<br>
 
 
 
