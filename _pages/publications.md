@@ -37,7 +37,21 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li> Shui Jiang, Tsung-Wei Huang, Bei Yu, and Tsung-Yi Ho, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2023-icpp.pdf">SNICIT: Accelerating Sparse Neural Network Inference via Compression at Inference Time on GPU</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Salt Lake City, Utah, 2023<br>
+  
+  <li>Chih-Chun Chang and Tsung-Wei Huang,
+  "uSAP: An Ultra-Fast Stochastic Graph Partitioner," 
+  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, viraul, 2023 <br>
+  <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
+  </li>
+  
+  <li>Shiu Jiang, Tsung-Wei Huang, and Tsung-Yi Ho,
+  "GLARE: Accelerating Sparse DNN Inference Kernels with Global Memory Access Reduction," 
+  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, viraul, 2023 <br>
+  <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
+  </li>
+
+
+  <li>Shui Jiang, Tsung-Wei Huang, Bei Yu, and Tsung-Yi Ho, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2023-icpp.pdf">SNICIT: Accelerating Sparse Neural Network Inference via Compression at Inference Time on GPU</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Salt Lake City, Utah, 2023<br>
   <a href="https://doi.org/10.1145/3605573.3605625" class="badge badge-primary">10.1145/3605573.3605625</a>
   <span class="badge badge-secondary">29.4%</span>
   <a href="https://github.com/IDEA-CUHK/SNICIT" class="badge badge-success">GitHub</a>
