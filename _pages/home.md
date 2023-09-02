@@ -87,8 +87,9 @@ We are grateful for funding from [University of Utah](https://www.ece.utah.edu/)
 [University of Wisconsin](https://www.wisc.edu/),
 [National Science Foudation](https://www.nsf.gov/),
 [Defense Advanced Research Projects Agency](https://www.darpa.mil/),
-[NumFocus](https://numfocus.org/), and
-[Nvidia](https://nvidia.com).
+[NumFocus](https://numfocus.org/), 
+[Nvidia](https://nvidia.com), and
+[Intel](https://www.intel.com/).
 
 <div class="row align-items-center">
   <div class="col-md-4 col-sm-4">
