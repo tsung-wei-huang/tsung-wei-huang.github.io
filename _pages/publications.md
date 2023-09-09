@@ -42,7 +42,7 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad23-asynctask.pdf">Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023 <br>
   <span class="badge badge-secondary">Invited Paper</span>
-  <a href="https://taskflow.github.io/taskflow/DependentAsyncTasking.html" class="badge badge-success">AsyncTask</a>
+  <a href="https://taskflow.github.io/taskflow/DependentAsyncTasking.html" class="badge badge-success">GitHub</a>
   </li>
   
   <li>Chih-Chun Chang and Tsung-Wei Huang,
