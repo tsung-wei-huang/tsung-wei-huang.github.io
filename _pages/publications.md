@@ -38,6 +38,13 @@ permalink: /publications/
 
 <ol>
   
+  <li>Yu-Guang Chen, Chun-Yao Wang, Tsung-Wei Huang, and Takashi Sato,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad23-asynctask.pdf">Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms</a>," 
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023 <br>
+  <span class="badge badge-secondary">Invited Paper</span>
+  <a href="https://taskflow.github.io/taskflow/DependentAsyncTasking.html" class="badge badge-success">AsyncTask</a>
+  </li>
+  
   <li>Chih-Chun Chang and Tsung-Wei Huang,
   "uSAP: An Ultra-Fast Stochastic Graph Partitioner," 
   <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, viraul, 2023 <br>
@@ -45,9 +52,10 @@ permalink: /publications/
   </li>
   
   <li>Shiu Jiang, Tsung-Wei Huang, and Tsung-Yi Ho,
-  "GLARE: Accelerating Sparse DNN Inference Kernels with Global Memory Access Reduction," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec23-glare.pdf">GLARE: Accelerating Sparse DNN Inference Kernels with Global Memory Access Reduction</a>," 
   <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, viraul, 2023 <br>
   <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
+  <a href="https://github.com/IDEA-CUHK/GLARE" class="badge badge-success">Glare</a>
   </li>
 
 
