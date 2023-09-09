@@ -38,7 +38,7 @@ permalink: /publications/
 
 <ol>
   
-  <li>Yu-Guang Chen, Chun-Yao Wang, Tsung-Wei Huang, and Takashi Sato,
+  <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad23-asynctask.pdf">Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023 <br>
   <span class="badge badge-secondary">Invited Paper</span>
