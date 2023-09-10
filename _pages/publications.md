@@ -47,13 +47,13 @@ permalink: /publications/
   
   <li>Chih-Chun Chang and Tsung-Wei Huang,
   "uSAP: An Ultra-Fast Stochastic Graph Partitioner," 
-  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, viraul, 2023 <br>
+  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2023 <br>
   <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
   </li>
   
   <li>Shiu Jiang, Tsung-Wei Huang, and Tsung-Yi Ho,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec23-glare.pdf">GLARE: Accelerating Sparse DNN Inference Kernels with Global Memory Access Reduction</a>," 
-  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, viraul, 2023 <br>
+  <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2023 <br>
   <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
   <a href="https://github.com/IDEA-CUHK/GLARE" class="badge badge-success">GitHub</a>
   </li>
