@@ -18,8 +18,8 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-2 col-sm-2 vertical-align">
-  <div style="max-width: 130px; text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/twhuang.jpg" class="img-responsive" style="width: 100%" />
+  <div style="max-width: 200px; text-align: center;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/twhuang_uwm.jpg" class="img-responsive" style="width: 100%" />
   </div>
   </div>
 
