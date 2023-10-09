@@ -1,25 +1,16 @@
-- name: Guannan Guo
-  photo: guannan.jpeg
-  info: Fall 2017--present (co-supervised with Prof Wong at UIUC)
-  email: gguo4@illinois.edu
-  research: Parallel and heterogeneous algorithms for static timing analysis
-  intern: Cadence (summer'19), IBM (summer'21)
-  number_educ: 1
-  education1: BS&colon; University of Illinois at Urbana-Champaign
-
 - name: <a href="https://dian-lun-lin.github.io/">Dian-Lun Lin (Luan)</a>
   photo: dian-lun-lin.png
   info: Spring 2020--present
   email: dian-lun.lin@utah.edu
   research: GPU-accelerated logic simulation and machine learning
-  intern: Nvidia (summer'21, fall'21, summer'22)
+  experience: Nvidia (summer'21, fall'21, summer'22)
 
 - name: <a href="https://cheng-hsiang-chiu.github.io/">Cheng-Hsiang Chiu</a>
   photo: cheng-hsiang-chiu.jpg
   info: Fall 2020--present
   email: cheng-hsiang.chiu@utah.edu
-  research: Parallel programming models and system runtimes
-  intern: Cadence (summer'21), Intel (summer'22)
+  research: Parallel programming systems and runtime
+  experience: Cadence (summer'21), Intel (summer'22)
   number_educ: 3
   education1: MS&colon; Ecole Polytechnique F´ed´erale de Lausanne (EPFL)
   education2: MS&colon; National Chiao Tung University
@@ -29,15 +20,15 @@
   photo: randy_chang.jpg
   info: Spring 2022--present
   email: che.chang@utah.edu
-  research: Parallel verification and constraint-solving algorithms
-  intern: Intel (summer'22)
+  research: Static timing analysis
+  experience: Intel (summer'22)
 
 - name: Wan-Luan Lee
   photo: wan_luan_lee.jpg
   info: Spring 2022--present
   email: che.chang@utah.edu
   research: High-performance graph analytics
-  intern: Synopsys (summer'22)
+  experience: Synopsys (summer'22)
 
 - name: Chih-Chun Chang
   photo: chih_chun_chang.jpeg
@@ -56,6 +47,18 @@
   info: Fall 2023--present
   email: 
   research: TBD
+
+- name: Jiang Shui
+  photo: jiang_shui.jpeg
+  info: Spring 2022--present (co-supervised with Prof Tsung-Yi Ho at CUHK)
+  email: 
+  research: DNN compression and quantum computing
+
+- name: Jie Tong
+  photo: jie_tong.jpeg
+  info: Fall 2023--present (co-supervised with Prof Umit Ogras at UW-Madison)
+  email: 
+  research: Domain-specific compilation and scheduling optimization
 
 - name: "This could be you !"
   photo: rock.jpg

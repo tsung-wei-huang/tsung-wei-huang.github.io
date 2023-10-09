@@ -1,6 +1,24 @@
+- name: Guannan Guo
+  photo: guannan.jpeg
+  info: ECE PhD 2023 (co-supervised with Prof Wong at UIUC)
+  email: gguo4@illinois.edu
+  research: Parallel and heterogeneous algorithms for static timing analysis
+  intern: Cadence (summer'19), IBM (summer'21)
+  number_educ: 1
+  education1: BS&colon; University of Illinois at Urbana-Champaign
+
+
+- name: McKay Mower
+  photo: mckay_mower.jpg
+  info: ECE Master 2023
+  email: mmower777@gmail.com
+  number_educ: 1
+  research: Graph neural network, performance modeling
+  education1: BS&colon; University of Utah
+
 - name: Luke Majors
   photo: luke_majors.jpeg
-  info: ECE Master (Spring 2023)
+  info: ECE Master 2023
   email: lukemajors12@gmail.com
   number_educ: 1
   research: Graph algorithms
@@ -8,13 +26,13 @@
 
 - name: Yasin Zamani
   photo: yasin.jpeg
-  info: ECE Master (Fall 2021)
+  info: ECE Master 2021
   email: yasin.zamani@utah.edu
-  research: GPU programming, static timing anlaysis
+  research: GPU programming, static timing analysis
   number_educ: 2
   education1: MS&colon; Isfahan University of Technology
   education2: BS&colon; Isfahan University of Technology
-  experience: Work Experience&#58; Data Scientist at Variant (since 2022)
+  experience: First appointment&#58; Data Scientist at Variant (since 2022)
 
 
 

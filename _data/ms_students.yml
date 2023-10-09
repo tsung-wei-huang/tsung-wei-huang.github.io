@@ -1,18 +1,9 @@
-- name: McKay Mower
-  photo: mckay_mower.jpg
-  info: Fall 2022--present
-  email: mmower777@gmail.com
+- name: Muhammed Alimi
+  photo: alimi.jpeg
+  info: Fall 2023--present
+  email: malimi@wisc.edu
   number_educ: 1
-  research: Graph algorithms, performance prediction
-  education1: BS&colon; University of Utah
-
-- name: <a href="https://shambhavisudarsan.github.io/">Shambhavi Sudarsan</a>
-  photo: shambhavi.jpg
-  info: Summer 2023--present
-  email: mmower777@gmail.com
-  number_educ: 1
-  research: Parallel graph algorithms
-  education1: BS&colon; University of Utah
+  research: TBD
 
 - name: "This could be you !"
   photo: rock.jpg

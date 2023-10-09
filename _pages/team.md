@@ -68,8 +68,8 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
   {% endif %}
-  {% if member.intern %}
-  <p>Intern: {{ member.intern }}</p>
+  {% if member.experience %}
+  <p>Experience: {{ member.experience }}</p>
   {% endif %}
 </div>
 
