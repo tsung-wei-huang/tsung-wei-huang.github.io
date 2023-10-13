@@ -1,3 +1,11 @@
+- date: 12. Oct 2023
+  headline: Prof. Huang gave a talk, <q>A General-purpose Task-parallel Programming System</q>, in the China University of Petroleum!
+  image: "images/newspic/upetroleum-23.png"
+
+- date: 12. Oct 2023
+  headline: Dian-Lun Lin gave a talk, <q>A Task Graph-based Programming System for CPU-GPU Heterogeneous Computing</q>, in Berkeley Lab (<a href="https://www.nersc.gov/users/training/events/2023/gpus-for-science-day-2023/">GPUs for Science Day</a>)!
+  image: "images/newspic/gpus-science-23.png"
+
 - date: 30. Aug 2023
   headline: We are grateful for a new NSF grant to support co-design of chiral quantum photonic devices (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2235276">DMR-2235276</a>)!
   image: "images/logopic/nsf.png"
