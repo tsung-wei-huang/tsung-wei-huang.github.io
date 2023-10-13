@@ -33,6 +33,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task- parallel Programming System</a>," China Univ of Petroleum, Oct 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2023-fuse-ub.pdf">Quantum Circuit Simulation with Incrementality</a>," NSF FuSe Workshop, University at Buffalo, June 2023</li>
 <li>"Intelligent High-performance Computing," Technical University of Munich (TUM), June 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cruise-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Cruise, April 2023</li>
