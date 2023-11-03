@@ -8,8 +8,16 @@ permalink: /courses/
 
 ## Course List
 
++ [University of Wisconsin at Madison](#university-of-wisconsin-at-madison)
 + [University of Utah](#university-of-utah)
 + [University of Illinois at Urbana-Champaign](#university-of-illinois-at-urbana-champaign)
+
+<hr>
+
+<!-- begin of course list -->
+### University of Wisconsin at Madison
+
++ [ECE/CS 252: Introduction to Computer Engineering (Fall 23)](https://canvas.wisc.edu/courses/372148)
 
 <hr>
 

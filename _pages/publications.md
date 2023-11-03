@@ -17,7 +17,7 @@ permalink: /publications/
 
 <span class="badge badge-primary">DOI</span>
 <span class="badge badge-secondary">Acceptance Rate</span>
-<span class="badge badge-success">GitHub</span>
+<span class="badge badge-success">Link</span>
 <span class="badge badge-warning">Award</span>
 
 <hr>
@@ -37,12 +37,23 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  
+  <li>Chedi Morchdi, Cheng-Hsiang Chiu, Yi Zhou, and Tsung-Wei Huang,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC-24.pdf">A Resource-efficient Task Scheduling System using Reinforcement Learning</a>," 
+  <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Korea, 2024<br>
+  </li>
+
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad23-asynctask.pdf">Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023 <br>
-  <span class="badge badge-secondary">Invited Paper</span>
+  <span class="badge badge-secondary">31%</span>
   <a href="https://taskflow.github.io/taskflow/DependentAsyncTasking.html" class="badge badge-success">GitHub</a>
+  </li>
+  
+  <li>Takashi Sato, Chun-Yao Wang, Yu-Guang Chen, and Tsung-Wei Huang,
+  "Overview of CAD Contest at ICCAD," 
+  <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023<br>
+  <span class="badge badge-secondary">31%</span>
+  <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
   
   <li>Chih-Chun Chang and Tsung-Wei Huang,
