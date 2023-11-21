@@ -8,7 +8,6 @@ permalink: /publications/
 
 ## Publications
 
-+ [Newest Results](#newest-results-arxiv)
 + [Conference Papers](#conference-papers)
 + [Journal Papers](#journal-papers)
 + [Patents](#patents)
@@ -23,20 +22,20 @@ permalink: /publications/
 <hr>
 
 <!-- begin of publication  -->
-### Newest Results (arXiv)
-
-<ol>
-  <li>Cheng-Hsiang Chiu, Tsung-Wei Huang, Zizheng Guo, and Yibo Lin, "<a href="https://arxiv.org/abs/2202.00717">Pipeflow: An Efficient Task-Parallel Pipeline Programming Framework using Modern C++</a>," 
-  <i>arXiv cs.DC</i>, 2022 <br>
-  </li>
-</ol>
-
-<hr>
-
-<!-- begin of publication  -->
 ### Conference Papers
 
 <ol>
+  <li>Cheng-Hsiang Chiu, Zhicheng Xiong, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "An Efficient Task-parallel Pipeline Programming Framework," 
+  <i>ACM International Conference on High-performance Computing in Asia-Pacific Region (HPC Asia)</i>, Nagoya, Japan, 2024 <br>
+  <a href="https://taskflow.github.io/taskflow/TaskParallelPipeline.html" class="badge badge-success">GitHub</a>
+  </li>
+
+  <li>Zizheng Guo, Tsung-Wei Huang, Jin Zhou, Cheng Zhuo, Yibo Lin, Runsheng Wang, and Ru Huang,
+  "Heterogeneous Static Timing Analysis with Advanced Delay Calculator,"
+  <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Valencia, Spain, 2024 <br>
+  <span class="badge badge-secondary">25%</span>
+  </li>
+
   <li>Chedi Morchdi, Cheng-Hsiang Chiu, Yi Zhou, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC-24.pdf">A Resource-efficient Task Scheduling System using Reinforcement Learning</a>," 
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Korea, 2024<br>
@@ -97,7 +96,7 @@ permalink: /publications/
   <span class="badge badge-secondary">25%</span>
   </li>
 
-  <li>Tsung-Wei Huang and Leslie Hwang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-semaphore.pdf">Task-Parallel Programming with Constrained Parallelism</a>," 
+  <li>Tsung-Wei Huang and Leslie Hwang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-semaphore.pdf">Task-parallel Programming with Constrained Parallelism</a>," 
   <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
   <a href="https://doi.org/10.1109/HPEC55821.2022.9926348" class="badge badge-primary">10.1109/HPEC55821.2022.9926348</a>
   <a href="https://taskflow.github.io/taskflow/LimitTheMaximumConcurrency.html" class="badge badge-success">GitHub</a>
