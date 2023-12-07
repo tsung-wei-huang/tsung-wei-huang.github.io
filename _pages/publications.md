@@ -27,6 +27,7 @@ permalink: /publications/
 <ol>
   <li>Cheng-Hsiang Chiu, Zhicheng Xiong, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "An Efficient Task-parallel Pipeline Programming Framework," 
   <i>ACM International Conference on High-performance Computing in Asia-Pacific Region (HPC Asia)</i>, Nagoya, Japan, 2024 <br>
+  <a href="https://doi.org/10.1145/3635035.3635037" class="badge badge-primary">10.1145/3635035.3635037</a>
   <a href="https://taskflow.github.io/taskflow/TaskParallelPipeline.html" class="badge badge-success">GitHub</a>
   </li>
 
