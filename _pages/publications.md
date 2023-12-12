@@ -45,13 +45,15 @@ permalink: /publications/
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad23-asynctask.pdf">Programming Dynamic Task Parallelism for Heterogeneous EDA Algorithms</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023 <br>
+  <a href="https://ieeexplore.ieee.org/document/10323760" class="badge badge-primary">10.1109/ICCAD57390.2023.10323760</a>
   <span class="badge badge-secondary">31%</span>
   <a href="https://taskflow.github.io/taskflow/DependentAsyncTasking.html" class="badge badge-success">GitHub</a>
   </li>
   
   <li>Takashi Sato, Chun-Yao Wang, Yu-Guang Chen, and Tsung-Wei Huang,
-  "Overview of CAD Contest at ICCAD," 
+  "Overview of 2023 CAD Contest at ICCAD," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023<br>
+  <a href="https://ieeexplore.ieee.org/document/10323648" class="badge badge-primary">10.1109/ICCAD57390.2023.10323648</a>
   <span class="badge badge-secondary">31%</span>
   <a href="http://iccad-contest.org/" class="badge badge-success">CAD Contest</a>
   </li>
