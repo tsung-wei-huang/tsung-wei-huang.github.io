@@ -40,6 +40,7 @@ permalink: /publications/
   <li>Chedi Morchdi, Cheng-Hsiang Chiu, Yi Zhou, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/ASPDAC-24.pdf">A Resource-efficient Task Scheduling System using Reinforcement Learning</a>," 
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Korea, 2024<br>
+  <span class="badge badge-secondary">28.9%</span>
   </li>
 
   <li>Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang,
