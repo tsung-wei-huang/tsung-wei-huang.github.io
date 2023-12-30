@@ -1,3 +1,7 @@
+- date: 29. Dec
+  headline: Prof. Huang is giving an invited talk, <q>Parallel and Heterogeneous Timing Analysis&#58; Partition, Algorithm, and System</q>, to 2024 International Symposium on Physical Design (ISPD)!
+  image: "images/logopic/ispd-logo.png"
+
 - date: 20. Nov 2023
   headline: Cheng-Hsian's paper, <q>An Efficient Task-parallel Pipeline Programming Framework</q>, is accepted by HPC-Asia!
   image: "images/logopic/hpc-asia-23-logo.png"
@@ -14,27 +18,27 @@
   headline: We are grateful for a new NSF grant to support co-design of chiral quantum photonic devices (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2235276">DMR-2235276</a>)!
   image: "images/logopic/nsf.png"
 
-- date: 28, Aug 2023
+- date: 28. Aug 2023
   headline: Congratulations for Chih-Chun Chang's and Shiu Jiang's papers winning the 2023 HPEC Graph Challenge Innovation Award!
   image: "images/logopic/hpec-graph-challenge-logo.png"
 
-- date: 21, Aug 2023
+- date: 21. Aug 2023
   headline: Our research group moved to the ECE Department at the University of Wisconsin at Madison!
   image: "images/logopic/uw-madison-ece-logo.png"
 
-- date: 27, July 2023
+- date: 27 July 2023
   headline: Our special session proposal, <q>Accelerating EDA Algorithms with Heterogeneous Parallelism</q>, is accepted by the 2023 ACM/IEEE International Conference on Computer-aided Design (ICCAD)!
   image: "images/logopic/iccad23-logo.jpeg"
 
-- date: 18, June 2023
+- date: 18. June 2023
   headline: Prof. Huang received the ACM SIGDA Outstanding New Faculty Award at 2023 Design Automation Conference!
   image: "images/newspic/sigda-onfa-23.png"
 
-- date: 18, June 2023
+- date: 18. June 2023
   headline: Prof. Huang gave a talk, <q>Quantum Circuit Simulation with Incrementality</q>, in 2023 NSF FuSe Workshop at the University at Buffalo
   image: "images/newspic/2023-fuse-ub.jpg"
 
-- date: 14, June 2023
+- date: 14. June 2023
   headline: Prof. Huang gave a talk, <q>Intelligent High-performance Computing</q>, to TUM (Technical University of Munich)
   image: "images/newspic/tum-2023.png"
 

@@ -27,7 +27,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   <h4>Tsung-Wei (TW) Huang</h4>
   Assistant Professor, Department of ECE<br>
   University of Wisconsin at Madison, Madison, WI, USA, 53706<br>
-  Office: Engineering Hall 3423<br>
+  Office: Engineering Hall 2564 and 3423<br>
   BS/MS (<a href="http://www.csie.ncku.edu.tw/ncku_csie/">NCKU-CS</a>), PhD (<a href="https://ece.illinois.edu/">UIUC-ECE</a>)<br>
   <a href="https://github.com/tsung-wei-huang"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-github.jpg" height=25px></a>
   <a href="https://scholar.google.com/citations?user=ibeirYQAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-scholar.jpg" height=25px></a>

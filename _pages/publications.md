@@ -25,6 +25,12 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ispd24.pdf">Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System</a>," 
+  <i>ACM International Symposium on Physical Design (ISPD)</i>, Taipei, Taiwan, 2024 <br>
+  <a href="https://doi.org/10.1145/3626184.3635278" class="badge badge-primary">10.1145/3626184.3635278</a>
+  <span class="badge badge-secondary">Invited Paper</span>
+  </li>
+
   <li>Cheng-Hsiang Chiu, Zhicheng Xiong, Zizheng Guo, Tsung-Wei Huang, and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpcasia-24.pdf">An Efficient Task-parallel Pipeline Programming Framework</a>," 
   <i>ACM International Conference on High-performance Computing in Asia-Pacific Region (HPC Asia)</i>, Nagoya, Japan, 2024 <br>
   <a href="https://doi.org/10.1145/3635035.3635037" class="badge badge-primary">10.1145/3635035.3635037</a>
@@ -52,7 +58,7 @@ permalink: /publications/
   </li>
   
   <li>Takashi Sato, Chun-Yao Wang, Yu-Guang Chen, and Tsung-Wei Huang,
-  "Overview of 2023 CAD Contest at ICCAD," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/iccad23-cad-contest.pdf">Overview of 2023 CAD Contest at ICCAD</a>," 
   <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, San Diego, CA, 2023<br>
   <a href="https://ieeexplore.ieee.org/document/10323648" class="badge badge-primary">10.1109/ICCAD57390.2023.10323648</a>
   <span class="badge badge-secondary">31%</span>
@@ -62,6 +68,7 @@ permalink: /publications/
   <li>Chih-Chun Chang and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec23-usap.pdf">uSAP: An Ultra-Fast Stochastic Graph Partitioner</a>," 
   <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2023 <br>
+  <a href="https://doi.org/10.1109/HPEC58863.2023.10363426" class="badge badge-primary">10.1109/HPEC58863.2023.10363426</a>
   <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
   <a href="https://github.com/gary30404/uSAP" class="badge badge-success">GitHub</a>
   </li>
@@ -69,6 +76,7 @@ permalink: /publications/
   <li>Shiu Jiang, Tsung-Wei Huang, and Tsung-Yi Ho,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec23-glare.pdf">GLARE: Accelerating Sparse DNN Inference Kernels with Global Memory Access Reduction</a>," 
   <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2023 <br>
+  <a href="https://doi.org/10.1109/HPEC58863.2023.10363578" class="badge badge-primary">10.1109/HPEC58863.2023.10363578</a>
   <a href="https://graphchallenge.mit.edu/champions" class="badge badge-warning">Graph Challenge Innovation Award</a>
   <a href="https://github.com/IDEA-CUHK/GLARE" class="badge badge-success">GitHub</a>
   </li>
