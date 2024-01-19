@@ -38,7 +38,7 @@ permalink: /publications/
   </li>
 
   <li>Zizheng Guo, Tsung-Wei Huang, Jin Zhou, Cheng Zhuo, Yibo Lin, Runsheng Wang, and Ru Huang,
-  "Heterogeneous Static Timing Analysis with Advanced Delay Calculator,"
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/date-24.pdf">Heterogeneous Static Timing Analysis with Advanced Delay Calculator</a>,"
   <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Valencia, Spain, 2024 <br>
   <span class="badge badge-secondary">25%</span>
   </li>
