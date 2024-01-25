@@ -22,8 +22,8 @@ that is being used by many industrial and academic projects
 Our research is framed by the following themes:
 
 + [Theme #1: Parallel Programming Environments](#theme-1-parallel-programming-environments)
-+ [Theme #2: Quantum Computing](#theme-2-quantum-computing)
-+ [Theme #3: VLSI Computer-aided Design](#theme-3-vlsi-electronic-design-automation)
++ [Theme #2: VLSI Computer-aided Design](#theme-2-vlsi-electronic-design-automation)
++ [Theme #3: Quantum Computing](#theme-3-quantum-computing)
 + [Theme #4: Machine Learning Systems](#theme-4-machine-learning-systems)
 
 <hr>
@@ -83,26 +83,9 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <hr>
 
-### Theme 2: Quantum Computing
 
-**Research Question**: *How can we create fast and reliable software for researchers and developers to understand quantum operations and validate quantum circuit functionality?*
 
-<center><div style="max-width: 800px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_qc.png"  class="rounded" style="max-width: 100%">
-</div></center>
-
-Quantum computing (QC) is a promising computing paradigm for tackling certain types of problems that are classically intractable, such as cryptography, chemistry simulation, finance, and combinatorial optimization.
-Among various QC applications, classical software support for quantum circuit analysis and synthesis
-is essential for researchers to understand quantum algorithms and optimize quantum circuits.
-However, building such software is extremely challenging 
-because it demands large computation and memory to evaluate quantum operations.
-For example, simulating an n-qubit quantum circuits requires an exponential size of vector to store 2^n
-amplitudes, as a result of superposition.
-**Our research investigates new algorithms for quantum circuit simulation and optimization by leveraging the power of classical high-performance computing techniques.**
-
-<hr>
-
-### Theme 3: VLSI Electronic Design Automation
+### Theme 2: VLSI Electronic Design Automation
 
 **Research Question**: *How can we leverage emerging heterogeneous parallelism to speed up electronic design automation (EDA) algorithms and achieve order-of-magnitude performance breakthrough?*
 
@@ -137,6 +120,24 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
   </div>
 </div>
 
+<hr>
+
+### Theme 3: Quantum Computing
+
+**Research Question**: *How can we create fast and reliable software for researchers and developers to understand quantum operations and validate quantum circuit functionality?*
+
+<center><div style="max-width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_qc.png"  class="rounded" style="max-width: 100%">
+</div></center>
+
+Quantum computing (QC) is a promising computing paradigm for tackling certain types of problems that are classically intractable, such as cryptography, chemistry simulation, finance, and combinatorial optimization.
+Among various QC applications, classical software support for quantum circuit analysis and synthesis
+is essential for researchers to understand quantum algorithms and optimize quantum circuits.
+However, building such software is extremely challenging 
+because it demands large computation and memory to evaluate quantum operations.
+For example, simulating an n-qubit quantum circuits requires an exponential size of vector to store 2^n
+amplitudes, as a result of superposition.
+**Our research investigates new algorithms for quantum circuit simulation and optimization by leveraging the power of classical high-performance computing techniques.**
 
 <hr>
 
