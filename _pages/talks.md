@@ -40,14 +40,15 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task- parallel Programming System</a>," China Univ of Petroleum, Oct 2023</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2023-fuse-ub.pdf">Quantum Circuit Simulation with Incrementality</a>," NSF FuSe Workshop, University at Buffalo, June 2023</li>
-<li>"Intelligent High-performance Computing," Technical University of Munich (TUM), June 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-24.pdf">Taskflow: A General-purpose Task- parallel Programming System</a>," Chinese University of Hong Kong, Jan 2024</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task- parallel Programming System</a>," China University of Petroleum, Oct 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2023-fuse-ub.pdf">Quantum Circuit Simulation with Incrementality</a>," University at Buffalo, June 2023</li>
+<li>"Intelligent High-performance Computing," Technical University of Munich, June 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cruise-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Cruise, April 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/pnnl-utah-22.pdf">Performance Portability and Optimization using Machine Learning</a>," PNNL-Utah Joint Seminar, Nov 2022</li>
-<li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series at Hong Kong, Sep 2022</li>
+<li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series, Hong Kong, Sep 2022</li>
 <li>"Intelligent Heterogeneous Computing," CS Department, University of California at Merced, Sep 2022</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/seminar-x-090222.pdf">Programming System for Building High-performance CAD Applications</a>," Google X, Sep 2022</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/seminar-x-090222.pdf">Programming System for Building High-performance CAD Applications</a>," Google X Moonshot Factory, Sep 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/xilinx-22.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a>," AMD Vivado Team, Aug 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/iwls22.pdf">A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," IWLS Special Session, July 2022</li>
 <li>"Intelligent Heterogeneous Computing," AMD Research, June 2022</li>
@@ -61,7 +62,7 @@ permalink: /talks/
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/HeteroTime-Nvidia-21.pdf">HeteroTime: Accelerating Static Timing Analysis with GPU</a>," Nvidia Research, June 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cppnow-21.pdf">Taskflow: A Lightweight Heterogeneous Task Programming System with Control Flow</a>," CPPNow, May 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/vlsi-dat-21.pdf">Machine Learning System-enabled GPU Acceleration for EDA</a>," VLSI-DAT, April 2021</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a>," GTC, April 2021</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a>," Nvidia GPU Technology Conference, April 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a>," UCSC EDA Seminar, Feb 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cie-gnyc-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a>," CIE/USA-GNYC, Oct 2020</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cppcon-20.pdf">Taskflow: Parallel and Heterogeneous Task Programming in C++</a>," C++ Programmer Meetup, Oct 2020</li>
