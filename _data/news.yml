@@ -1,3 +1,7 @@
+- date: 9. Feb 2024
+  headline: Prof. Huang gave a talk, <q><a href="talks/flexcompute-24.pdf">Taskflow&#58; A General-purpose Task-parallel Programming System</a></q> to <a href="https://www.flexcompute.com/">FlexCompute Inc</a>.
+  image: "images/logopic/flexcompute-logo.png"
+
 - date: 20. Jan 2024
   headline: Prof. Huang gave a guest lecture, <q><a href="talks/cuhk-24.pdf">Taskflow&#58; A General-purpose Parallel and Heterogeneous Task Computing System</a></q> to <a href="https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/">Prof. Tsung-Yi Ho</a>'s design automation course at the Chinese University of Hong Kong.
   image: "images/logopic/cuhk-logo.png"

@@ -40,10 +40,12 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-24.pdf">Taskflow: A General-purpose Task- parallel Programming System</a>," Chinese University of Hong Kong, Jan 2024</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task- parallel Programming System</a>," China University of Petroleum, Oct 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/flexcompute-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," FlexCompute Inc, Feb 2024</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Chinese University of Hong Kong, Jan 2024</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," China University of Petroleum, Oct 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2023-fuse-ub.pdf">Quantum Circuit Simulation with Incrementality</a>," University at Buffalo, June 2023</li>
 <li>"Intelligent High-performance Computing," Technical University of Munich, June 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/und-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," University of Notre Dame, May 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cruise-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Cruise, April 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/pnnl-utah-22.pdf">Performance Portability and Optimization using Machine Learning</a>," PNNL-Utah Joint Seminar, Nov 2022</li>
 <li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series, Hong Kong, Sep 2022</li>
