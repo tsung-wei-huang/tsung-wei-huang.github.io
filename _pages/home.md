@@ -77,7 +77,7 @@ such as Nvidia, Intel, Cadence, Synopsys, IBM, and so on.
   </div>
 </div>
 
-Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof. Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
+Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof. Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
 
 <!--Please email [open positions]({{ site.url }}{{ site.baseurl }}/vacancies)!-->
 
