@@ -25,6 +25,11 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Shao-Hung Chan, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Tsung-Wei Huang, Sven Koenig, and Thomy Phan, "<a href="{{ site.url }}{{ site.baseurl }}/papers/aamas-24.pdf">Anytime Multi-Agent Path Finding using Operator Parallelism in Large Neighborhood Search</a>," 
+  <i>International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)</i>, Auckland, New Zealand, 2024 <br>
+  <a href="arXiv:2402.01961" class="badge badge-primary">arXiv:2402.01961</a>
+  </li>
+
   <li>Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ispd24.pdf">Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System</a>," 
   <i>ACM International Symposium on Physical Design (ISPD)</i>, Taipei, Taiwan, 2024 <br>
   <a href="https://doi.org/10.1145/3626184.3635278" class="badge badge-primary">10.1145/3626184.3635278</a>
