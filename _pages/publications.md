@@ -25,9 +25,33 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, 
+  "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," 
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <span class="badge badge-secondary">21.8%</span>
+  </li>
+
+  <li>Che Chang, Tsung-Wei Huang, Dian-Lun Lin, Guannan Guo, and Shiju Lin, 
+  "Ink: Efficient Incremental k-Critical Path Generation," 
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <span class="badge badge-secondary">21.8%</span>
+  </li>
+  
+  <li>Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, 
+  "G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis," 
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <span class="badge badge-secondary">21.8%</span>
+  </li>
+  
+  <li>Shiju Lin, Guannan Guo, Tsung-Wei Huang, Weihua Sheng, Evangeline Young, and Martin Wong, 
+  "GCS-Timer: GPU-Accelerated Current Source Model Based Static Timing Analysis," 
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <span class="badge badge-secondary">21.8%</span>
+  </li>
+
   <li>Shao-Hung Chan, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Tsung-Wei Huang, Sven Koenig, and Thomy Phan, "<a href="{{ site.url }}{{ site.baseurl }}/papers/aamas-24.pdf">Anytime Multi-Agent Path Finding using Operator Parallelism in Large Neighborhood Search</a>," 
   <i>International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)</i>, Auckland, New Zealand, 2024 <br>
-  <a href="arXiv:2402.01961" class="badge badge-primary">arXiv:2402.01961</a>
+  <a href="https://arxiv.org/abs/2402.01961" class="badge badge-primary">arXiv:2402.01961</a>
   </li>
 
   <li>Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ispd24.pdf">Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System</a>," 

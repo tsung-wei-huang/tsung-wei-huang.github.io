@@ -1,3 +1,11 @@
+- date: 14. Feb 2024
+  headline: Our research group has four papers accepted by 2024 ACM/IEEE Design Automation Conference (DAC)! Thank you for all your hard work!
+  image: "images/logopic/dac-2024-logo.png"
+
+- date: 10. Feb 2024
+  headline: One paper is accepted by 2024 International Conference on Autonomous Agents and Multiagent Systems (AAMAS)!
+  image: "images/logopic/aamas-24-logo.jpeg"
+
 - date: 9. Feb 2024
   headline: Prof. Huang gave a talk, <q><a href="talks/flexcompute-24.pdf">Taskflow&#58; A General-purpose Task-parallel Programming System</a></q> to <a href="https://www.flexcompute.com/">FlexCompute Inc</a>.
   image: "images/logopic/flexcompute-logo.png"
