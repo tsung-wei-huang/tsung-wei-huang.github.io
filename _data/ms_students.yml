@@ -5,6 +5,13 @@
   number_educ: 1
   research: TBD
 
+- name: Ting-Kuo Chen
+  photo: ting-kuo_chen.jpeg
+  info: Spring 2024--present
+  email: tchen463@wisc.edu
+  number_educ: 1
+  research: TBD
+
 - name: "This could be you !"
   photo: rock.jpg
   info: Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resume and research interest.
