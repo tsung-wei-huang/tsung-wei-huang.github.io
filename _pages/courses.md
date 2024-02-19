@@ -17,6 +17,8 @@ permalink: /courses/
 <!-- begin of course list -->
 ### University of Wisconsin at Madison
 
++ ECE/CS/ME 759: High-performance Computing (Fall 24)
++ [ECE 556: Design Automation of Digital Systems (Spring 24)](https://canvas.wisc.edu/courses/384667)
 + [ECE/CS 252: Introduction to Computer Engineering (Fall 23)](https://canvas.wisc.edu/courses/372148)
 
 <hr>
