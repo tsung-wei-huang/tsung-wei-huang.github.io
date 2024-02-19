@@ -28,7 +28,7 @@ Our software has been used by thousands of people in industry and academia.
 ## Where Are We?
 
 Our research group is situated at the beautiful [Madison City](https://www.cityofmadison.com/) - an Isthmus between Lake Mendota and Lake Monona.
-Madison has been consistently placed top in the list of [Best Places to Live in the US](https://realestate.usnews.com/places/wisconsin/madison) and [Top College Towns in the US](https://www.usnews.com/education/slideshows/10-great-college-towns).
+Madison has been consistently placed top in the list of [Best Places to Live in the US](https://realestate.usnews.com/places/rankings/best-places-to-live-for-quality-of-life) and [Top College Towns in the US](https://www.usnews.com/education/slideshows/10-great-college-towns).
 
 <center><div style="max-width: 700px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg" style="max-width: 100%">
