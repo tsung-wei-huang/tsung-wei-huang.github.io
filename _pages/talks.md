@@ -40,23 +40,24 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/flexcompute-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," UC Santa Cruz, CSE, Feb 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/flexcompute-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," FlexCompute Inc, Feb 2024</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Chinese University of Hong Kong, Jan 2024</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," China University of Petroleum, Oct 2023</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2023-fuse-ub.pdf">Quantum Circuit Simulation with Incrementality</a>," University at Buffalo, June 2023</li>
-<li>"Intelligent High-performance Computing," Technical University of Munich, June 2023</li>
-<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/und-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," University of Notre Dame, May 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Chinese Univ of HK, Jan 2024</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/petroleum-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," China Univ of Petroleum, Oct 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2023-fuse-ub.pdf">Quantum Circuit Simulation with Incrementality</a>," Univ at Buffalo, June 2023</li>
+<li>"Intelligent High-performance Computing," Technical Univ of Munich, June 2023</li>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/und-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Univ of Notre Dame, May 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cruise-23.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Cruise, April 2023</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/pnnl-utah-22.pdf">Performance Portability and Optimization using Machine Learning</a>," PNNL-Utah Joint Seminar, Nov 2022</li>
 <li>"Intelligent Heterogeneous Computing," ACCESS-CEDA Seminar Series, Hong Kong, Sep 2022</li>
-<li>"Intelligent Heterogeneous Computing," CS Department, University of California at Merced, Sep 2022</li>
+<li>"Intelligent Heterogeneous Computing," CS Department, UC Merced, Sep 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/seminar-x-090222.pdf">Programming System for Building High-performance CAD Applications</a>," Google X Moonshot Factory, Sep 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/xilinx-22.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a>," AMD Vivado Team, Aug 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/iwls22.pdf">A GPU Acceleration Flow for RTL Simulation with Batch Stimulus</a>," IWLS Special Session, July 2022</li>
 <li>"Intelligent Heterogeneous Computing," AMD Research, June 2022</li>
-<li>"Intelligent Heterogeneous Computing," ECE Department, Johns Hopkins University, March 2022</li>
+<li>"Intelligent Heterogeneous Computing," ECE Department, Johns Hopkins Univ, March 2022</li>
 <li>"Intelligent Heterogeneous Computing," ECE Distinguished Lecture, Stevens Institute of Technology, Feb 2022</li>
-<li>"Intelligent Heterogeneous Computing," ECE Department, University of Minnesota, Feb 2022</li>
+<li>"Intelligent Heterogeneous Computing," ECE Department, Univ of Minnesota, Feb 2022</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cpp-con-21.pdf">cudaFlow: A Modern C++ Programming Model for GPU Task Graph Parallelism</a>," CppCon, Oct 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/ixpug-21.pdf">Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System</a>," IXPUG, Oct 2021</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/cuhk-evan-seminar-21.pdf">Taskflow&#58; Parallel and Heterogeneous Task Graph Computing</a>," CUHK (Evan's group), Aug 2021</li>
