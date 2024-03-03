@@ -16,12 +16,12 @@
   education2: MS&colon; National Chiao Tung University
   education3: BS&colon; National Chung Cheng University
 
-- name: Che Chang (Randy)
+- name: <a href="https://randy1005.github.io/">Che Chang (Randy)</a>
   photo: randy_chang.jpg
   info: Spring 2022--present
   email: che.chang@utah.edu
   research: Static timing analysis
-  experience: Intel (summer'22)
+  experience: Intel (summer'22), Google (summer'24)
 
 - name: <a href="https://wanluanlee.github.io/">Wan-Luan Lee</a>
   photo: wan_luan_lee.jpg
@@ -59,6 +59,7 @@
   info: Fall 2023--present (co-supervised with Prof Umit Ogras at UW-Madison)
   email: 
   research: Domain-specific compilation and scheduling optimization
+  experience: Marvels (summer'24), Nvidia (summer'24)
 
 - name: "This could be you !"
   photo: rock.jpg
