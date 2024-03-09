@@ -34,6 +34,7 @@ Madison has been consistently placed top in the list of [Best Places to Live in 
 <img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg" style="max-width: 100%">
 </div></center>
 
+
 <!--
 <div class="row row-padded align-items-center">
   <div class="col-md-12">
