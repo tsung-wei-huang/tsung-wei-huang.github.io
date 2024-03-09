@@ -531,6 +531,12 @@ permalink: /publications/
 ### Journal Papers
 
 <ol>
+  <li>G. Guo, Tsung-Wei Huang, Y. Lin, Z. Guo, S. Yellapragada, and M. D. F. Wong,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad-23-pba.pdf">A GPU-Accelerated Framework for Path-Based Timing Analysis</a>,"
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 42, no. 11, pp. 4219-4232, Nov. 2023<br>
+  <a href="https://ieeexplore.ieee.org/document/10122149" class="badge badge-primary">10.1109/TCAD.2023.3272274</a>
+  </li>
+
   <li>Zizheng Guo, Tsung-Wei Huang, and Yibo Lin,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad-23-sta.pdf">Accelerating Static Timing Analysis using CPU-GPU Heterogeneous Parallelism</a>,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 32, no. 12, pp. 4973-4984, Dec. 2023<br>
