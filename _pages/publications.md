@@ -55,7 +55,7 @@ permalink: /publications/
   </li>
 
   <li>Tsung-Wei Huang, Boyang Zhang, Dian-Lun Lin, and Cheng-Hsiang Chiu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/ispd24.pdf">Parallel and Heterogeneous Timing Analysis: Partition, Algorithm, and System</a>," 
-  <i>ACM International Symposium on Physical Design (ISPD)</i>, Taipei, Taiwan, 2024 <br>
+  <i>ACM International Symposium on Physical Design (ISPD)</i>, Taipei, Taiwan, pp. 51-59, 2024 <br>
   <a href="https://doi.org/10.1145/3626184.3635278" class="badge badge-primary">10.1145/3626184.3635278</a>
   <span class="badge badge-secondary">Invited Paper</span>
   </li>
