@@ -18,7 +18,7 @@ Our group creates novel software systems
 <a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
 <a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
 to simplify the building of performance-critical applications,
-such as design automation, machine learning, and quantum computing.
+such as electronic design automation (EDA), machine learning (ML), and quantum computing.
 Our software has been used by thousands of people in industry and academia.
 
 <center><div style="max-width: 600px">
