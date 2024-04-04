@@ -46,7 +46,8 @@
   photo: yi-hua-chung.jpeg
   info: Fall 2023--present
   email: 
-  research: GPU-accelerated testing and verification algorithms
+  research: GPU-acceleration for testing and verification algorithms
+  experience: Synopsys (summer'24)
 
 - name: Jiang Shui
   photo: jiang_shui.jpeg
@@ -59,7 +60,7 @@
   info: Fall 2023--present (co-supervised with Prof Umit Ogras at UW-Madison)
   email: 
   research: Domain-specific compilation and scheduling optimization
-  experience: Marvels (summer'24), Nvidia (summer'24)
+  experience: Marvels (summer'23), Nvidia (summer'24)
 
 - name: "This could be you !"
   photo: rock.jpg
