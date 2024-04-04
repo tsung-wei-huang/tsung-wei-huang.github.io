@@ -1,3 +1,7 @@
+- date: 3. April 2024
+  headline: Prof. Huang gave a talk, <q><a href="talks/2024-cadence-talk.pdf">Taskflow&#58; A General-purpose Task-parallel Programming System</a></q> to <a href="https://www.cadence.com/en_US/home.html">Cadence Design Systems</a>.
+  image: "images/newspic/2024-TechTalk-Cadence.png"
+
 - date: 9. Mar 2024
   headline: Wisconsin Gov. gave final approval to fund a <a href="https://engineering.wisc.edu/news/wisconsin-approves-new-uw-madison-engineering-building/">New College of Engineering building</a> at the University of Wisconsin-Madison!
   image: "images/newspic/new-uwmadison-coe-building.webp"
