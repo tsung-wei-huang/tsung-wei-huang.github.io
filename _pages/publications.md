@@ -26,26 +26,30 @@ permalink: /publications/
 
 <ol>
   <li>Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, 
-  "G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gkway.pdf">G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <a href="https://doi.org/10.1145/3649329.3656238" class="badge badge-primary">10.1145/3649329.3656238</a>
   <span class="badge badge-secondary">21.8%</span>
   </li>
 
   <li>Che Chang, Tsung-Wei Huang, Dian-Lun Lin, Guannan Guo, and Shiju Lin, 
-  "Ink: Efficient Incremental k-Critical Path Generation," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-ink.pdf">Ink: Efficient Incremental k-Critical Path Generation</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <a href="https://doi.org/10.1145/3649329.3655897" class="badge badge-primary">10.1145/3649329.3655897</a>
   <span class="badge badge-secondary">21.8%</span>
   </li>
   
   <li>Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, 
-  "G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gpasta.pdf">G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <a href="https://doi.org/10.1145/3649329.3656230" class="badge badge-primary">10.1145/3649329.3656230</a>
   <span class="badge badge-secondary">21.8%</span>
   </li>
   
   <li>Shiju Lin, Guannan Guo, Tsung-Wei Huang, Weihua Sheng, Evangeline Young, and Martin Wong, 
-  "GCS-Timer: GPU-Accelerated Current Source Model Based Static Timing Analysis," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-GCS-Timer.pdf">GCS-Timer: GPU-Accelerated Current Source Model Based Static Timing Analysis</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <a href="https://doi.org/10.1145/3649329.3655983" class="badge badge-primary">10.1145/3649329.3655983</a>
   <span class="badge badge-secondary">21.8%</span>
   </li>
 
