@@ -64,7 +64,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} </i>
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
   {% endif %}
@@ -103,7 +103,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }} </i>
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
   {% endif %}
@@ -139,7 +139,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
   {% endif %}
@@ -167,34 +167,24 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>{{ member.info }}</i>
   {% if member.research %}
   <p>Research: {{ member.research }}</p>
-  <p>{{ member.experience }}</p>
   {% endif %}
+  {% if member.dissertation %}
+  <p>Dissertation: {{ member.dissertation }}</p>
+  {% endif %}
+  <p>{{ member.experience }}</p>
 </div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
+
 
 <hr>
 

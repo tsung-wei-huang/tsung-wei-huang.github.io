@@ -2,10 +2,12 @@
   photo: guannan.jpeg
   info: ECE PhD 2023 (co-supervised with Prof Wong at UIUC)
   email: gguo4@illinois.edu
-  research: Parallel and heterogeneous algorithms for static timing analysis
+  research: static timing analysis, heterogeneous computing
   intern: Cadence (summer'19), IBM (summer'21)
   number_educ: 1
   education1: BS&colon; University of Illinois at Urbana-Champaign
+  dissertation: <a href="https://www.ideals.illinois.edu/items/127420">Parallel and heterogeneous computing for static timing analysis</a>
+  experience: First appointment&#58; Huawei (since 2023)
 
 
 - name: McKay Mower
@@ -15,6 +17,7 @@
   number_educ: 1
   research: Graph neural network, performance modeling
   education1: BS&colon; University of Utah
+  experience: First appointment&#58; Trident Sensing (since 2023)
 
 - name: Luke Majors
   photo: luke_majors.jpeg
