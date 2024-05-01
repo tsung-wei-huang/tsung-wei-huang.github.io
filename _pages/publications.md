@@ -25,6 +25,12 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Dian-Lun Lin, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gkway.pdf">G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner</a>," 
+  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>,Madrid, Spain, 2024 <br>
+  <span class="badge badge-secondary">30%</span>
+  </li>
+
   <li>Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gkway.pdf">G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>

@@ -1,3 +1,7 @@
+- date: 1. May 2024
+  headline: Dian-Lun Lin's paper, <q>TaroRTL&#58; Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling</q> to <a href="https://2024.euro-par.org/">Euro-Par 2024</a>!
+  image: "images/logopic/euro-par-24-logo.png"
+
 - date: 3. April 2024
   headline: Prof. Huang gave a talk, <q><a href="talks/2024-cadence-talk.pdf">Taskflow&#58; A General-purpose Task-parallel Programming System</a></q> to <a href="https://www.cadence.com/en_US/home.html">Cadence Design Systems</a>.
   image: "images/newspic/2024-TechTalk-Cadence.png"
