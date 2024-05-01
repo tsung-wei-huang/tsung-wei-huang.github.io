@@ -26,7 +26,7 @@ permalink: /publications/
 
 <ol>
   <li>Dian-Lun Lin, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, 
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gkway.pdf">G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner</a>," 
+  "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>,Madrid, Spain, 2024 <br>
   <span class="badge badge-secondary">30%</span>
   </li>
