@@ -5,6 +5,23 @@ excerpt: "TW's Research Group -- Pictures"
 permalink: /pictures/
 ---
 
+## Dining
+
+<div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-info">05/21/22 Little Cottonwood BBQ</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_dining_050624.png" style="width: 100%;">
+</div>
+<div class="col-sm-4">
+  <h4 class="badge badge-info">05/21/22 Little Cottonwood BBQ</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_bbq_052122.png" style="width: 100%;">
+</div>
+<div class="col-sm-4">
+  <h4 class="badge badge-info">02/01/23 Group Lunch</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group-dining-011023.png" style="width: 100%;">
+</div>
+</div>
+
 ## Conferences
 
 <div class="row">
@@ -27,16 +44,5 @@ permalink: /pictures/
 </div>
 </div>
 
-## Dining
 
-<div class="row">
-<div class="col-sm-4">
-  <h4 class="badge badge-info">05/21/22 Little Cottonwood BBQ</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_bbq_052122.png" style="width: 100%;">
-</div>
-<div class="col-sm-4">
-  <h4 class="badge badge-info">02/01/23 Group Lunch</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group-dining-011023.png" style="width: 100%;">
-</div>
-</div>
 
