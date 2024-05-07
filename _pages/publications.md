@@ -25,9 +25,24 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Jie Tong, Liangliang Chang, Tsung-Wei Huang, and Umit Yusuf Ogras, 
+  "BatchSim: Parallel RTL Simulation using Inter-cycle Batching and Task Graph Parallelism," 
+  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  </li>
+  
+  <li>Che Chang, Cheng-Hsiang Chiu, Boyang Zhang, and Tsung-Wei Huang, 
+  "Incremental Critical Path Generation for Dynamic Graphs," 
+  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  </li>
+  
+  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
+  "An Experimental Study of Dynamic Task Graph Parallelism for Large-Scale Circuit Analysis Workloads," 
+  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  </li>
+
   <li>Dian-Lun Lin, Tsung-Wei Huang, Joshua San Miguel, and Umit Ogras, 
   "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," 
-  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>,Madrid, Spain, 2024 <br>
+  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Madrid, Spain, 2024<br>
   <span class="badge badge-secondary">30%</span>
   </li>
 
