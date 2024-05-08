@@ -1,6 +1,14 @@
+- name: Saksham Dhuria
+  photo: saksham.jpeg
+  info: Spring 2024--present
+  email: sdhuria@wisc.edu
+  number_educ: 1
+  research: Task-parallel scheduler optimization
+  education1: BS&colon; University of Wisconsin
+
 - name: Elmir Dzaka
   photo: elmir.jpeg
-  info: Spring 2022--present
+  info: Spring 2022--Fall 2023
   email: elmir.dzaka@utah.edu
   number_educ: 1
   research: Parallel logic simulation algorithms

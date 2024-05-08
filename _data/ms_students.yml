@@ -1,3 +1,10 @@
+- name: Aditya Das Sarma
+  photo: aditya.jpeg
+  info: Spring 2023--present
+  email: adassarma@cs.wisc.edu
+  number_educ: 1
+  research: Multi-bit flip-flop clustering for power optimization
+
 - name: Muhammed Alimi
   photo: alimi.jpeg
   info: Fall 2023--present
