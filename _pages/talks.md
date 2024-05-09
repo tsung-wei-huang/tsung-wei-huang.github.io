@@ -40,6 +40,7 @@ permalink: /talks/
 ## Research/Tech Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-ucla-vast.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," UCLA VAST Lab, May 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-cadence-talk.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Cadence, March 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/flexcompute-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," UC Santa Cruz, CSE, Feb 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/flexcompute-24.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," FlexCompute Inc, Feb 2024</li>
