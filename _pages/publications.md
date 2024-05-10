@@ -31,20 +31,6 @@ permalink: /publications/
   <span class="badge badge-secondary">30%</span>
   </li>
 
-  <li>Jie Tong, Liangliang Chang, Tsung-Wei Huang, and Umit Yusuf Ogras, 
-  "BatchSim: Parallel RTL Simulation using Inter-cycle Batching and Task Graph Parallelism," 
-  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
-  </li>
-  
-  <li>Che Chang, Cheng-Hsiang Chiu, Boyang Zhang, and Tsung-Wei Huang, 
-  "Incremental Critical Path Generation for Dynamic Graphs," 
-  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
-  </li>
-  
-  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
-  "An Experimental Study of Dynamic Task Graph Parallelism for Large-Scale Circuit Analysis Workloads," 
-  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
-  </li>
 
   <li>Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gkway.pdf">G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner</a>," 
@@ -73,6 +59,22 @@ permalink: /publications/
   <a href="https://doi.org/10.1145/3649329.3655983" class="badge badge-primary">10.1145/3649329.3655983</a>
   <span class="badge badge-secondary">21.8%</span>
   </li>
+  
+  <li>Jie Tong, Liangliang Chang, Umit Yusuf Ogras, and Tsung-Wei Huang,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ISVLSI-BatchSim.pdf">BatchSim: Parallel RTL Simulation using Inter-cycle Batching and Task Graph Parallelism</a>," 
+  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  </li>
+  
+  <li>Che Chang, Cheng-Hsiang Chiu, Boyang Zhang, and Tsung-Wei Huang, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ISVLSI-Ink.pdf">Incremental Critical Path Generation for Dynamic Graphs</a>," 
+  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  </li>
+  
+  <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ISVLSI-AsyncTask.pdf">An Experimental Study of Dynamic Task Graph Parallelism for Large-Scale Circuit Analysis Workloads</a>," 
+  <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  </li>
+
 
   <li>Shao-Hung Chan, Zhe Chen, Dian-Lun Lin, Yue Zhang, Daniel Harabor, Tsung-Wei Huang, Sven Koenig, and Thomy Phan, "<a href="{{ site.url }}{{ site.baseurl }}/papers/aamas-24.pdf">Anytime Multi-Agent Path Finding using Operator Parallelism in Large Neighborhood Search</a>," 
   <i>International Conference on Autonomous Agents and Multi-Agent Systems (AAMAS)</i>, Auckland, New Zealand, 2024 <br>
