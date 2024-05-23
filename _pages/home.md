@@ -31,9 +31,8 @@ Our research group is situated at the beautiful [Madison City](https://www.cityo
 Madison has been consistently placed top in the list of [Best Places to Live in the US](https://realestate.usnews.com/places/rankings/best-places-to-live-for-quality-of-life) and [Top College Towns in the US](https://www.usnews.com/education/slideshows/10-great-college-towns).
 
 <center><div style="max-width: 700px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg" style="max-width: 100%">
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/album/uw-madison-campus.jpeg" style="max-width: 100%"></p>
 </div></center>
-
 
 <!--
 <div class="row row-padded align-items-center">
