@@ -30,6 +30,13 @@ permalink: /publications/
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Madrid, Spain, 2024<br>
   <span class="badge badge-secondary">30%</span>
   </li>
+  
+  <li>Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gpasta.pdf">G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis</a>," 
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
+  <a href="https://doi.org/10.1145/3649329.3656230" class="badge badge-primary">10.1145/3649329.3656230</a>
+  <span class="badge badge-secondary">21.8%</span>
+  </li>
 
 
   <li>Wan Luan Lee, Dian-Lun Lin, Tsung-Wei Huang, Shui Jiang, Tsung-Yi Ho, Yibo Lin, and Bei Yu, 
@@ -43,13 +50,6 @@ permalink: /publications/
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-ink.pdf">Ink: Efficient Incremental k-Critical Path Generation</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
   <a href="https://doi.org/10.1145/3649329.3655897" class="badge badge-primary">10.1145/3649329.3655897</a>
-  <span class="badge badge-secondary">21.8%</span>
-  </li>
-  
-  <li>Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, 
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gpasta.pdf">G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis</a>," 
-  <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
-  <a href="https://doi.org/10.1145/3649329.3656230" class="badge badge-primary">10.1145/3649329.3656230</a>
   <span class="badge badge-secondary">21.8%</span>
   </li>
   
