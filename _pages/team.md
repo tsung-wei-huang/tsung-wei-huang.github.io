@@ -214,7 +214,7 @@ We collaborate with many people from industry, academia, and government agencies
 You can work with people around the world to explore different research ideas.
 After you leave our group, you will be ready for many job opportunities
 in both software and hardware companies.
-For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys, IBM, etc.
+For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys, IBM, Google, Huawei, etc.
 </p>
 
 <div class="row align-items-center">
@@ -240,6 +240,15 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
   </div>
   <div class="col-md-4 col-sm-4">
   <a href="https://www.synopsys.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/synopsys-logo.jpeg" style="width: 100%;"></a>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.google.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/google-logo.png" style="width: 100%;"></a>
+  </div>
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.huawei.com/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei-logo.jpg" style="width: 100%;"></a>
   </div>
 </div>
 

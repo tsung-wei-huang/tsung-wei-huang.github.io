@@ -49,7 +49,7 @@ situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range
 
 We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel computing**, **computer-aided design**, **quantum computing**, and **machine learning systems**.
 My students have been collaborating and working with many companies,
-such as Nvidia, Intel, Cadence, Synopsys, IBM, Google, and so on.
+such as Nvidia, Intel, Cadence, Synopsys, IBM, Google, Huawei, and so on.
 
 <div class="row align-items-center">
   <div class="col-md-4 col-sm-4">
@@ -74,6 +74,15 @@ such as Nvidia, Intel, Cadence, Synopsys, IBM, Google, and so on.
   </div>
   <div class="col-md-4 col-sm-4">
   <a href="https://www.synopsys.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/synopsys-logo.jpeg" style="width: 100%;"></a>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.google.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/google-logo.png" style="width: 100%;"></a>
+  </div>
+  <div class="col-md-4 col-sm-4">
+  <a href="https://www.huawei.com/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei-logo.jpg" style="width: 100%;"></a>
   </div>
 </div>
 

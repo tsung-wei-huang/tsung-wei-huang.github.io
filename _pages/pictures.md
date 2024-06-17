@@ -9,7 +9,7 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-4">
-  <h4 class="badge badge-info">05/21/22 Little Cottonwood BBQ</h4>
+  <h4 class="badge badge-info">05/13/24 Ichiban Madison</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_dining_050624.png" style="width: 100%;">
 </div>
 <div class="col-sm-4">

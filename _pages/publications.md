@@ -25,6 +25,14 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, "GSAP: A GPU-Accelerated Stochastic Graph Partitioner," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
+  <a href="https://doi.org/10.1145/3673038.3673117" class="badge badge-primary">10.1145/3673038.3673117</a>
+  <a href="https://github.com/chih-chun-chang/GSAP" class="badge badge-success">GitHub</a>
+  </li>
+  
+  <li>Shui Jiang, Rongliang Fu, Lukas Burgholzer, Robert Wille, Tsung-Yi Ho, and Tsung-Wei Huang, "FlatDD: A High-Performance Quantum Circuit Simulator using Decision Diagram and Flat Array," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
+  </li>
+
   <li>Dian-Lun Lin, Joshua San Miguel, Umit Ogras, and Tsung-Wei Huang,
   "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Madrid, Spain, 2024<br>
