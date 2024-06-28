@@ -31,6 +31,7 @@ permalink: /publications/
   </li>
   
   <li>Shui Jiang, Rongliang Fu, Lukas Burgholzer, Robert Wille, Tsung-Yi Ho, and Tsung-Wei Huang, "FlatDD: A High-Performance Quantum Circuit Simulator using Decision Diagram and Flat Array," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
+  <a href="https://doi.org/10.1145/3673038.3673073" class="badge badge-primary">10.1145/3673038.3673073</a>
   </li>
 
   <li>Dian-Lun Lin, Joshua San Miguel, Umit Ogras, and Tsung-Wei Huang,

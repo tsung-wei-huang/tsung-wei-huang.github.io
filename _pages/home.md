@@ -9,7 +9,7 @@ permalink: /
 ## Welcome to TW's Research Group
 
 We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
-<a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/">Department of Electrical and Computer Engineering</a> 
+<a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/">Department of Electrical and Computer Engineering (ECE)</a> 
 in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
 Our group creates novel software systems
 (e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
@@ -43,6 +43,12 @@ Madison has been consistently placed top in the list of [Best Places to Live in 
 
 Our educational habitat is breathtakingly beautiful,
 situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range">Wasatch Mountains</a> in the state's <a href="https://www.visitsaltlake.com/">Salt Lake City</a>.-->
+
+According to <a href="https://www.usnews.com/best-graduate-schools/top-engineering-schools/electrical-engineering-rankings">2024 US News</a>, the ECE Department of UW-Madison is ranked #9 among public universities and #15 among all universities.
+
+<center><div style="max-width: 700px">
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-UW-Madison-ECE-Ranking.jpeg" style="max-width: 100%"></p>
+</div></center>
 
 
 <h2>Join us!</h2>

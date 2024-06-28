@@ -9,6 +9,13 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-4">
+  <h4 class="badge badge-info">06/26/24 DAC Group Dinner</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-DAC-dinner.jpg" style="width: 100%;">
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-4">
   <h4 class="badge badge-info">05/13/24 Ichiban Madison</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_dining_050624.png" style="width: 100%;">
 </div>
@@ -25,6 +32,10 @@ permalink: /pictures/
 ## Conferences
 
 <div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-primary">06/27/24 Design Automation Conference</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-DAC.jpg" style="width: 100%;">
+</div>
 <div class="col-sm-4">
   <h4 class="badge badge-primary">07/12/23 Design Automation Conference</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/dac-2023.png" style="width: 100%;">
