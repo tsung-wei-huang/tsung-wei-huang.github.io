@@ -25,7 +25,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, "GSAP: A GPU-Accelerated Stochastic Graph Partitioner," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
+  <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, <a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-GSAP.pdf">"GSAP: A GPU-Accelerated Stochastic Graph Partitioner</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
   <a href="https://doi.org/10.1145/3673038.3673117" class="badge badge-primary">10.1145/3673038.3673117</a>
   <a href="https://github.com/chih-chun-chang/GSAP" class="badge badge-success">GitHub</a>
   </li>
@@ -35,7 +35,7 @@ permalink: /publications/
   </li>
 
   <li>Dian-Lun Lin, Joshua San Miguel, Umit Ogras, and Tsung-Wei Huang,
-  "TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling," 
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-EuroPar-Taro.pdf">TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling</a>," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Madrid, Spain, 2024<br>
   <span class="badge badge-secondary">30%</span>
   </li>
