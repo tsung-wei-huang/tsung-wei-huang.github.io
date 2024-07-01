@@ -25,7 +25,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, <a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-GSAP.pdf">"GSAP: A GPU-Accelerated Stochastic Graph Partitioner</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
+  <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-GSAP.pdf">GSAP: A GPU-Accelerated Stochastic Graph Partitioner</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
   <a href="https://doi.org/10.1145/3673038.3673117" class="badge badge-primary">10.1145/3673038.3673117</a>
   <a href="https://github.com/chih-chun-chang/GSAP" class="badge badge-success">GitHub</a>
   </li>
