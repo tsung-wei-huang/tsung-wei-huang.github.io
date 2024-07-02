@@ -72,16 +72,22 @@ permalink: /publications/
   <li>Jie Tong, Liangliang Chang, Umit Yusuf Ogras, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ISVLSI-BatchSim.pdf">BatchSim: Parallel RTL Simulation using Inter-cycle Batching and Task Graph Parallelism</a>," 
   <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  <a href="" class="badge badge-primary">10.1109/ISVLSI61997.2024.00155</a>
+  <span class="badge badge-secondary">35.7%</span>
   </li>
   
   <li>Che Chang, Cheng-Hsiang Chiu, Boyang Zhang, and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ISVLSI-Ink.pdf">Incremental Critical Path Generation for Dynamic Graphs</a>," 
   <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  <a href="" class="badge badge-primary">10.1109/ISVLSI61997.2024.00150</a>
+  <span class="badge badge-secondary">35.7%</span>
   </li>
   
   <li>Cheng-Hsiang Chiu and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ISVLSI-AsyncTask.pdf">An Experimental Study of Dynamic Task Graph Parallelism for Large-Scale Circuit Analysis Workloads</a>," 
   <i>IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</i>, Knoxville, Tennessee, 2024<br>
+  <a href="" class="badge badge-primary">10.1109/ISVLSI61997.2024.00149</a>
+  <span class="badge badge-secondary">35.7%</span>
   </li>
 
 
