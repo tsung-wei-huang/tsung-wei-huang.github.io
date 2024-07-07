@@ -30,7 +30,7 @@ permalink: /publications/
   <a href="https://github.com/chih-chun-chang/GSAP" class="badge badge-success">GitHub</a>
   </li>
   
-  <li>Shui Jiang, Rongliang Fu, Lukas Burgholzer, Robert Wille, Tsung-Yi Ho, and Tsung-Wei Huang, "FlatDD: A High-Performance Quantum Circuit Simulator using Decision Diagram and Flat Array," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
+  <li>Shui Jiang, Rongliang Fu, Lukas Burgholzer, Robert Wille, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-FlatDD.pdf">FlatDD: A High-Performance Quantum Circuit Simulator using Decision Diagram and Flat Array</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
   <a href="https://doi.org/10.1145/3673038.3673073" class="badge badge-primary">10.1145/3673038.3673073</a>
   </li>
 
