@@ -12,11 +12,6 @@ We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }
 <a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/">Department of Electrical and Computer Engineering (ECE)</a> 
 in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
 Our group creates novel software systems
-(e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
-<a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
-<a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
-<a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
-<a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
 to simplify the building of performance-critical applications,
 such as electronic design automation (EDA), machine learning (ML), and quantum computing.
 Our software has been used by thousands of people in industry and academia.

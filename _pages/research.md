@@ -12,13 +12,8 @@ Our overarching goal is to create novel software systems to simplify the program
 of parallel and heterogeneous computing resources. 
 Our systems target performance-critical applications, 
 such as computer-aided design, machine learning, and quantum computing.
-We have released several open-source software
-(e.g., <a href="https://taskflow.github.io/">Taskflow</a>,
-<a href="https://github.com/OpenTimer/OpenTimer">OpenTimer</a>,
-<a href="https://tsung-wei-huang.github.io/DtCraft/">DtCraft</a>,
-<a href="https://github.com/dian-lun-lin/SNIG">SNIG</a>,
-<a href="https://github.com/dian-lun-lin/RTLflow">RTLflow</a>)
-that is being used by many industrial and academic projects.
+We have released several open-source software projects
+that are being used by many industrial and academic projects.
 Our research is framed by the following themes:
 
 + [Theme #1: Parallel Programming Environments](#theme-1-parallel-programming-environments)
