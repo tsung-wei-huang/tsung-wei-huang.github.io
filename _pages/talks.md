@@ -10,18 +10,18 @@ permalink: /talks/
 
 <div class="row">
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">Dian-Lun at CppCon'23</h4>
+  <h4 class="badge badge-primary">Dian-Lun Lin at CppCon'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UCejPLSCaoI?si=fbid-nXLgvZQDo3j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 </div>
 
 <div class="row">
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">Dian-Lun at CppNow'23</h4>
+  <h4 class="badge badge-primary">Dian-Lun Lin at CppNow'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIPzED3VD3w" allowfullscreen></iframe></div>
 </div>
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">Cheng-Hsiang at CppNow'23</h4>
+  <h4 class="badge badge-primary">Cheng-Hsiang Chiu at CppNow'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AudA4WpTW6U" allowfullscreen></iframe></div>
 </div>
 </div>
@@ -37,7 +37,7 @@ permalink: /talks/
 </div>
 </div>
 
-## Research/Tech Talks
+## Research/Tech/Invited Talks
 
 <ol>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-dac-early-career.pdf">Scientific Research and Grant Writing</a>," DAC Eearly Career Workshop, June 2024</li>

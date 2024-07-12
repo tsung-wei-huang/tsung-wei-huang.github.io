@@ -5,6 +5,16 @@ excerpt: "TW's Research Group -- Pictures"
 permalink: /pictures/
 ---
 
+## Glory
+
+<div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-info">07/11/2024 Dian-Lun Lin's Defense</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-DL-Defense.png" style="width: 100%;">
+</div>
+</div>
+
+
 ## Dining
 
 <div class="row">
