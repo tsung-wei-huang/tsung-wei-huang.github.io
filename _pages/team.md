@@ -253,6 +253,13 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
 </div>
 
 
+According to <a href="https://www.usnews.com/best-graduate-schools/top-engineering-schools/electrical-engineering-rankings">2024 US News</a>, the ECE Department of UW-Madison is ranked #9 among public universities and #15 among all universities. You will find plenty of resources to help you grow and advance your research career in our department and UW-Madison!
+
+<center><div style="max-width: 700px">
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-UW-Madison-ECE-Ranking.jpeg" style="max-width: 100%"></p>
+</div></center>
+
+
 <br>
 
 
