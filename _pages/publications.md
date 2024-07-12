@@ -34,7 +34,7 @@ permalink: /publications/
   <a href="https://doi.org/10.1145/3673038.3673073" class="badge badge-primary">10.1145/3673038.3673073</a>
   </li>
 
-  <li>Dian-Lun Lin, Joshua San Miguel, Umit Ogras, and Tsung-Wei Huang,
+  <li>Dian-Lun Lin, Umit Ogras, Joshua San Miguel, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-EuroPar-Taro.pdf">TaroRTL: Accelerating RTL Simulation using Coroutine-based Heterogeneous Task Graph Scheduling</a>," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Madrid, Spain, 2024<br>
   <span class="badge badge-secondary">30%</span>
