@@ -32,6 +32,7 @@ permalink: /publications/
   
   <li>Shui Jiang, Rongliang Fu, Lukas Burgholzer, Robert Wille, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-FlatDD.pdf">FlatDD: A High-Performance Quantum Circuit Simulator using Decision Diagram and Flat Array</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
   <a href="https://doi.org/10.1145/3673038.3673073" class="badge badge-primary">10.1145/3673038.3673073</a>
+  <a href="https://github.com/IDEA-CUHK/FlatDD" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Dian-Lun Lin, Umit Ogras, Joshua San Miguel, and Tsung-Wei Huang,
@@ -113,6 +114,7 @@ permalink: /publications/
   <li>Zizheng Guo, Tsung-Wei Huang, Jin Zhou, Cheng Zhuo, Yibo Lin, Runsheng Wang, and Ru Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/date-24.pdf">Heterogeneous Static Timing Analysis with Advanced Delay Calculator</a>,"
   <i>IEEE/ACM Design, Automation and Test in Europe Conference (DATE)</i>, Valencia, Spain, 2024 <br>
+  <a href="https://ieeexplore.ieee.org/document/10546507" class="badge badge-primary">IEEE-10546507</a>
   <span class="badge badge-secondary">25%</span>
   </li>
 
