@@ -40,6 +40,7 @@ permalink: /publications/
 
   <li>Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, Yibo Lin, Runsheng Wang, and Ru Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICCAD-HeteroExcept.pdf">HeteroExcept: Heterogeneous Engine for General Timing Path Exception Analysis</a>," <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, New York, 2024<br>
   <a href="https://doi.org/10.1145/3676536.3676651" class="badge badge-primary">10.1145/3676536.3676651</a>
+  <span class="badge badge-secondary">24%</span>
   </li>
 
   <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-GSAP.pdf">GSAP: A GPU-Accelerated Stochastic Graph Partitioner</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
