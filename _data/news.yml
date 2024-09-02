@@ -1,5 +1,5 @@
 - date: 2. Sep 2024
-  headline: Wan-Luan's, Randy's, and Boyang's papers accepted by 2025 IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC). Congratulations!
+  headline: Wan-Luan's, Randy's, and Boyang's papers accepted by 2025 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC). Congratulations!
   image: "images/logopic/aspdac-logo.png"
 
 - date: 30. Aug 2024
@@ -230,7 +230,7 @@
   image: "images/logopic/cppcon-logo.png"
 
 - date: 14. Sep 2021
-  headline: We have one paper accepted by 2022 IEEE/ACM ASPDAC!
+  headline: We have one paper accepted by 2022 IEEE/ACM ASP-DAC!
 
 - date: 1. Sep 2021
   headline: We have three papers accepted by 2021 IEEE/ACM ICCAD!
@@ -329,7 +329,7 @@
   headline: Our paper, <q>An Efficient Work-Stealing Scheduler for Task Dependency Graph</q>, is accepted by <a href="https://icpads2020.comp.polyu.edu.hk/">2020 IEEE ICPADS</a>.
 
 - date: 6. Sep 2020
-  headline: One paper is accepted by 2020 IEEE/ACM ASPDAC.
+  headline: One paper is accepted by 2020 IEEE/ACM ASP-DAC.
 
 - date: 5. Sep 2020
   headline: Our paper, <q>OpenTimer v2&#58; A New Parallel Incremental Timing Analysis Engine</q>, is accepted by 2021 IEEE TCAD.
@@ -350,7 +350,7 @@
   headline: Prof. Huang serves on the program committee of 2020 IEEE ICCD.
 
 - date: 17. April 2020
-  headline: Prof. Huang serves on the program committee of 2020 IEEE/ACM ASPDAC.
+  headline: Prof. Huang serves on the program committee of 2020 IEEE/ACM ASP-DAC.
 
 - date: 30. March 2020
   headline: Prof. Huang gave a talk, <q><a href="talks/ornl-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System at Scale</a></q>, to the Future Technology Group at Oak Ridge National Laboratory.
