@@ -25,6 +25,23 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+
+  <li>Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)</i>, Tokyo, Japan, 2025
+  </li>
+
+  <li>Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)</i>, Tokyo, Japan, 2025
+  </li>
+
+  <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASPDAC)</i>, Tokyo, Japan, 2025
+  </li>
+
+  <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2024<br>
+  </li>
+
+  <li>Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, Yibo Lin, Runsheng Wang, and Ru Huang, "HeteroExcept: Heterogeneous Engine for General Timing Path Exception Analysis," <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, New York, 2024<br>
+  <a href="https://doi.org/10.1145/3676536.3676651" class="badge badge-primary">10.1145/3676536.3676651</a>
+  </li>
+
   <li>Chih-Chun Chang, Boyang Zhang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICPP-GSAP.pdf">GSAP: A GPU-Accelerated Stochastic Graph Partitioner</a>," <i>ACM International Conference on Parallel Processing (ICPP)</i>, Gotland, Sweden, 2024<br>
   <a href="https://doi.org/10.1145/3673038.3673117" class="badge badge-primary">10.1145/3673038.3673117</a>
   <span class="badge badge-secondary">29%</span>
