@@ -38,7 +38,7 @@ permalink: /publications/
   <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2024<br>
   </li>
 
-  <li>Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, Yibo Lin, Runsheng Wang, and Ru Huang, "HeteroExcept: Heterogeneous Engine for General Timing Path Exception Analysis," <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, New York, 2024<br>
+  <li>Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, Yibo Lin, Runsheng Wang, and Ru Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICCAD-HeteroExcept.pdf">HeteroExcept: Heterogeneous Engine for General Timing Path Exception Analysis</a>," <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, New York, 2024<br>
   <a href="https://doi.org/10.1145/3676536.3676651" class="badge badge-primary">10.1145/3676536.3676651</a>
   </li>
 
