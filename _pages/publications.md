@@ -26,13 +26,16 @@ permalink: /publications/
 
 <ol>
 
-  <li>Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025
+  <li>Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <span class="badge badge-secondary">28%</span>
   </li>
 
-  <li>Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025
+  <li>Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <span class="badge badge-secondary">28%</span>
   </li>
 
-  <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025
+  <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <span class="badge badge-secondary">28%</span>
   </li>
 
   <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2024<br>
