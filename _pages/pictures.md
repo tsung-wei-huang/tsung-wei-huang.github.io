@@ -43,6 +43,15 @@ permalink: /pictures/
 </div>
 </div>
 
+## Visitors
+
+<div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-info">09/17/24 Rivos</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-Rivos-Visit.png" style="width: 100%;">
+</div>
+</div>
+
 ## Conferences
 
 <div class="row">
