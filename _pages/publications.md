@@ -38,7 +38,7 @@ permalink: /publications/
   <span class="badge badge-secondary">28%</span>
   </li>
 
-  <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, MA, 2024<br>
+  <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-HPEC-RL-AsyncTask.pdf">Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2024<br>
   </li>
 
   <li>Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, Yibo Lin, Runsheng Wang, and Ru Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICCAD-HeteroExcept.pdf">HeteroExcept: Heterogeneous Engine for General Timing Path Exception Analysis</a>," <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, New York, 2024<br>
@@ -210,13 +210,13 @@ permalink: /publications/
   </li>
 
   <li>Tsung-Wei Huang and Leslie Hwang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-semaphore.pdf">Task-parallel Programming with Constrained Parallelism</a>," 
-  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
+  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, virtual, 2022 <br>
   <a href="https://doi.org/10.1109/HPEC55821.2022.9926348" class="badge badge-primary">10.1109/HPEC55821.2022.9926348</a>
   <a href="https://taskflow.github.io/taskflow/LimitTheMaximumConcurrency.html" class="badge badge-success">GitHub</a>
   </li>
 
   <li>Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec22-ot.pdf">Enhancing the Performance Portability of Heterogeneous Circuit Analysis Programs</a>," 
-  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2022 <br>
+  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, virtual, 2022 <br>
   <a href="https://doi.org/10.1109/HPEC55821.2022.9926380" class="badge badge-primary">10.1109/HPEC55821.2022.9926380</a>
   </li>
 
@@ -285,7 +285,7 @@ permalink: /publications/
   
   <li>Yasin Zamani and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/hpec21.pdf">A High-Performance Heterogeneous Critical Path Analysis Framework</a>," 
-  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, MA, 2021 <br>
+  <i>IEEE High-Performance Extreme Computing Conference (HPEC)</i>, virtual, 2021 <br>
   <a href="https://ieeexplore.ieee.org/document/9622872" class="badge badge-primary">10.1109/HPEC49654.2021.9622872</a>
   </li>
   
