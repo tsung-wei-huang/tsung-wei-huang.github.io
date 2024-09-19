@@ -27,15 +27,15 @@ permalink: /publications/
 <ol>
 
   <li>Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
-  <span class="badge badge-secondary">28%</span>
+  <span class="badge badge-secondary">28.62%</span>
   </li>
 
   <li>Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
-  <span class="badge badge-secondary">28%</span>
+  <span class="badge badge-secondary">28.62%</span>
   </li>
 
   <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
-  <span class="badge badge-secondary">28%</span>
+  <span class="badge badge-secondary">28.62%</span>
   </li>
 
   <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-HPEC-RL-AsyncTask.pdf">Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2024<br>
