@@ -26,15 +26,18 @@ permalink: /publications/
 
 <ol>
 
-  <li>Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <li>Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-HyperG">HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <a href="https://doi.org/10.1145/3658617.3697551" class="badge badge-primary">10.1145/3658617.3697551</a>
   <span class="badge badge-secondary">28.62%</span>
   </li>
 
-  <li>Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <li>Boyang Zhang, Che Chang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yang Sui, Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-iTAP">iTAP: An Incremental Task Graph Partitioner for Task-parallel Static Timing Analysis</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <a href="https://doi.org/10.1145/3658617.3697738" class="badge badge-primary">10.1145/3658617.3697738</a>
   <span class="badge badge-secondary">28.62%</span>
   </li>
 
-  <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "PathGen: An Efficient Parallel Critical Path Generation Algorithm," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-PathGen">PathGen: An Efficient Parallel Critical Path Generation Algorithm</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
+  <a href="https://doi.org/10.1145/3658617.3697741" class="badge badge-primary">10.1145/3658617.3697741</a>
   <span class="badge badge-secondary">28.62%</span>
   </li>
 
