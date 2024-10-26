@@ -40,6 +40,7 @@ permalink: /talks/
 ## Research/Tech/Invited Talks
 
 <ol>
+<li>"Intelligent Heterogeneous Computing: Classical and Quantum," Arizona State University, Oct 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-dac-early-career.pdf">Scientific Research and Grant Writing</a>," DAC Eearly Career Workshop, June 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-cpp-rusia.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Rapid Silicon, June 2024</li>
 <li>"Intelligent Heterogeneous Computing," University of Colorado Boulder, June 2024</li>
