@@ -1,16 +1,16 @@
+- name: Manu Maheshwari
+  photo: manu_maheshwari.jpeg
+  info: Fall 2024--present
+  email: 
+  number_educ: 1
+  research: GPU task graph optimization
+
 - name: Aditya Das Sarma
   photo: aditya.jpeg
   info: Spring 2023--present
   email: adassarma@cs.wisc.edu
   number_educ: 1
   research: Multi-bit flip-flop clustering for power optimization
-
-- name: Muhammed Alimi
-  photo: alimi.jpeg
-  info: Fall 2023--present
-  email: malimi@wisc.edu
-  number_educ: 1
-  research: TBD
 
 - name: Ting-Kuo Chen
   photo: ting-kuo_chen.jpeg
