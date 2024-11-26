@@ -18,7 +18,7 @@
 
 - name: McKay Mower
   photo: mckay_mower.jpg
-  info: <b>ECE Master 2023</b>
+  info: <b>UofU ECE Master 2023</b>
   email: mmower777@gmail.com
   number_educ: 1
   research: Graph neural network, performance modeling
@@ -27,7 +27,7 @@
 
 - name: Luke Majors
   photo: luke_majors.jpeg
-  info: <b>ECE Master 2023</b>
+  info: <b>UofU ECE Master 2023</b>
   email: lukemajors12@gmail.com
   number_educ: 1
   research: Graph algorithms
@@ -35,13 +35,21 @@
 
 - name: Yasin Zamani
   photo: yasin.jpeg
-  info: <b>ECE Master 2021</b>
+  info: <b>UofU ECE Master 2021</b>
   email: yasin.zamani@utah.edu
   research: GPU programming, static timing analysis
   number_educ: 2
   education1: MS&colon; Isfahan University of Technology
   education2: BS&colon; Isfahan University of Technology
   experience: First appointment&#58; Data Scientist at Variant (since 2022)
+
+- name: Elmir Dzaka
+  photo: elmir.jpeg
+  info: <b>UofU ECE Bachelor 2024</b>
+  email: elmir.dzaka@utah.edu
+  number_educ: 1
+  research: Parallel logic simulation algorithms
+  experience: First appointment&#58; PhD at the University of Utah (since 2024)
 
 
 
