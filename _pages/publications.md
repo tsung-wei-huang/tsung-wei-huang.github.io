@@ -39,7 +39,7 @@ permalink: /publications/
   <li>Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-PathGen.pdf">PathGen: An Efficient Parallel Critical Path Generation Algorithm</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
   <a href="https://doi.org/10.1145/3658617.3697741" class="badge badge-primary">10.1145/3658617.3697741</a>
   <span class="badge badge-secondary">28.62%</span>
-  <a href="https://sites.google.com/site/taucontest2015" class="badge badge-warning">Best Paper Candidate</a>
+  <a href="https://tsys.jp/aspdac/2025/program/program.html" class="badge badge-warning">Best Paper Candidate</a>
   </li>
 
   <li>Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-HPEC-RL-AsyncTask.pdf">Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2024<br>
