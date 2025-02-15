@@ -26,6 +26,10 @@ permalink: /publications/
 
 <ol>
   
+  <li>Wan-Luan Lee, Shui Jiang, Dian-Lun Lin, Che Chang, Boyang Zhang, Yi-Hua Chung, Ulf Schlichtmann, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/">iG-kway: Incremental k-way Graph Partitioning on GPU</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+  
   <li>Shui Jiang, Yi-Hua Chung, Chih-Chun Chang, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/">BQSim: GPU-accelerated Batch Quantum Circuit Simulation using Decision Diagram</a>," <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Rotterdam, Netherlands, 2025<br>
   <a href="https://doi.org/10.1145/3676641.3715984" class="badge badge-primary">10.1145/3676641.3715984</a>
   <a href="https://github.com/IDEA-CUHK/BQSim" class="badge badge-success">GitHub</a>
