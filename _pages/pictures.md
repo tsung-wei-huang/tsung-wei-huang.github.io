@@ -55,6 +55,10 @@ permalink: /pictures/
   <h4 class="badge badge-info">09/17/24 Rivos's Visit</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-Rivos-Visit.png" style="width: 100%;">
 </div>
+<div class="col-sm-4">
+  <h4 class="badge badge-info">12/01/24 Prof. Cunxi Yu's Visit</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-Cunxi-Visit.jpeg" style="width: 100%;">
+</div>
 </div>
 
 ## Conferences
