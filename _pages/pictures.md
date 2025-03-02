@@ -9,6 +9,11 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-4">
+  <h4 class="badge badge-info">03/02/2025 2nd Place in PPoPP Programming Contest</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-PPoPP-FCPC-second-place.png" style="width: 100%;">
+</div>
+
+<div class="col-sm-4">
   <h4 class="badge badge-info">10/31/2024 6th Place in ICCAD CAD Contest</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-ICCAD-CAD-Contest-Honorable.png" style="width: 100%;">
 </div>
