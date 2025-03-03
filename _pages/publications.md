@@ -36,7 +36,12 @@ permalink: /publications/
   <a href="https://github.com/IDEA-CUHK/BQSim" class="badge badge-success">GitHub</a>
   </li>
   
-  <li><b>[ExHET'25]</b> Serhan Gener, Sahil Hassan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ograss, and Ali Akoglu, "<a href="{{ site.url }}{{ site.baseurl }}/">A Unified Portable and Programmable Framework for Task-Based Execution and Dynamic Resource Management on Heterogeneous Systems</a>," <i>ACM International Workshop on Extreme Heterogeneity Solutions (ExHET)</i>, Las Vegas, Nevada, 2025<br>
+  <li><b>[FCPC'25]</b> Pao-I Chen and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/2025-FCPC.pdf">An Efficient Implemenetation of Parallel Breadth-first Search</a>," <i>ACM SIGPLAN PPoPP Workshop on Fast Code Programming Challenge (FCPC)</i>, Las Vegas, Nevada, 2025<br>
+  <a href="/" class="badge badge-primary">TBD</a>
+  <a href="https://fastcode.org/events/fastcode-challenge/" class="badge badge-warning">Second Place</a>
+  </li>
+  
+  <li><b>[ExHET'25]</b> Serhan Gener, Sahil Hassan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ograss, and Ali Akoglu, "<a href="{{ site.url }}{{ site.baseurl }}/">A Unified Portable and Programmable Framework for Task-Based Execution and Dynamic Resource Management on Heterogeneous Systems</a>," <i>ACM SIGPLAN PPoPP Workshop on Extreme Heterogeneity Solutions (ExHET)</i>, Las Vegas, Nevada, 2025<br>
   <a href="/" class="badge badge-primary">TBD</a>
   </li>
 
