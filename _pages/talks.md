@@ -40,6 +40,7 @@ permalink: /talks/
 ## Research/Tech/Invited Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2025-fcpc.pdf">An Efficient Implementation of Breadth-first Search Algorithm</a>," ACM PPoPP FCPC, March 2025</li>
 <li>"Intelligent Heterogeneous Computing: Classical and Quantum," Arizona State University, Oct 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-dac-early-career.pdf">Scientific Research and Grant Writing</a>," DAC Eearly Career Workshop, June 2024</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2024-cpp-rusia.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Rapid Silicon, June 2024</li>
