@@ -28,7 +28,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   Assistant Professor, Department of ECE<br>
   University of Wisconsin at Madison, Madison, WI, USA, 53706<br>
   Office: Engineering Hall (EH) 3423<br>
-  BS/MS (<a href="http://www.csie.ncku.edu.tw/ncku_csie/">NCKU-CS</a>), PhD (<a href="https://ece.illinois.edu/">UIUC-ECE</a>)<br>
+  BS/MS (<a href="http://www.csie.ncku.edu.tw/ncku_csie/">NCKU-CS@Taiwan</a>), PhD (<a href="https://ece.illinois.edu/">UIUC-ECE@USA</a>)<br>
   <a href="https://github.com/tsung-wei-huang"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-github.jpg" height=25px></a>
   <a href="https://scholar.google.com/citations?user=ibeirYQAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-scholar.jpg" height=25px></a>
   <a href="{{ site.url }}{{ site.baseurl }}/resumes/twhuang_cv.pdf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cv.png" height=25px></a>
@@ -42,7 +42,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   <div class="col-md-12 col-sm-12 vertical-align">
   <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Assistant Professor in the ECE Department at the University of Wisconsin at Madison. He was an Assistant Professor at the University of Utah from 2019 to 2023. He received his PhD from the ECE Department at the University of Illinois at Urbana-Champaign in 2017 and BS/MS from the CS Department at Taiwan's National Cheng Kung University in 2011. He has been creating software systems to simplify the building of performance-critical applications, such as computer-aided design, machine learning systems, and quantum computing. These software systems are being used by thousands of people in industry and academia.</p>
 
-  <p>Dr. Huang receives several awards for his research contributions, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship Award, ACM SIGDA Outstanding New Faculty Award, and ICCAD 10-year Retrospective Most Influential Paper Award.</p>
+  <p>Dr. Huang receives several awards for his research contributions, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship Award, ACM SIGDA Outstanding New Faculty Award, and ICCAD 10-year Retrospective Most Influential Paper Award. Beyond his research, Dr. Huang is passionate about optimizing software and algorithm performance, winning multiple programming contests, including 1<sup>st</sup> Place in ACM SIGDA CADathlon, 1<sup>st</sup> Place in ACM TAU Timing Analysis Contest, 1<sup>st</sup> Place in HPEC Graph Challenge, 2<sup>nd</sup> Place in PPoPP FCPC, etc.</p>
   </div>
 </div>
 
