@@ -31,7 +31,7 @@ permalink: /publications/
   <span class="badge badge-secondary">23%</span>
   </li>
   
-  <li><b>[ASPLOS'25]</b> Shui Jiang, Yi-Hua Chung, Chih-Chun Chang, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/">BQSim: GPU-accelerated Batch Quantum Circuit Simulation using Decision Diagram</a>," <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Rotterdam, Netherlands, 2025<br>
+  <li><b>[ASPLOS'25]</b> Shui Jiang, Yi-Hua Chung, Chih-Chun Chang, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-asplos.pdf">BQSim: GPU-accelerated Batch Quantum Circuit Simulation using Decision Diagram</a>," <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Rotterdam, Netherlands, 2025<br>
   <a href="https://doi.org/10.1145/3676641.3715984" class="badge badge-primary">10.1145/3676641.3715984</a>
   <a href="https://github.com/IDEA-CUHK/BQSim" class="badge badge-success">GitHub</a>
   </li>
@@ -41,8 +41,15 @@ permalink: /publications/
   <a href="https://fastcode.org/events/fastcode-challenge/" class="badge badge-warning">Second Place</a>
   </li>
   
-  <li><b>[ExHET'25]</b> Serhan Gener, Sahil Hassan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ograss, and Ali Akoglu, "<a href="{{ site.url }}{{ site.baseurl }}/">A Unified Portable and Programmable Framework for Task-Based Execution and Dynamic Resource Management on Heterogeneous Systems</a>," <i>ACM SIGPLAN PPoPP Workshop on Extreme Heterogeneity Solutions (ExHET)</i>, Las Vegas, Nevada, 2025<br>
+  <li><b>[ExHET'25]</b> Serhan Gener, Sahil Hassan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ograss, and Ali Akoglu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ExHET.pdf">A Unified Portable and Programmable Framework for Task-Based Execution and Dynamic Resource Management on Heterogeneous Systems</a>," <i>ACM SIGPLAN PPoPP Workshop on Extreme Heterogeneity Solutions (ExHET)</i>, Las Vegas, Nevada, 2025<br>
   <a href="/" class="badge badge-primary">TBD</a>
+  <a href="https://ua-rcl.github.io/projects/cedr/" class="badge badge-success">GitHub</a>
+  </li>
+  
+  <li><b>[WAMTA'25]</b> Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Yi-Hua Chung, Che Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-wamta.pdf">A Task-parallel Pipeline Programming Model with Token
+Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications (WAMTA)</i>, St. Louis, MO, 2025<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://taskflow.github.io/taskflow/TaskParallelPipelineWithTokenDependencies.html" class="badge badge-success">GitHub</a>
   </li>
 
   <li><b>[ASP-DAC'25]</b> Wan-Luan Lee, Dian-Lun Lin, Cheng-Hsiang Chiu, Ulf Schlichtmann, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-HyperG.pdf">HyperG: Multilevel GPU-Accelerated k-way Hypergraph Partitioner</a>," <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Tokyo, Japan, 2025<br>
