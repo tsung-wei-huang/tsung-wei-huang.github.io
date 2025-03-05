@@ -123,6 +123,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
   <a href="https://doi.org/10.1145/3649329.3655983" class="badge badge-primary">10.1145/3649329.3655983</a>
   <span class="badge badge-secondary">21.8%</span>
+  <a href="https://github.com/cuhk-eda/GCS-Timer" class="badge badge-success">GitHub</a>
   </li>
   
   <li><b>[ISVLSI'24]</b> Jie Tong, Liangliang Chang, Umit Yusuf Ogras, and Tsung-Wei Huang,
