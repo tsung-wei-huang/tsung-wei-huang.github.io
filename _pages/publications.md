@@ -277,7 +277,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <span class="badge badge-secondary">20%</span>
   </li>
 
-  <li><b>[HIPS'22]</b> Tsung-Wei Huang and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/HIPS22.pdf">Concurrent CPU-GPU Task Programming using Modern C++</a>," <i>IEEE International Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS)</i>, France, 2022 <br>
+  <li><b>[HIPS'22]</b> Tsung-Wei Huang and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/HIPS22.pdf">Concurrent CPU-GPU Task Programming using Modern C++</a>," <i>IEEE IPDPS Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS)</i>, France, 2022 <br>
    <a href="https://ieeexplore.ieee.org/document/9835277" class="badge badge-primary">10.1109/IPDPSW55747.2022.00099</a>
   </li>
 
@@ -321,7 +321,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   </li>
   
   <li><b>[AMTE'21]</b> Cheng-Hsiang Chiu, Dian-Lun Lin, and Tsung-Wei Huang, 
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/amte21.pdf">An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</a>," <i>International Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021 <br>
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/amte21.pdf">An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</a>," <i>Euro-Par Workshop of Asynchronous Many-Task systems for Exascale (AMTE)</i>, Portugal, 2021 <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-031-06156-1_37" class="badge badge-primary">10.1007/978-3-031-06156-1_37</a>
   </li>
   
@@ -330,6 +330,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <i>European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Portugal, 2021 <br>
   <a href="https://link.springer.com/chapter/10.1007/978-3-030-85665-6_27" class="badge badge-primary">10.1007/978-3-030-85665-6_27</a>
   <span class="badge badge-secondary">29.4%</span>
+  <a href="https://taskflow.github.io/taskflow/GPUTaskingcudaFlow.html" class="badge badge-success">GitHub</a>
   </li>
   
   <li><b>[DAC'21]</b> Guannan Guo, Tsung-Wei Huang, Yibo Lin, and Martin Wong,
