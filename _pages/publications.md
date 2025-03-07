@@ -42,7 +42,7 @@ permalink: /publications/
   </li>
   
   <li><b>[ExHET'25]</b> Serhan Gener, Sahil Hassan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ograss, and Ali Akoglu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ExHET.pdf">A Unified Portable and Programmable Framework for Task-Based Execution and Dynamic Resource Management on Heterogeneous Systems</a>," <i>ACM SIGPLAN PPoPP Workshop on Extreme Heterogeneity Solutions (ExHET)</i>, Las Vegas, Nevada, 2025<br>
-  <a href="/" class="badge badge-primary">TBD</a>
+  <a href="https://doi.org/10.1145/3720555.3721988" class="badge badge-primary">10.1145/3720555.3721988</a>
   <a href="https://ua-rcl.github.io/projects/cedr/" class="badge badge-success">GitHub</a>
   </li>
   
