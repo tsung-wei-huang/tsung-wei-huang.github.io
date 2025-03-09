@@ -9,21 +9,21 @@ permalink: /research/
 ## Research
 
 Our overarching goal is to create novel software systems to simplify the programming complexity
-of parallel and heterogeneous computing resources. 
+of heterogeneous computing resources. 
 Our systems target performance-critical applications, 
 such as computer-aided design, machine learning, and quantum computing.
 We have released several open-source software projects
 that are being used by many industrial and academic projects.
 Our research is framed by the following themes:
 
-+ [Theme #1: Parallel Programming Environments](#theme-1-parallel-programming-environments)
++ [Theme #1: Heterogeneous Programming Environments](#theme-1-heterogeneous-programming-environments)
 + [Theme #2: VLSI Computer-aided Design](#theme-2-vlsi-electronic-design-automation)
 + [Theme #3: Quantum Computing](#theme-3-quantum-computing)
 + [Theme #4: Machine Learning Systems](#theme-4-machine-learning-systems)
 
 <hr>
 
-### Theme 1: Parallel Programming Environments
+### Theme 1: Heterogeneous Programming Environments
 
 **Research Question**: *How can we make it easier for researchers and developers to write parallel and heterogeneous programs with high performance and simultaneous high productivity?*
 
