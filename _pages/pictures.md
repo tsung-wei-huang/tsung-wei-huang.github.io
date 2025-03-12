@@ -9,7 +9,7 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-4">
-  <h4 class="badge badge-info">03/02/2025 2nd Place in PPoPP Programming Contest</h4>
+  <h4 class="badge badge-info">03/02/2025 2nd Place in PPoPP FCPC</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-PPoPP-FCPC-second-place.png" style="width: 100%;">
 </div>
 
