@@ -37,7 +37,7 @@ permalink: /publications/
   </li>
   
   <li><b>[FCPC'25]</b> Pao-I Chen and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-FCPC.pdf">An Efficient Implemenetation of Parallel Breadth-first Search</a>," <i>ACM SIGPLAN PPoPP Workshop on Fast Code Programming Challenge (FCPC)</i>, Las Vegas, Nevada, 2025<br>
-  <a href="https://doi.org/10.1145/3711708.3723443." class="badge badge-primary">10.1145/3711708.3723443.</a>
+  <a href="https://doi.org/10.1145/3711708.3723443" class="badge badge-primary">10.1145/3711708.3723443</a>
   <a href="https://fastcode.org/events/fastcode-challenge/" class="badge badge-warning">Second Place</a>
   </li>
   
