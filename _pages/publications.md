@@ -38,12 +38,13 @@ permalink: /publications/
   
   <li><b>[ASPLOS'25]</b> Shui Jiang, Yi-Hua Chung, Chih-Chun Chang, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-asplos.pdf">BQSim: GPU-accelerated Batch Quantum Circuit Simulation using Decision Diagram</a>," <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Rotterdam, Netherlands, 2025<br>
   <a href="https://doi.org/10.1145/3676641.3715984" class="badge badge-primary">10.1145/3676641.3715984</a>
+  <span class="badge badge-secondary">17.5%</span>
   <a href="https://github.com/IDEA-CUHK/BQSim" class="badge badge-success">GitHub</a>
   </li>
   
   <li><b>[FCPC'25]</b> Pao-I Chen and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-FCPC.pdf">An Efficient Implemenetation of Parallel Breadth-first Search</a>," <i>ACM SIGPLAN PPoPP Workshop on Fast Code Programming Challenge (FCPC)</i>, Las Vegas, Nevada, 2025<br>
   <a href="https://doi.org/10.1145/3711708.3723443" class="badge badge-primary">10.1145/3711708.3723443</a>
-  <a href="https://fastcode.org/events/fastcode-challenge/" class="badge badge-warning">Second Place</a>
+  <a href="https://fastcode.org/events/fastcode-challenge/" class="badge badge-warning">Second Place (out of 46 teams)</a>
   </li>
   
   <li><b>[ExHET'25]</b> Serhan Gener, Sahil Hassan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ograss, and Ali Akoglu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ExHET.pdf">A Unified Portable and Programmable Framework for Task-Based Execution and Dynamic Resource Management on Heterogeneous Systems</a>," <i>ACM SIGPLAN PPoPP Workshop on Extreme Heterogeneity Solutions (ExHET)</i>, Las Vegas, Nevada, 2025<br>
