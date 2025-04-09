@@ -39,7 +39,7 @@ Madison has been consistently placed top in the list of [Best Places to Live in 
 Our educational habitat is breathtakingly beautiful,
 situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range">Wasatch Mountains</a> in the state's <a href="https://www.visitsaltlake.com/">Salt Lake City</a>.-->
 
-According to <a href="https://www.usnews.com/best-graduate-schools/top-engineering-schools/electrical-engineering-rankings">2024 US News</a>, the ECE Department of UW-Madison is ranked #9 among public universities and #15 among all universities.
+According to <a href="https://premium.usnews.com/best-graduate-schools/top-engineering-schools/computer-engineering-rankings">2025 US News</a>, the ECE Department of UW-Madison is ranked #9 among public universities and #15 among all universities.
 
 <center><div style="max-width: 700px">
 <p><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-UW-Madison-ECE-Ranking.jpeg" style="max-width: 100%"></p>
@@ -48,7 +48,7 @@ According to <a href="https://www.usnews.com/best-graduate-schools/top-engineeri
 
 <h2>Join us!</h2>
 
-We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **parallel computing**, **computer-aided design**, **quantum computing**, and **machine learning systems**.
+We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **heterogeneous computing**, **computer-aided design**, **quantum computing**, and **machine learning systems**.
 My students have been collaborating and working with many companies,
 such as Nvidia, Intel, Cadence, Synopsys, IBM, Google, Huawei, and so on.
 

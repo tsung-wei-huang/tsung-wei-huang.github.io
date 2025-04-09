@@ -8,7 +8,7 @@ permalink: /team/
 
 ## Open Positions!
 
-<p>We are looking for *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **computer-aided design**, **high-performance computing**, **machine learning systems**, and **quantum computing**.
+<p>We are looking for *highly self-motivated* PhD, MS, and undergraduate students joining us, doing research on **heterogeneous computing**, **computer-aided design**, **quantum computing**, and **machine learning systems**.
 Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](#why-join-our-team)). </p>
 
 <hr>
