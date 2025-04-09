@@ -38,7 +38,7 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <div class="row row-padded align-items-center">
   <div class="col-md-2 col-sm-2 masthead">
-  <div style="max-width: 100px; display: inline-block; text-align: center;">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
   <p><a href="https://taskflow.github.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/taskflow_logo.png" style="width: 100%;"></a></p>
   </div>
   </div>
@@ -54,7 +54,7 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <div class="row row-padded align-items-center">
   <div class="col-md-2 col-sm-2 masthead">
-  <div style="max-width: 120px; display: inline-block; text-align: center;">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
   <p><a href="https://taskflow.github.io/"><img src="{{ site.url }}{{ site.baseurl }}/images/respic/taro-logo.png" style="width: 100%;"></a></p>
   </div>
   </div>
@@ -69,7 +69,7 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <div class="row row-padded align-items-center">
   <div class="col-md-2 col-sm-2 masthead">
-  <div style="max-width: 100px; display: inline-block; text-align: center;">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dtcraft_logo.png" style="width: 100%;"></p>
   </div>
   </div>
@@ -108,7 +108,7 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
   
 <div class="row row-padded align-items-center">
   <div class="col-md-2 col-sm-2 masthead">
-  <div style="max-width: 100px; display: inline-block; text-align: center;">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/opentimer_logo.png" style="width: 100%;"></p>
   </div>
   </div>
@@ -120,7 +120,7 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
 
 <div class="row row-padded align-items-center">
   <div class="col-md-2 col-sm-2 masthead">
-  <div style="max-width: 100px; display: inline-block; text-align: center;">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
   <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rtlflow-logo.png" style="width: 100%;"></p>
   </div>
   </div>
@@ -148,6 +148,18 @@ because it demands large computation and memory to evaluate quantum operations.
 For example, simulating an n-qubit quantum circuits requires an exponential size of vector to store 2^n
 amplitudes, as a result of superposition.
 **Our research investigates new algorithms for quantum circuit simulation and optimization by leveraging the power of classical high-performance computing techniques.**
+
+<div class="row row-padded align-items-center">
+  <div class="col-md-2 col-sm-2 masthead">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/bqsim.png" style="width: 100%;"></p>
+  </div>
+  </div>
+  <div class="col-md-10 col-sm-10">
+  <h4><a href="https://github.com/IDEA-CUHK/BQSim">BQSim: GPU-accelerated Batch Quantum Circuit Simulation</a></h4>
+  <p>BQSim helps quantum computing researchers and developers quickly simulate how quantum circuits work using the power of GPU.</p>
+  </div>
+</div>
 
 <hr>
 
