@@ -17,7 +17,7 @@ that are being used by many industrial and academic projects.
 Our research is framed by the following themes:
 
 + [Theme #1: Heterogeneous Programming Environments](#theme-1-heterogeneous-programming-environments)
-+ [Theme #2: VLSI Computer-aided Design](#theme-2-vlsi-electronic-design-automation)
++ [Theme #2: Electronic Design Automation](#theme-2-electronic-design-automation)
 + [Theme #3: Quantum Computing](#theme-3-quantum-computing)
 + [Theme #4: Machine Learning Systems](#theme-4-machine-learning-systems)
 
@@ -95,7 +95,7 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 
 
-### Theme 2: VLSI Electronic Design Automation
+### Theme 2: Electronic Design Automation
 
 **Research Question**: *How can we leverage emerging heterogeneous parallelism to speed up electronic design automation (EDA) algorithms and achieve order-of-magnitude performance breakthrough?*
 
@@ -134,7 +134,7 @@ The ever-increasing design complexity in very-large-scale integration (VLSI) imp
 
 ### Theme 3: Quantum Computing
 
-**Research Question**: *How can we create fast and reliable software for researchers and developers to understand quantum operations and validate quantum circuit functionality?*
+**Research Question**: *How can we create fast and reliable software for researchers and developers to understand quantum operations and design reliable quantum computers?*
 
 <center><div style="max-width: 800px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_qc.png"  class="rounded" style="max-width: 100%">
