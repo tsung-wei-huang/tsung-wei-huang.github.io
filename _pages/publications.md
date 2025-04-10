@@ -26,7 +26,7 @@ permalink: /publications/
 
 <ol>
   
-  <li><b>[DAC'25]</b> Wan-Luan Lee, Shui Jiang, Dian-Lun Lin, Che Chang, Boyang Zhang, Yi-Hua Chung, Ulf Schlichtmann, Tsung-Yi Ho, and Tsung-Wei Huang, "iG-kway: Incremental k-way Graph Partitioning on GPU," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
+  <li><b>[DAC'25]</b> Wan-Luan Lee, Shui Jiang, Dian-Lun Lin, Che Chang, Boyang Zhang, Yi-Hua Chung, Ulf Schlichtmann, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-DAC-igkway.pdf">iG-kway: Incremental k-way Graph Partitioning on GPU</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">23%</span>
   </li>
