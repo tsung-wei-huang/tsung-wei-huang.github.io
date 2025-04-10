@@ -13,7 +13,7 @@ We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }
 in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
 Our group creates novel software systems
 to simplify the building of performance-critical applications,
-such as electronic design automation (EDA), machine learning (ML), and quantum computing.
+such as electronic design automation, quantum computing, and machine learning.
 Our software has been used by thousands of people in industry and academia.
 
 <center><div style="max-width: 600px">

@@ -161,6 +161,18 @@ amplitudes, as a result of superposition.
   </div>
 </div>
 
+<div class="row row-padded align-items-center">
+  <div class="col-md-2 col-sm-2 masthead">
+  <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
+  <p><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/FlatDD-logo.png" style="width: 100%;"></p>
+  </div>
+  </div>
+  <div class="col-md-10 col-sm-10">
+  <h4><a href="https://github.com/IDEA-CUHK/FlatDD">FlatDD: Quantum Circuit Simulation using Decision Diagram and Flat Array</a></h4>
+  <p>FlatDD helps quantum computing researchers and developers quickly simulate the functionality of quantum circuits using efficient CPU-parallel algorithms.</p>
+  </div>
+</div>
+
 <hr>
 
 ### Theme 4: Machine Learning Systems
