@@ -164,8 +164,11 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 <!-- Alumni -->
 
 ## Alumni
+
+### PhD 
+
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni %}
+{% for member in site.data.phd_alumni %}
 
 <div class="row">
 <div class="col-sm-12 clearfix">
@@ -184,6 +187,49 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 {% endfor %}
 
+### MS 
+
+{% assign number_printed = 0 %}
+{% for member in site.data.ms_alumni %}
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i>
+  {% if member.research %}
+  <p>Research: {{ member.research }}</p>
+  {% endif %}
+  {% if member.dissertation %}
+  <p>Dissertation: {{ member.dissertation }}</p>
+  {% endif %}
+  <p>{{ member.experience }}</p>
+</div>
+</div>
+
+{% endfor %}
+
+### BS
+
+{% assign number_printed = 0 %}
+{% for member in site.data.bs_alumni %}
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}</i>
+  {% if member.research %}
+  <p>Research: {{ member.research }}</p>
+  {% endif %}
+  {% if member.dissertation %}
+  <p>Dissertation: {{ member.dissertation }}</p>
+  {% endif %}
+  <p>{{ member.experience }}</p>
+</div>
+</div>
+
+{% endfor %}
 
 
 <hr>

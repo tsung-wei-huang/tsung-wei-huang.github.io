@@ -32,6 +32,7 @@
   number_educ: 1
   research: Graph algorithms
   education1: BS&colon; University of Utah
+  experience: First appointment&#58; Trident Sensing (since 2023)
 
 - name: Yasin Zamani
   photo: yasin.jpeg
@@ -51,5 +52,12 @@
   research: Parallel logic simulation algorithms
   experience: First appointment&#58; PhD at the University of Utah (since 2024)
 
-
+- name: Shawn Zhu
+  photo: shawn-zhu.jpeg
+  info: <b>UofU ECE Bachelor 2024</b>
+  email: skzhu@wisc.edu
+  number_educ: 1
+  research: GPU computing
+  education1: BS&colon; University of Wisconsin
+  experience: First appointment&#58; Software Engineer at Epic (since 2025)
 

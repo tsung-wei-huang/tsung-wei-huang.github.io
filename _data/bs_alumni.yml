@@ -1,0 +1,20 @@
+
+- name: Shawn Zhu
+  photo: shawn-zhu.jpeg
+  info: <b>UofU ECE Bachelor 2024</b>
+  email: skzhu@wisc.edu
+  number_educ: 1
+  research: GPU computing
+  education1: BS&colon; University of Wisconsin
+  experience: First appointment&#58; Software Engineer at Epic (since 2025)
+
+- name: Elmir Dzaka
+  photo: elmir.jpeg
+  info: <b>UofU ECE Bachelor 2024</b>
+  email: elmir.dzaka@utah.edu
+  number_educ: 1
+  research: Parallel logic simulation algorithms
+  experience: First appointment&#58; PhD at the University of Utah (since 2024)
+
+
+

@@ -1,0 +1,29 @@
+- name: McKay Mower
+  photo: mckay_mower.jpg
+  info: <b>UofU ECE Master 2023</b>
+  email: mmower777@gmail.com
+  number_educ: 1
+  research: Graph neural network, performance modeling
+  education1: BS&colon; University of Utah
+  experience: First appointment&#58; Trident Sensing (since 2023)
+
+- name: Luke Majors
+  photo: luke_majors.jpeg
+  info: <b>UofU ECE Master 2023</b>
+  email: lukemajors12@gmail.com
+  number_educ: 1
+  research: Graph algorithms
+  education1: BS&colon; University of Utah
+  experience: First appointment&#58; Trident Sensing (since 2023)
+
+- name: Yasin Zamani
+  photo: yasin.jpeg
+  info: <b>UofU ECE Master 2021</b>
+  email: yasin.zamani@utah.edu
+  research: GPU programming, static timing analysis
+  number_educ: 2
+  education1: MS&colon; Isfahan University of Technology
+  education2: BS&colon; Isfahan University of Technology
+  experience: First appointment&#58; Data Scientist at Variant (since 2022)
+
+

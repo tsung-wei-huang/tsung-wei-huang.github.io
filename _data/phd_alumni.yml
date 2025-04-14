@@ -1,0 +1,18 @@
+- name: <a href="https://dian-lun-lin.github.io/">Dian-Lun Lin (Aaron)</a>
+  photo: dian-lun-lin.png
+  info: <b>UW-Madison ECE PhD 2024</b>
+  email: dlin57@wisc.edu
+  research: GPU-accelerated logic simulation and machine learning
+  intern: Nvidia (summer'21, fall'21, summer'22)
+  dissertation: <a href="https://ezproxy.library.wisc.edu/login?url=https://www.proquest.com/pqdtglobal1/dissertations-theses/task-parallel-heterogeneous-programming-system/docview/3086878626/sem-2?accountid=465">Task-Parallel Heterogeneous Programming System for Logic Simulation</a>
+  experience: First appointment&#58; Intel Lab, Parallel Computing Group (since 2024)
+
+- name: <a href="https://www.linkedin.com/in/gguo4/">Guannan Guo</a>
+  photo: guannan.jpeg
+  info: <b>UIUC ECE PhD 2023 (co-supervised with Prof Martin Wong at UIUC)</b>
+  email: gguo4@illinois.edu
+  research: static timing analysis, heterogeneous computing
+  intern: Cadence (summer'19), IBM (summer'21)
+  dissertation: <a href="https://www.ideals.illinois.edu/items/127420">Parallel and heterogeneous computing for static timing analysis</a>
+  experience: First appointment&#58; Huawei (since 2023)
+
