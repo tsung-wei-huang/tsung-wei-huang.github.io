@@ -5,6 +5,15 @@ excerpt: "TW's Research Group -- Pictures"
 permalink: /pictures/
 ---
 
+## PhD Graduation
+
+<div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-info">07/11/2024 Dian-Lun Lin's Defense</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-DL-Defense.png" style="width: 100%;">
+</div>
+</div>
+
 ## Glory
 
 <div class="row">
@@ -16,11 +25,6 @@ permalink: /pictures/
 <div class="col-sm-4">
   <h4 class="badge badge-info">10/31/2024 6th Place in ICCAD CAD Contest</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-ICCAD-CAD-Contest-Honorable.png" style="width: 100%;">
-</div>
-
-<div class="col-sm-4">
-  <h4 class="badge badge-info">07/11/2024 Dian-Lun Lin's Defense</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-DL-Defense.png" style="width: 100%;">
 </div>
 </div>
 
@@ -69,6 +73,10 @@ permalink: /pictures/
 ## Conferences
 
 <div class="row">
+<div class="col-sm-4">
+  <h4 class="badge badge-primary">04/01/25 ASPLOS Conference</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2025-ASPLOS.png" style="width: 100%;">
+</div>
 <div class="col-sm-4">
   <h4 class="badge badge-primary">06/27/24 Design Automation Conference</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-DAC.jpg" style="width: 100%;">
