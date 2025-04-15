@@ -38,7 +38,7 @@ permalink: /publications/
   
   <li><b>[ASPLOS'25]</b> Shui Jiang, Yi-Hua Chung, Chih-Chun Chang, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-asplos.pdf">BQSim: GPU-accelerated Batch Quantum Circuit Simulation using Decision Diagram</a>," <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Rotterdam, Netherlands, 2025<br>
   <a href="https://doi.org/10.1145/3676641.3715984" class="badge badge-primary">10.1145/3676641.3715984</a>
-  <span class="badge badge-secondary">17.5%</span>
+  <span class="badge badge-secondary">19.7%</span>
   <a href="https://github.com/IDEA-CUHK/BQSim" class="badge badge-success">GitHub</a>
   </li>
   
@@ -75,6 +75,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   </li>
 
   <li><b>[HPEC'24]</b> Cheng-Hsiang Chiu, Chedi Morchdi, Yi Zhou, Boyang Zhang, Che Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-HPEC-RL-AsyncTask.pdf">Reinforcement Learning-generated Topological Order for Dynamic Task Graph Scheduling</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2024<br>
+  <a href="https://ieeexplore.ieee.org/document/10938506" class="badge badge-primary">10.1109/HPEC62836.2024.10938506</a>
   </li>
 
   <li><b>[ICCAD'24]</b> Zizheng Guo, Zuodong Zhang, Wuxi Li, Tsung-Wei Huang, Xizhe Shi, Yufan Du, Yibo Lin, Runsheng Wang, and Ru Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-ICCAD-HeteroExcept.pdf">HeteroExcept: Heterogeneous Engine for General Timing Path Exception Analysis</a>," <i>IEEE/ACM International Conference on Computer-aided Design (ICCAD)</i>, New York, 2024<br>
