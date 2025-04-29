@@ -643,6 +643,13 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 ### Journal Papers
 
 <ol>
+  <li><b>[TODAES'25]</b> Wan-Luan Lee, Dian-Lun Lin, Shui Jiang, Cheng-Hsiang Chiu, Yibo Lin, Bei Yu, Tsung-Yi Ho, and Tsung-Wei Huang,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/">G-kway: Multilevel GPU-Accelerated 𝑘-way Graph Partitioner using Task Graph
+Parallelism</a>,"
+  <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2025<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+
   <li><b>[TCAD'23]</b> G. Guo, Tsung-Wei Huang, Y. Lin, Z. Guo, S. Yellapragada, and M. D. F. Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/tcad-23-pba.pdf">A GPU-Accelerated Framework for Path-Based Timing Analysis</a>,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, vol. 42, no. 11, pp. 4219-4232, Nov. 2023<br>
