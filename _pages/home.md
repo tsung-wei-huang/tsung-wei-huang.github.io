@@ -14,7 +14,9 @@ in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
 Our group creates novel software systems
 to simplify the building of performance-critical applications,
 such as electronic design automation, quantum computing, and machine learning.
-Our software has been used by thousands of people in industry and academia.
+Our software 
+(e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
+has been used by thousands of people in industry and academia.
 
 <center><div style="max-width: 600px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" style="max-width: 100%">

@@ -12,7 +12,8 @@ Our overarching goal is to create novel software systems to simplify the program
 of heterogeneous computing resources. 
 Our systems target performance-critical applications, 
 such as computer-aided design, machine learning, and quantum computing.
-We have released several open-source software projects
+We have released several open-source software projects 
+(e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
 that are being used by many industrial and academic projects.
 Our research is framed by the following themes:
 

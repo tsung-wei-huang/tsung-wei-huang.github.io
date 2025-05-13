@@ -33,7 +33,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   <a href="https://scholar.google.com/citations?user=ibeirYQAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-scholar.jpg" height=25px></a>
   <a href="{{ site.url }}{{ site.baseurl }}/resumes/twhuang_cv.pdf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cv.png" height=25px></a>
   <a href="mailto:tsung-wei.huang@wisc.edu"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-email.png" height=25px></a>
-  <a href="https://twitter.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-twitter.png" height=25px></a>
+  <a href="https://x.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-twitter.png" height=25px></a>
   </div>
   
 </div>
@@ -165,7 +165,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 ## Alumni
 
-### PhD 
+### PhD 🎉🎉🎉
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phd_alumni %}
@@ -187,7 +187,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 {% endfor %}
 
-### MS 
+### MS 🎉🎉
 
 {% assign number_printed = 0 %}
 {% for member in site.data.ms_alumni %}
@@ -209,7 +209,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 {% endfor %}
 
-### BS
+### BS 🎉
 
 {% assign number_printed = 0 %}
 {% for member in site.data.bs_alumni %}

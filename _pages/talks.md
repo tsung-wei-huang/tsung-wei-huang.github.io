@@ -10,6 +10,10 @@ permalink: /talks/
 
 <div class="row">
 <div class="col-sm-6">
+  <h4 class="badge badge-primary">Taskflow at CppRusia'24</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YL9iUukG3NY?si=Msc5fwxKpz-revGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div>
+<div class="col-sm-6">
   <h4 class="badge badge-primary">Dian-Lun Lin at CppCon'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UCejPLSCaoI?si=fbid-nXLgvZQDo3j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
