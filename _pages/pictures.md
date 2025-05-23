@@ -18,6 +18,11 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-4">
+  <h4 class="badge badge-info">05/22/2025 CoE Mentoring Award</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2025-CoE-Mentoring-Award.png" style="width: 100%;">
+</div>
+
+<div class="col-sm-4">
   <h4 class="badge badge-info">03/02/2025 2nd Place in PPoPP FCPC</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-PPoPP-FCPC-second-place.png" style="width: 100%;">
 </div>
