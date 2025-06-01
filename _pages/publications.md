@@ -43,7 +43,7 @@ permalink: /publications/
   <span class="badge badge-secondary">23%</span>
   </li>
   
-  <li><b>[DAC'25]</b> Chih-Chun Chang and Tsung-Wei Huang, "Statistical Timing Graph Scheduling Algorithm for GPU Computation," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
+  <li><b>[DAC'25]</b> Chih-Chun Chang and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-DAC-SSTA.pdf">Statistical Timing Graph Scheduling Algorithm for GPU Computation</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">LBR: 22.6%</span>
   </li>
