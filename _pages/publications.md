@@ -16,7 +16,7 @@ permalink: /publications/
 
 <span class="badge badge-primary">DOI</span>
 <span class="badge badge-secondary">Acceptance Rate</span>
-<span class="badge badge-success">Link</span>
+<span class="badge badge-success">Artifact</span>
 <span class="badge badge-warning">Award</span>
 
 <hr>
@@ -26,16 +26,17 @@ permalink: /publications/
 
 <ol>
   
-  <li><b>[Euro-Par'25]</b> Yi-Hua Chung, Shui Jiang, Wan Luan Lee, Yanqing Zhang, Haoxing Ren, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">SimPart: A Simple Yet Effective Replication-aided Partitioning Algorithm for Logic Simulation on GPU</a>," 
+  <li><b>[Euro-Par'25]</b> Yi-Hua Chung, Shui Jiang, Wan Luan Lee, Yanqing Zhang, Haoxing Ren, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-SimPart.pdf">SimPart: A Simple Yet Effective Replication-aided Partitioning Algorithm for Logic Simulation on GPU</a>," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Dresden, Germany, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">28%</span>
   </li>
   
-  <li><b>[Euro-Par'25]</b> Jie Tong, Wan-Luan Lee, Umit Yusuf Ogras, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Scalable Code Generation for RTL Simulation of Deep Learning Accelerators with MLIR</a>,"
+  <li><b>[Euro-Par'25]</b> Jie Tong, Wan-Luan Lee, Umit Yusuf Ogras, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-ScaleRTL.pdf">Scalable Code Generation for RTL Simulation of Deep Learning Accelerators with MLIR</a>,"
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Dresden, Germany, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">28%</span>
+  <a href="https://github.com/TongJieGitHub/ScaleRTL" class="badge badge-success">GitHub</a>
   </li>
   
   <li><b>[DAC'25]</b> Wan-Luan Lee, Shui Jiang, Dian-Lun Lin, Che Chang, Boyang Zhang, Yi-Hua Chung, Ulf Schlichtmann, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-DAC-igkway.pdf">iG-kway: Incremental k-way Graph Partitioning on GPU</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
