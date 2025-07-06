@@ -26,7 +26,13 @@ permalink: /publications/
 
 <ol>
   
-  <li><b>[Euro-Par'25]</b> Yi-Hua Chung, Shui Jiang, Wan Luan Lee, Yanqing Zhang, Haoxing Ren, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-SimPart.pdf">SimPart: A Simple Yet Effective Replication-aided Partitioning Algorithm for Logic Simulation on GPU</a>," 
+  <li><b>[MLCAD'25]</b> Cheng-Hsiang Chiu, Chedi Morchdi, Chih-Chun Chang, Cunxi Yu, Yi Zhou, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Optimizing CUDA Graph Scheduling with Reinforcement Learning: A Case Study in SSTA Propagation</a>," 
+  <i>ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD)</i>, San Cruz, CA, 2025<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">TBD</span>
+  </li>
+  
+  <li><b>[Euro-Par'25]</b> Yi-Hua Chung&#42;, Shui Jiang&#42;, Wan Luan Lee, Yanqing Zhang, Haoxing Ren, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-SimPart.pdf">SimPart: A Simple Yet Effective Replication-aided Partitioning Algorithm for Logic Simulation on GPU</a>," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Dresden, Germany, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">28%</span>
@@ -116,7 +122,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <a href="https://github.com/dian-lun-lin/taro" class="badge badge-success">GitHub</a>
   </li>
   
-  <li><b>[DAC'24]</b> Boyang Zhang, Dian-Lun Lin, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan-Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, 
+  <li><b>[DAC'24]</b> Boyang Zhang&#42;, Dian-Lun Lin&#42;, Che Chang, Cheng-Hsiang Chiu, Bojue Wang, Wan-Luan Lee, Chih-Chun Chang, Donghao Fang, and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2024-DAC-gpasta.pdf">G-PASTA: GPU Accelerated Partitioning Algorithm for Static Timing Analysis</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
   <a href="https://doi.org/10.1145/3649329.3656230" class="badge badge-primary">10.1145/3649329.3656230</a>

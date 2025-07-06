@@ -1,3 +1,11 @@
+- date: 4 July 2025
+  headline: Cheng-Hsiang's paper, <q>Optimizing CUDA Graph Scheduling with Reinforcement Learning&#58; A Case Study in SSTA Propagation</q> is accepted by 2025 International Symposium on Machine Learning for CAD (MLCAD)!
+  image: "images/logopic/mlcad.png"
+
+- date: 28 June 2025
+  headline: Prof. Huang gave a talk of Taskflow system to Synopsys.
+  image: "images/logopic/synopsys-logo.jpeg"
+
 - date: 24 June 2025
   headline: Prof. Huang received 2025 DAC Under-40 Innovator Award in recognition for his Taskflow system and GPU-accelerated EDA solutions!
   image: "images/newspic/2025-DAC-Under-40.png"
