@@ -40,7 +40,7 @@ permalink: /publications/
   
   <li><b>[Euro-Par'25]</b> Jie Tong, Wan-Luan Lee, Umit Yusuf Ogras, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-ScaleRTL.pdf">Scalable Code Generation for RTL Simulation of Deep Learning Accelerators with MLIR</a>,"
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Dresden, Germany, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://doi.org/10.1007/978-3-031-99854-6_2" class="badge badge-primary">10.1007/978-3-031-99854-6_2</a>
   <span class="badge badge-secondary">28%</span>
   <a href="https://github.com/TongJieGitHub/ScaleRTL" class="badge badge-success">GitHub</a>
   </li>
