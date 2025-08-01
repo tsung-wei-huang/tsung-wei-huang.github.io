@@ -34,7 +34,7 @@ permalink: /publications/
   
   <li><b>[Euro-Par'25]</b> Yi-Hua Chung&#42;, Shui Jiang&#42;, Wan Luan Lee, Yanqing Zhang, Haoxing Ren, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-SimPart.pdf">SimPart: A Simple Yet Effective Replication-aided Partitioning Algorithm for Logic Simulation on GPU</a>," 
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Dresden, Germany, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://doi.org/10.1007/978-3-031-99872-0_14" class="badge badge-primary">10.1007/978-3-031-99872-0_14</a>
   <span class="badge badge-secondary">28%</span>
   </li>
   
