@@ -33,8 +33,9 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   <a href="{{ site.url }}{{ site.baseurl }}/resumes/twhuang_cv.pdf"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-cv.png" height=25px></a>
   <a href="https://github.com/tsung-wei-huang"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-github.jpg" height=25px></a>
   <a href="https://scholar.google.com/citations?user=ibeirYQAAAAJ&hl=en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-scholar.jpg" height=25px></a>
-  <a href="https://x.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-twitter.png" height=25px></a>
+  <a href="https://x.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-X-black.png" height=25px></a>
   <a href="https://www.linkedin.com/in/tsung-wei-huang-44bba087/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-linkedin.png" height=25px></a>
+  <a href="https://orcid.org/0000-0001-9768-3378"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-orcid.png" height=25px></a>
   </div>
   
 </div>
