@@ -817,6 +817,12 @@ Parallelism</a>,"
 
 ### Thesis
 <ol>
+  <li>Dian-Lun Lin,  
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/dian-lun-phd-thesis.pdf">Task-parallel Heterogeneous Programming System for Logic Simulation</a>," 
+  PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2024 <br>
+  <a href="https://ezproxy.library.wisc.edu/login?url=https://www.proquest.com/pqdtglobal1/dissertations-theses/task-parallel-heterogeneous-programming-system/docview/3086878626/sem-2?accountid=465" class="badge badge-primary">UW-Madison ProQuest</a>
+  </li>
+
   <li>Tsung-Wei Huang,  
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/twhuang_phd_thesis.pdf">Distributed Timing Analysis</a>," 
   PhD Dissertation, University of Illinois at Urbana-Champaign (UIUC), Dec 2017 <br>
