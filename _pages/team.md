@@ -25,7 +25,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
   <div class="col-md-10 col-sm-10">
   <h4>Tsung-Wei (TW) Huang</h4>
-  Assistant Professor, Department of ECE and CS (affiliate)<br>
+  Associate Professor, Department of ECE and CS (affiliate)<br>
   University of Wisconsin at Madison, Madison, WI, USA, 53706<br>
   Office: Engineering Hall (EH) 3423<br>
   BS/MS (<a href="http://www.csie.ncku.edu.tw/ncku_csie/">NCKU-CS@Taiwan</a>), PhD (<a href="https://ece.illinois.edu/">UIUC-ECE@USA</a>)<br>
@@ -42,7 +42,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 <div class="row align-items-center">
   <div class="col-md-12 col-sm-12 vertical-align">
-  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Assistant Professor in ECE at the University of Wisconsin-Madison, with an affiliate appointment in CS. Previously, he was an Assistant Professor at Utah (2019--2023). He earned his PhD in ECE from UIUC (2017) and BS/MS in CS from Taiwan's NCKU (2011). His research focuses on software systems for performance-critical applications, including CAD, machine learning, and quantum computing. His tools, such as OpenTimer and Taskflow, are widely used in industry and academia.</p>
+  <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Associate Professor in ECE at the University of Wisconsin-Madison, with an affiliate appointment in CS. Previously, he was an Assistant Professor at Utah (2019--2023). He earned his PhD in ECE from UIUC (2017) and BS/MS in CS from Taiwan's NCKU (2011). His research focuses on software systems for performance-critical applications, including CAD, machine learning, and quantum computing. His tools, such as OpenTimer and Taskflow, are widely used in industry and academia.</p>
 
   <p>Dr. Huang has received several awards, including the ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship, ACM SIGDA Outstanding New Faculty Award, ICCAD 10-Year Most Influential Paper Award (OpenTimer), and DAC Under-40 Innovator Award. Beyond research, he is passionate about software performance and has won top 3 in multiple programming contests, such as ACM SIGDA CADathlon, TAU Timing Contest, IEEE HPEC Graph Challenge, ICCAD CAD Contest, and ACM PPoPP FCPC. Dr. Huang has served on the TPC in DAC, ICCAD, MICRO, ASPLOS, HPCA, SC, IPDPS, etc.</p>
   </div>
