@@ -9,6 +9,11 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-4">
+  <h4 class="badge badge-info">08/21/2025 Cheng-Hsiang Chiu's Defense</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-CH-Defense.png" style="width: 100%;">
+</div>
+
+<div class="col-sm-4">
   <h4 class="badge badge-info">07/11/2024 Dian-Lun Lin's Defense</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-DL-Defense.png" style="width: 100%;">
 </div>
