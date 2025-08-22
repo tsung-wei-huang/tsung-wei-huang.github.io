@@ -1,3 +1,12 @@
+- name: <a href="https://cheng-hsiang-chiu.github.io/">Cheng-Hsiang Chiu</a>
+  photo: cheng-hsiang-chiu.jpg
+  info: <b>UW-Madison ECE PhD 2025</b>
+  email: cheng-hsiang.chiu@utah.edu
+  research: Task-parallel programming system design
+  intern: Cadence (summer'21), Intel (summer'22)
+  dissertation: <a href="">Asynchronous Many-task System with Intelligent Scheduling</a>
+  experience: First appointment&#58; TBD
+
 - name: <a href="https://dian-lun-lin.github.io/">Dian-Lun Lin (Aaron)</a>
   photo: dian-lun-lin.png
   info: <b>UW-Madison ECE PhD 2024</b>
