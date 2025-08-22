@@ -1,3 +1,10 @@
+- name: <a href="https://wanluanlee.github.io/">Wan-Luan Lee</a>
+  photo: wan_luan_lee.jpg
+  info: Spring 2022--present
+  email: wanluan.lee@wisc.edu
+  research: Parallel and heterogeneous graph analytics
+  experience: Synopsys (summer'22), Cadence (summer'25)
+
 - name: <a href="https://randy1005.github.io/">Che Chang (Randy)</a>
   photo: randy_chang.jpg
   info: Spring 2022--present
@@ -5,12 +12,11 @@
   research: Static timing analysis, GPU acceleration
   experience: Intel (summer'22), Google (summer'24)
 
-- name: <a href="https://wanluanlee.github.io/">Wan-Luan Lee</a>
-  photo: wan_luan_lee.jpg
-  info: Spring 2022--present
-  email: wanluan.lee@wisc.edu
-  research: Parallel and heterogeneous graph analytics
-  experience: Synopsys (summer'22), Cadence (summer'25)
+- name: Jiang Shui
+  photo: jiang_shui.jpeg
+  info: Spring 2022--present (co-supervised with Prof Tsung-Yi Ho at CUHK)
+  email: 
+  research: DNN compression and quantum computing
 
 - name: <a href="https://chih-chun-chang.github.io/">Chih-Chun Chang</a>
   photo: chih_chun_chang.jpeg
@@ -33,18 +39,7 @@
   research: GPU-acceleration for testing and verification algorithms
   experience: Synopsys (summer'24)
 
-- name: Jiang Shui
-  photo: jiang_shui.jpeg
-  info: Spring 2022--present (co-supervised with Prof Tsung-Yi Ho at CUHK)
-  email: 
-  research: DNN compression and quantum computing
 
-- name: Jie Tong
-  photo: jie_tong.jpeg
-  info: Fall 2023--present (co-supervised with Prof Umit Ogras at UW-Madison)
-  email: 
-  research: Domain-specific compilation and scheduling optimization
-  experience: Marvels (summer'23), Nvidia (summer'24, summer'25)
 
 - name: <a href="https://adassarma.github.io/">Aditya Das Sarma</a>
   photo: aditya.jpeg

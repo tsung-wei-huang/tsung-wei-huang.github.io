@@ -1,3 +1,12 @@
+- name: <a href="https://www.linkedin.com/in/jie-tong-228095158/">Jie Tong</a>
+  photo: jie_tong.jpeg
+  info: <b>UW-Madison ECE PhD 2025</b>
+  email: jtong36@wisc.edu
+  research: Compiler-guided GPU-accelerated RTL simulation
+  intern: Marvels (summer'23), Nvidia (summer'24, summer'25)
+  dissertation: <a href="">Towards Scalable and Efficient Parallel RTL and Network Simulation Systems</a>
+  experience: First appointment&#58; Software Engineer at Apple GPU Team (since 2025)
+
 - name: <a href="https://cheng-hsiang-chiu.github.io/">Cheng-Hsiang Chiu</a>
   photo: cheng-hsiang-chiu.jpg
   info: <b>UW-Madison ECE PhD 2025</b>
