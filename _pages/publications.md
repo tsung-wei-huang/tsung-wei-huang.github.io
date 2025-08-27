@@ -26,6 +26,14 @@ permalink: /publications/
 
 <ol>
   
+  <li><b>[HPEC'25]</b> Chedi Morchdi, Cheng-Hsiang Chiu, Wan-Luan Lee, Tsung-Wei Huang, and Yi Zhou, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-HPEC-RL-Graph-Partitioning.pdf">Enhancing Graph Partitioning with Reinforcement Learning-based Initialization</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2025<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+  
+  <li><b>[HPEC'25]</b> Jie Tong, Zhengxiong Li, Umit Yusuf Ogras, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-HPEC-HeteroRTL.pdf">A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2025<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+  
   <li><b>[MLCAD'25]</b> Cheng-Hsiang Chiu, Chedi Morchdi, Chih-Chun Chang, Cunxi Yu, Yi Zhou, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-MLCAD.pdf">Optimizing CUDA Graph Scheduling with Reinforcement Learning: A Case Study in SSTA Propagation</a>," 
   <i>ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD)</i>, San Cruz, CA, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
@@ -817,6 +825,18 @@ Parallelism</a>,"
 
 ### Thesis
 <ol>
+  <li>Cheng-Hsiang Chiu,  
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/cheng-hsiang-chiu-phd-thesis.pdf">Asynchronous Many-task System with Intelligent Scheduling</a>," 
+  PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2025 <br>
+  <a href="" class="badge badge-primary">UW-Madison ProQuest</a>
+  </li>
+
+  <li>Jie Tong,  
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/jie-tong-phd-thesis.pdf">Towards Scalable and Efficient Parallel RTL and Network Simulation Systems</a>," 
+  PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2025 <br>
+  <a href="" class="badge badge-primary">UW-Madison ProQuest</a>
+  </li>
+
   <li>Dian-Lun Lin,  
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dian-lun-phd-thesis.pdf">Task-parallel Heterogeneous Programming System for Logic Simulation</a>," 
   PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2024 <br>
