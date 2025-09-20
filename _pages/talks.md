@@ -44,6 +44,7 @@ permalink: /talks/
 ## Research/Tech/Invited Talks
 
 <ol>
+<li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2025-CppCon-AsyncTask.pdf">Dynamic Asynchronous Tasking with Dependencies</a>," CppCon, Sep 2025</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2025-Synopsys.pdf">Taskflow: A General-purpose Task-parallel Programming System</a>," Synopsys, Aug 2025</li>
 <li>"<a href="{{ site.url }}{{ site.baseurl }}/talks/2025-fcpc.pdf">An Efficient Implementation of Parallel BFS Algorithm</a>," ACM PPoPP FCPC, March 2025</li>
 <li>"Intelligent Heterogeneous Computing: Classical and Quantum," Arizona State University, Oct 2024</li>
