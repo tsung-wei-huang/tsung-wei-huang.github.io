@@ -25,6 +25,11 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li><b>[ASP-DAC'26]</b> Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops</a>",
+  <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Hong Kong, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">29.6%</span>
+  </li>
   
   <li><b>[HPEC'25]</b> Chedi Morchdi, Cheng-Hsiang Chiu, Wan-Luan Lee, Tsung-Wei Huang, and Yi Zhou, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-HPEC-RL-Graph-Partitioning.pdf">Enhancing Graph Partitioning with Reinforcement Learning-based Initialization</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2025<br>
   <a href="" class="badge badge-primary">TBD</a>
@@ -54,12 +59,12 @@ permalink: /publications/
   </li>
   
   <li><b>[DAC'25]</b> Wan-Luan Lee, Shui Jiang, Dian-Lun Lin, Che Chang, Boyang Zhang, Yi-Hua Chung, Ulf Schlichtmann, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-DAC-igkway.pdf">iG-kway: Incremental k-way Graph Partitioning on GPU</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://ieeexplore.ieee.org/document/11132904" class="badge badge-primary">10.1109/DAC63849.2025.11132904</a>
   <span class="badge badge-secondary">23%</span>
   </li>
   
   <li><b>[DAC'25]</b> Chih-Chun Chang and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-DAC-SSTA.pdf">Statistical Timing Graph Scheduling Algorithm for GPU Computation</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://ieeexplore.ieee.org/document/11133291" class="badge badge-primary">10.1109/DAC63849.2025.11133291</a>
   <span class="badge badge-secondary">LBR: 22.6%</span>
   </li>
   
@@ -143,6 +148,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2024 <br>
   <a href="https://doi.org/10.1145/3649329.3656238" class="badge badge-primary">10.1145/3649329.3656238</a>
   <span class="badge badge-secondary">21.8%</span>
+  <a href="https://github.com/wanluanlee/DAC_g-kway" class="badge badge-success">GitHub</a>
   </li>
 
   <li><b>[DAC'24]</b> Che Chang, Tsung-Wei Huang, Dian-Lun Lin, Guannan Guo, and Shiju Lin, 
@@ -675,6 +681,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 Parallelism</a>,"
   <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, 2025<br>
   <a href="https://dl.acm.org/doi/10.1145/3734522" class="badge badge-primary">10.1145/3734522</a>
+  <a href="https://github.com/wanluanlee/DAC_g-kway" class="badge badge-success">GitHub</a>
   </li>
 
   <li><b>[TCAD'23]</b> G. Guo, Tsung-Wei Huang, Y. Lin, Z. Guo, S. Yellapragada, and M. D. F. Wong,
