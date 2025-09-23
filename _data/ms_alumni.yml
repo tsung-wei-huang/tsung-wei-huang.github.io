@@ -1,3 +1,11 @@
+- name: Manu Maheshwari
+  photo: manu_maheshwari.jpeg
+  info: <b>UW-Madison ECE Master 2025</b>
+  email: 
+  number_educ: 1
+  research: GPU task graph optimization
+  experience: First appointment&#58; Senior Deep Learning Performanc Architect at Nvidia (since 2025)
+
 - name: McKay Mower
   photo: mckay_mower.jpg
   info: <b>UofU ECE Master 2023</b>

@@ -5,19 +5,12 @@
   number_educ: 1
   research: LLM-assisted parallel computing
 
-- name: Manu Maheshwari
-  photo: manu_maheshwari.jpeg
-  info: Fall 2024--present
-  email: 
-  number_educ: 1
-  research: GPU task graph optimization
-
 - name: Ting-Kuo Chen
   photo: ting-kuo_chen.jpeg
   info: Spring 2024--present
   email: tchen463@wisc.edu
   number_educ: 1
-  research: TBD
+  research: Quantum physics
 
 - name: "This could be you !"
   photo: rock.jpg
