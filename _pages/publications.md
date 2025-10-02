@@ -86,7 +86,7 @@ permalink: /publications/
   
   <li><b>[WAMTA'25]</b> Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Yi-Hua Chung, Che Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-wamta.pdf">A Task-parallel Pipeline Programming Model with Token
 Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications (WAMTA)</i>, St. Louis, MO, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://link.springer.com/chapter/10.1007/978-3-031-97196-9_1" class="badge badge-primary">10.1007/978-3-031-97196-9_1</a>
   <a href="https://taskflow.github.io/taskflow/TaskParallelPipelineWithTokenDependencies.html" class="badge badge-success">GitHub</a>
   </li>
 
