@@ -25,7 +25,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li><b>[ASP-DAC'26]</b> Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops</a>",
+  <li><b>[ASP-DAC'26]</b> Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-TIMBER.pdf">TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops</a>",
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Hong Kong, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">29.6%</span>
