@@ -41,8 +41,7 @@ permalink: /publications/
   
   <li><b>[MLCAD'25]</b> Cheng-Hsiang Chiu, Chedi Morchdi, Chih-Chun Chang, Cunxi Yu, Yi Zhou, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-MLCAD.pdf">Optimizing CUDA Graph Scheduling with Reinforcement Learning: A Case Study in SSTA Propagation</a>," 
   <i>ACM/IEEE International Symposium on Machine Learning for CAD (MLCAD)</i>, San Cruz, CA, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
-  <span class="badge badge-secondary">TBD</span>
+  <a href="https://ieeexplore.ieee.org/document/11189194" class="badge badge-primary">10.1109/MLCAD65511.2025.11189194</a>
   </li>
   
   <li><b>[Euro-Par'25]</b> Yi-Hua Chung&#42;, Shui Jiang&#42;, Wan Luan Lee, Yanqing Zhang, Haoxing Ren, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-SimPart.pdf">SimPart: A Simple Yet Effective Replication-aided Partitioning Algorithm for Logic Simulation on GPU</a>," 
