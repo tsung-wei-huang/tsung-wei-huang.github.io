@@ -10,6 +10,13 @@ permalink: /talks/
 
 <div class="row">
 <div class="col-sm-6">
+  <h4 class="badge badge-info">Taskflow in 5 minutes</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W3yLOUwkmtk?si=as94yG9LhIzKy_fv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-6">
   <h4 class="badge badge-info">Taskflow at CppRusia'24</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YL9iUukG3NY?si=Msc5fwxKpz-revGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
