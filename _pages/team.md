@@ -36,6 +36,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   <a href="https://x.com/twh760812"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-X-black.png" height=25px></a>
   <a href="https://www.linkedin.com/in/tsung-wei-huang-44bba087/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-linkedin.png" height=25px></a>
   <a href="https://orcid.org/0000-0001-9768-3378"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-orcid.png" height=25px></a>
+  <a href="https://www.youtube.com/@dr.twhuang"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-youtube.png" height=25px></a>
   </div>
   
 </div>
