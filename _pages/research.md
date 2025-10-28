@@ -83,12 +83,12 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 <div class="row">
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">Taskflow in 5 Minutes</h4>
+  <h4 class="badge badge-info">Taskflow in 5 Minutes</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u4vaY0cjzos?si=o06_YItz-CgpqwTN" allowfullscreen></iframe></div>
 </div>
 <div class="col-sm-6">
-  <h4 class="badge badge-primary">Taskflow at CppCon</h4>
-  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/MX15huP5DsM" allowfullscreen></iframe></div>
+  <h4 class="badge badge-info">Taskflow in 15 Minutes</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QsmoXNXJoDY?si=hybn4QIQ9UNRb8OK" allowfullscreen></iframe></div>
 </div>
 </div>
 
