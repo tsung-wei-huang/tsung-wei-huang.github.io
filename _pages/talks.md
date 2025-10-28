@@ -11,7 +11,7 @@ permalink: /talks/
 <div class="row">
 <div class="col-sm-6">
   <h4 class="badge badge-info">Taskflow in 5 minutes</h4>
-  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W3yLOUwkmtk?si=as94yG9LhIzKy_fv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u4vaY0cjzos?si=o06_YItz-CgpqwTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 </div>
 
