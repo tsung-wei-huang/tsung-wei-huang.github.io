@@ -10,7 +10,7 @@ permalink: /pictures/
 <div class="row">
 <div class="col-sm-4">
   <h4 class="badge badge-info">12/09/2025 Wan-Luan Lee's Defense</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-WL-defense.png" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-WL-Defense.png" style="width: 100%;">
 </div>
 </div>
 
