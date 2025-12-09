@@ -53,6 +53,17 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
   </div>
 </div>
 
+<div class="row">
+<div class="col-sm-6">
+  <h4 class="badge badge-info">Taskflow in 5 Minutes</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u4vaY0cjzos?si=o06_YItz-CgpqwTN" allowfullscreen></iframe></div>
+</div>
+<div class="col-sm-6">
+  <h4 class="badge badge-info">Taskflow in 15 Minutes</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QsmoXNXJoDY?si=hybn4QIQ9UNRb8OK" allowfullscreen></iframe></div>
+</div>
+</div>
+
 <div class="row row-padded align-items-center">
   <div class="col-md-2 col-sm-2 masthead">
   <div style="max-width: 100%; display: inline-block; text-align: center; margin: auto;">
@@ -81,16 +92,7 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
   </div>
 </div>
 
-<div class="row">
-<div class="col-sm-6">
-  <h4 class="badge badge-info">Taskflow in 5 Minutes</h4>
-  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u4vaY0cjzos?si=o06_YItz-CgpqwTN" allowfullscreen></iframe></div>
-</div>
-<div class="col-sm-6">
-  <h4 class="badge badge-info">Taskflow in 15 Minutes</h4>
-  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/QsmoXNXJoDY?si=hybn4QIQ9UNRb8OK" allowfullscreen></iframe></div>
-</div>
-</div>
+
 
 <hr>
 
