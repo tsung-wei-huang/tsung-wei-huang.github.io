@@ -836,14 +836,20 @@ Parallelism</a>,"
 
 ### Thesis
 <ol>
-  <li>Cheng-Hsiang Chiu,  
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/cheng-hsiang-chiu-phd-thesis.pdf">Asynchronous Many-task System with Intelligent Scheduling</a>," 
-  PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2025 <br>
+  <li>Wan-Luan Lee,  
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/wan-luan-phd-thesis.pdf">GPU-Accelerated Graph Partitioning Algorithms in VLSI Design</a>," 
+  PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Dec 2025 <br>
   <a href="" class="badge badge-primary">UW-Madison ProQuest</a>
   </li>
 
   <li>Jie Tong,  
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/jie-tong-phd-thesis.pdf">Towards Scalable and Efficient Parallel RTL and Network Simulation Systems</a>," 
+  PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2025 <br>
+  <a href="" class="badge badge-primary">UW-Madison ProQuest</a>
+  </li>
+
+  <li>Cheng-Hsiang Chiu,  
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/cheng-hsiang-chiu-phd-thesis.pdf">Asynchronous Many-task System with Intelligent Scheduling</a>," 
   PhD Dissertation, University of Wisconsin at Madison (UW-Madison), Aug 2025 <br>
   <a href="" class="badge badge-primary">UW-Madison ProQuest</a>
   </li>
