@@ -680,6 +680,12 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 ### Journal Papers
 
 <ol>
+  <li><b>[FGCS'25]</b> Serhan Gener, Sahil Hassan, H. Umut Suluhan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ogras, and Ali Akoglu,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-FGCS.pdf">A portable framework with generalized runtime features for task graph execution and concurrent multi-application deployment on heterogeneous systems</a>,"
+  <i>Future Generation Computer Systems (FGCS)</i>, 2025<br>
+  <a href="https://doi.org/10.1016/j.future.2025.108184" class="badge badge-primary">10.1016/j.future.2025.108184</a>
+  </li>
+
   <li><b>[TODAES'25]</b> Wan-Luan Lee, Dian-Lun Lin, Shui Jiang, Cheng-Hsiang Chiu, Yibo Lin, Bei Yu, Tsung-Yi Ho, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-TODAES-gkway.pdf">G-kway: Multilevel GPU-Accelerated k-way Graph Partitioner using Task Graph
 Parallelism</a>,"
