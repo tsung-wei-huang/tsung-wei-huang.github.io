@@ -32,11 +32,11 @@ permalink: /publications/
   </li>
   
   <li><b>[HPEC'25]</b> Chedi Morchdi, Cheng-Hsiang Chiu, Wan-Luan Lee, Tsung-Wei Huang, and Yi Zhou, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-HPEC-RL-Graph-Partitioning.pdf">Enhancing Graph Partitioning with Reinforcement Learning-based Initialization</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://ieeexplore.ieee.org/document/11196353" class="badge badge-primary">10.1109/HPEC67600.2025.11196353</a>
   </li>
   
   <li><b>[HPEC'25]</b> Jie Tong, Zhengxiong Li, Umit Yusuf Ogras, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-HPEC-HeteroRTL.pdf">A Scalable Code Generation Flow for Heterogeneous Parallel RTL Simulation using MLIR</a>", <i>IEEE High-performance and Extreme Computing Conference (HPEC)</i>, virtual, 2025<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://ieeexplore.ieee.org/document/11196471" class="badge badge-primary">10.1109/HPEC67600.2025.11196471</a>
   </li>
   
   <li><b>[MLCAD'25]</b> Cheng-Hsiang Chiu, Chedi Morchdi, Chih-Chun Chang, Cunxi Yu, Yi Zhou, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-MLCAD.pdf">Optimizing CUDA Graph Scheduling with Reinforcement Learning: A Case Study in SSTA Propagation</a>," 
