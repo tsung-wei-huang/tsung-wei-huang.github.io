@@ -17,7 +17,7 @@ permalink: /courses/
 <!-- begin of course list -->
 ### University of Wisconsin at Madison
 
-+ [ECE 611: PhD Dissertator's Research](https://canvas.wisc.edu/courses/499358/)
++ [ECE 611: PhD Dissertator's Research (Spring 26)](https://canvas.wisc.edu/courses/499358/)
 + [ECE 455: GPU Algorithm and System Design (Fall 25)](https://canvas.wisc.edu/courses/479145)
 + [ECE 759: High-performance Computing (Spring 25)](https://canvas.wisc.edu/courses/447404/pages/home)
 + [ECE 759: High-performance Computing (Fall 24)](https://canvas.wisc.edu/courses/425940/pages/home)
