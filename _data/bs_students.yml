@@ -1,4 +1,10 @@
-
+- name: Snikitha Siddavatam
+  photo: snikitha.png
+  info: Spring 2026--present
+  email: siddavatam@wisc.edu
+  number_educ: 1
+  research: Verification of task-parallel programming systems
+  education1: BS&colon; University of Wisconsin
 
 - name: Saksham Dhuria
   photo: saksham.jpeg
