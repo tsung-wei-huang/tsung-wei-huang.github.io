@@ -25,6 +25,24 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li><b>[DAC'26]</b> Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, and Tsung-Wei Huang, "<a href="">A Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation</a>",
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">TBD</span>
+  </li>
+  
+  <li><b>[DAC'26]</b> Wan-Luan Lee, Aditya Das Sarma, Che Chang, Chih-Chun Chang, and Tsung-Wei Huang, "<a href="">iHyperG: Incremental Hypergraph Partitioning on GPU</a>",
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">TBD</span>
+  </li>
+  
+  <li><b>[DAC'26]</b> Pingchuan Ma, Ziang Yin, Qi Jing, Zhengqi Gao, Nicholas Gangi, Boyang Zhang, Tsung-Wei Huang, Rena Huang, Duane Boning, Yu Yao, and Jiaqi Gu, "<a href="">SP2RINT: Spatially-Decoupled Physics-Constrained Progressive Inverse Optimization for Diffractive Optical Neural Network Training</a>",
+  <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">TBD</span>
+  </li>
+
   <li><b>[ASP-DAC'26]</b> Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-TIMBER.pdf">TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops</a>",
   <i>IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)</i>, Hong Kong, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
