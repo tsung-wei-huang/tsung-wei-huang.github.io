@@ -25,19 +25,19 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li><b>[ICS'26]</b> Che Chang, Yi-Hua Chung, Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Ulf Schlichtmann, Ing-Chao Lin, Xiangyao Yu, and Tsung-Wei Huang, "<a href="">G-PathGen: An Efficient GPU-Parallel k-Critical Path Generation Algorithm</a>",
+  <li><b>[ICS'26]</b> Che Chang, Yi-Hua Chung, Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Ulf Schlichtmann, Ing-Chao Lin, Xiangyao Yu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-ICS-G-PathGen.pdf">G-PathGen: An Efficient GPU-Parallel k-Critical Path Generation Algorithm</a>",
   <i>ACM International Conference on Supercomputing (ICS)</i>, Belfast, Northern Ireland, UK, 2026<br>
-  <a href="" class="badge badge-primary">10.1145/3797905.3800511</a>
+  <a href="https://doi.org/10.1145/3797905.3800511" class="badge badge-primary">10.1145/3797905.3800511</a>
   <span class="badge badge-secondary">TBD</span>
   </li>
 
-  <li><b>[DAC'26]</b> Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, and Tsung-Wei Huang, "<a href="">A Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation</a>",
+  <li><b>[DAC'26]</b> Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-DAC-DiffPart.pdf">A Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation</a>",
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
   <a href="https://doi.org/10.1145/3770743.3803900" class="badge badge-primary">10.1145/3770743.3803900</a>
   <span class="badge badge-secondary">22.3%</span>
   </li>
   
-  <li><b>[DAC'26]</b> Wan-Luan Lee, Aditya Das Sarma, Che Chang, Chih-Chun Chang, and Tsung-Wei Huang, "<a href="">iHyperG: Incremental Hypergraph Partitioning on GPU</a>",
+  <li><b>[DAC'26]</b> Wan-Luan Lee, Aditya Das Sarma, Che Chang, Chih-Chun Chang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-DAC-iHyperG.pdf">iHyperG: Incremental Hypergraph Partitioning on GPU</a>",
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
   <a href="https://doi.org/10.1145/3770743.3803930" class="badge badge-primary">10.1145/3770743.3803930</a>
   <span class="badge badge-secondary">22.3%</span>
