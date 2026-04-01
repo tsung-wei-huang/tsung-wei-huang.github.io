@@ -8,24 +8,25 @@ permalink: /talks/
 
 ## Featured Video
 
+
 <div class="row">
 <div class="col-sm-6">
-  <h4 class="badge badge-info">Taskflow in 5 minutes</h4>
-  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/u4vaY0cjzos?si=o06_YItz-CgpqwTN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+  <h4 class="badge badge-info">AsyncTask at CppCon'25</h4>
+  <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/6Jd9Zyl9SDc?si=4NGwSQINr0n6Tj_p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 <div class="col-sm-6">
-  <h4 class="badge badge-info">Dian-Lun Lin at CppCon'23</h4>
+  <h4 class="badge badge-info">Coroutine at CppCon'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/UCejPLSCaoI?si=fbid-nXLgvZQDo3j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 </div>
 </div>
 
 <div class="row">
 <div class="col-sm-6">
-  <h4 class="badge badge-info">Dian-Lun Lin at CppNow'23</h4>
+  <h4 class="badge badge-info">Coroutine at CppNow'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kIPzED3VD3w" allowfullscreen></iframe></div>
 </div>
 <div class="col-sm-6">
-  <h4 class="badge badge-info">Cheng-Hsiang Chiu at CppNow'23</h4>
+  <h4 class="badge badge-info">Pipeflow at CppNow'23</h4>
   <div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="https://www.youtube.com/embed/AudA4WpTW6U" allowfullscreen></iframe></div>
 </div>
 </div>
