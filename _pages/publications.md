@@ -25,6 +25,18 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li><b>[Euro-Par'26]</b> Boyang Zhang, Chih-Chun Chang, Yi-Hua Chung, Che Chang, Cheng-Hsiang Chiu, Aditya Das Sarma, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">G-STAR: GPU-Accelerated Statistical Static Timing Analysis using Level-by-level Replication</a>,"
+  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">26.2%</span>
+  </li>
+
+  <li><b>[Euro-Par'26]</b> Zhengxiong Li, Tsung-Wei Huang, and Umit Ogras, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines</a>,"
+  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">26.2%</span>
+  </li>
+
   <li><b>[ICS'26]</b> Che Chang, Yi-Hua Chung, Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Ulf Schlichtmann, Ing-Chao Lin, Xiangyao Yu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-ICS-G-PathGen.pdf">G-PathGen: An Efficient GPU-Parallel k-Critical Path Generation Algorithm</a>",
   <i>ACM International Conference on Supercomputing (ICS)</i>, Belfast, Northern Ireland, UK, 2026<br>
   <a href="https://doi.org/10.1145/3797905.3800511" class="badge badge-primary">10.1145/3797905.3800511</a>
@@ -43,7 +55,7 @@ permalink: /publications/
   <span class="badge badge-secondary">22.3%</span>
   </li>
   
-  <li><b>[DAC'26]</b> Pingchuan Ma, Ziang Yin, Qi Jing, Zhengqi Gao, Nicholas Gangi, Boyang Zhang, Tsung-Wei Huang, Rena Huang, Duane Boning, Yu Yao, and Jiaqi Gu, "<a href="">SP2RINT: Spatially-Decoupled Physics-Constrained Progressive Inverse Optimization for Diffractive Optical Neural Network Training</a>",
+  <li><b>[DAC'26]</b> Pingchuan Ma, Ziang Yin, Qi Jing, Zhengqi Gao, Nicholas Gangi, Boyang Zhang, Tsung-Wei Huang, Rena Huang, Duane Boning, Yu Yao, and Jiaqi Gu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-DAC-SP2RINT.pdf">SP2RINT: Spatially-Decoupled Physics-Constrained Progressive Inverse Optimization for Diffractive Optical Neural Network Training</a>",
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">22.3%</span>
