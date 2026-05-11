@@ -716,6 +716,13 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 ### Journal Papers
 
 <ol>
+  <li><b>[TCAD'26]</b> Shui Jiang, Wen Cheng, Yi-Hua Chung, Tsung-Yi Ho, and Tsung-Wei Huang,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-TCAD-QDP">QDP: Worst-case Fidelity-aware Qubit Mapping and Routing
+using Dynamic Programming</a>,"
+  <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+
   <li><b>[FGCS'25]</b> Serhan Gener, Sahil Hassan, H. Umut Suluhan, Liangliang Chang, Chaitali Chakrabarti, Tsung-Wei Huang, Umit Ogras, and Ali Akoglu,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-FGCS.pdf">A portable framework with generalized runtime features for task graph execution and concurrent multi-application deployment on heterogeneous systems</a>,"
   <i>Future Generation Computer Systems (FGCS)</i>, 2025<br>
