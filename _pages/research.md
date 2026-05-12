@@ -200,6 +200,54 @@ Machine learning has become centric to a wide range of today's applications, suc
   </div>
 </div>
 
+<hr>
+
+## Sponsors
+
+We are grateful for funding from [University of Utah](https://www.ece.utah.edu/),
+[University of Wisconsin](https://www.wisc.edu/),
+[National Science Foudation](https://www.nsf.gov/),
+[Defense Advanced Research Projects Agency](https://www.darpa.mil/),
+[NumFocus](https://numfocus.org/),
+[Nvidia](https://nvidia.com), and
+[Intel](https://www.intel.com/).
+
+<div class="row align-items-center">
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.ece.utah.edu/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/utah-ece-logo.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.nsf.gov/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nsf.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.darpa.mil/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/darpa.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.nvidia.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
+  </div>
+</div>
+
+<div class="row align-items-center">
+  <div class="col-md-3 col-sm-3">
+  <a href="https://numfocus.org/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NumFocus.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://summerofcode.withgoogle.com/programs/2022/projects/FgTgRVLt"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/gsoc.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/uw-madison-ece-logo.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.intel.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intel-logo.png" style="width: 100%;"></a>
+  </div>
+</div>
+
 <br>
 
 
