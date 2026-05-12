@@ -53,24 +53,28 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-3">
+  <h4 class="badge badge-info">12/09/25 Group Dinner</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_dining_120925.png" style="width: 100%;">
+</div>
+<div class="col-sm-3">
   <h4 class="badge badge-info">06/26/24 DAC Group Dinner</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-DAC-dinner.jpg" style="width: 100%;">
 </div>
 <div class="col-sm-3">
-  <h4 class="badge badge-info">05/13/24 Ichiban Madison</h4>
+  <h4 class="badge badge-info">05/13/24 Group Dinner</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_dining_050624.png" style="width: 100%;">
 </div>
 <div class="col-sm-3">
   <h4 class="badge badge-info">09/22/23 Group Ice Cream</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2023-Group-Memorial-Union.png" style="width: 100%;">
 </div>
+</div>
+
+<div class="row">
 <div class="col-sm-3">
   <h4 class="badge badge-info">05/21/22 Little Cottonwood BBQ</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_bbq_052122.png" style="width: 100%;">
 </div>
-</div>
-
-<div class="row">
 <div class="col-sm-3">
   <h4 class="badge badge-info">02/01/23 Group Lunch</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group-dining-011023.png" style="width: 100%;">

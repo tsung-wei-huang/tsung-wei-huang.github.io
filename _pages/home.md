@@ -19,7 +19,8 @@ Our software
 has been used by thousands of people in industry and academia.
 
 <center><div style="max-width: 700px">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" style="max-width: 100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" class="theme-light-img" style="max-width: 100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app-dark.png" class="theme-dark-img" style="max-width: 100%">
 </div></center>
 
 ## Where Are We?

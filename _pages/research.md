@@ -28,7 +28,7 @@ Our research is framed by the following themes:
 
 **Research Question**: *How can we make it easier for researchers and developers to write parallel and heterogeneous programs with high performance and simultaneous high productivity?*
 
-<center><div style="max-width: 400px">
+<center><div style="max-width: 500px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p.png"  class="rounded" style="max-width: 100%">
 </div></center>
 
@@ -102,7 +102,7 @@ Modern scientific computing relies on a heterogeneous mix of computational patte
 
 **Research Question**: *How can we leverage emerging heterogeneous parallelism to speed up electronic design automation (EDA) algorithms and achieve order-of-magnitude performance breakthrough?*
 
-<center><div style="max-width: 500px">
+<center><div style="max-width: 600px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_cad.png"  class="rounded" style="max-width: 100%">
 </div></center>
 
@@ -182,7 +182,7 @@ amplitudes, as a result of superposition.
 
 **Research Question**: *How can we accelerate machine learning kernels in large-scale inference and training workloads using modern heterogeneous computing techniques?*
 
-<center><div style="max-width: 500px">
+<center><div style="max-width: 700px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_ml.png"  class="rounded" style="max-width: 100%">
 </div></center>
 

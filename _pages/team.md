@@ -276,11 +276,11 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
   </div>
 
   <div class="col-md-3 col-sm-3">
-  <a href="https://www.cadence.com"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cadence-logo.jpeg" style="width: 100%;"></a>
+  <a href="https://www.cadence.com"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cadence-logo.png" style="width: 100%;"></a>
   </div>
 
   <div class="col-md-3 col-sm-3">
-  <a href="https://www.drivevariant.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/variant-logo.jpeg" style="width: 100%;"></a>
+  <a href="https://www.drivevariant.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/variant-logo.png" style="width: 100%;"></a>
   </div>
 </div>
 
@@ -290,7 +290,7 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
   </div>
 
   <div class="col-md-3 col-sm-3">
-  <a href="https://www.synopsys.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/synopsys-logo.jpeg" style="width: 100%;"></a>
+  <a href="https://www.synopsys.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/synopsys-logo.png" style="width: 100%;"></a>
   </div>
 
   <div class="col-md-3 col-sm-3">
@@ -298,7 +298,7 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
   </div>
 
   <div class="col-md-3 col-sm-3">
-  <a href="https://www.huawei.com/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei-logo.jpg" style="width: 100%;"></a>
+  <a href="https://www.huawei.com/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei-logo.png" style="width: 100%;"></a>
   </div>
 </div>
 

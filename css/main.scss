@@ -269,7 +269,159 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 
+/* ---------- Dark mode toggle button (icon swap) ---------- */
+#theme-toggle .icon-light { display: none; }
+#theme-toggle .icon-dark  { display: inline; }
+html.dark-mode #theme-toggle .icon-light { display: inline; }
+html.dark-mode #theme-toggle .icon-dark  { display: none; }
+#theme-toggle { font-size: 18px; }
 
+
+/* ---------- Dark mode styles ---------- */
+html.dark-mode {
+  background-color: #1a1a1a;
+}
+
+html.dark-mode body {
+  background-color: #1a1a1a;
+  color: #e0e0e0;
+}
+
+html.dark-mode h1,
+html.dark-mode h2,
+html.dark-mode h3,
+html.dark-mode h4,
+html.dark-mode h5,
+html.dark-mode h6 {
+  color: #f0f0f0;
+}
+
+html.dark-mode a:not(.badge) {
+  color: #6db4e8;
+}
+
+html.dark-mode a:not(.badge):hover,
+html.dark-mode a:not(.badge):focus {
+  color: #9ed1f5;
+}
+
+/* Navbar */
+html.dark-mode .navbar-default {
+  background-color: #232323;
+  border-color: #333;
+}
+
+html.dark-mode .navbar-default .navbar-brand,
+html.dark-mode .navbar-default .navbar-nav > li > a {
+  color: #d0d0d0;
+}
+
+html.dark-mode .navbar-default .navbar-brand:hover,
+html.dark-mode .navbar-default .navbar-brand:focus,
+html.dark-mode .navbar-default .navbar-nav > li > a:hover,
+html.dark-mode .navbar-default .navbar-nav > li > a:focus {
+  color: #ffffff;
+}
+
+html.dark-mode .navbar-default .navbar-nav > .active > a,
+html.dark-mode .navbar-default .navbar-nav > .active > a:hover,
+html.dark-mode .navbar-default .navbar-nav > .active > a:focus {
+  background-color: #1a1a1a;
+  color: #ffffff;
+}
+
+html.dark-mode .navbar-default .navbar-toggle {
+  border-color: #444;
+}
+
+html.dark-mode .navbar-default .navbar-toggle .icon-bar {
+  background-color: #d0d0d0;
+}
+
+/* News sidebar / wells */
+html.dark-mode .well {
+  background-color: #232323;
+  border-color: #333;
+  color: #e0e0e0;
+}
+
+/* Horizontal rules */
+html.dark-mode hr {
+  border-top-color: #333;
+}
+
+/* Code blocks */
+html.dark-mode code,
+html.dark-mode pre {
+  background-color: #232323;
+  color: #f0f0f0;
+  border-color: #333;
+}
+
+/* Footer panel */
+html.dark-mode #footer,
+html.dark-mode .panel-footer {
+  background-color: #232323;
+  border-color: #333;
+  color: #d0d0d0;
+}
+
+/* Tables */
+html.dark-mode table {
+  color: #e0e0e0;
+}
+
+html.dark-mode .table > thead > tr > th,
+html.dark-mode .table > tbody > tr > td,
+html.dark-mode .table > tbody > tr > th {
+  border-color: #333;
+}
+
+/* Blockquote */
+html.dark-mode blockquote {
+  color: #c0c0c0;
+  border-left-color: #444;
+}
+
+/* Invert dark social/CV icons in dark mode for visibility */
+html.dark-mode img[src*="logo-cv"],
+html.dark-mode img[src*="logo-github"],
+html.dark-mode img[src*="logo-X-black"],
+html.dark-mode img[src*="logo-email"] {
+  filter: invert(1);
+}
+
+/* Light/dark image swap helpers */
+.theme-dark-img { display: none; }
+html.dark-mode .theme-light-img { display: none; }
+html.dark-mode .theme-dark-img { display: inline; }
+
+/* Research theme charts & project logos — invert black text/lines while preserving colors */
+html.dark-mode img[src*="theme_cad"],
+html.dark-mode img[src*="theme_qc"],
+html.dark-mode img[src*="theme_ml"],
+html.dark-mode img[src*="rtlflow-logo"],
+html.dark-mode img[src*="dtcraft_logo"],
+html.dark-mode img[src*="taro-logo"],
+html.dark-mode img[src*="bqsim"],
+html.dark-mode img[src*="FlatDD-logo"],
+html.dark-mode img[src*="snig_logo"],
+html.dark-mode img[src*="utah-ece-logo"],
+html.dark-mode img[src*="nsf.png"],
+html.dark-mode img[src*="darpa"],
+html.dark-mode img[src*="nvidia-logo"],
+html.dark-mode img[src*="NumFocus"],
+html.dark-mode img[src*="gsoc"],
+html.dark-mode img[src*="uw-madison-ece-logo"],
+html.dark-mode img[src*="intel-logo"],
+html.dark-mode img[src*="cadence-logo"],
+html.dark-mode img[src*="variant-logo"],
+html.dark-mode img[src*="ibm-logo"],
+html.dark-mode img[src*="synopsys-logo"],
+html.dark-mode img[src*="google-logo"],
+html.dark-mode img[src*="huawei-logo"] {
+  filter: invert(1) hue-rotate(180deg);
+}
 
 
 
