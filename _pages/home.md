@@ -18,7 +18,7 @@ Our software
 (e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
 has been used by thousands of people in industry and academia.
 
-<center><div style="max-width: 600px">
+<center><div style="max-width: 700px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" style="max-width: 100%">
 </div></center>
 

@@ -11,7 +11,7 @@ img { margin-bottom: 24px;
 
 body {
 	padding-top: 60px;
-	font-size: 18px;
+	font-size: 20px;
 }
 
 figcaption {
@@ -27,7 +27,7 @@ figcaption {
 
 p.byline {
 	text-align: center;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 36px;
 	margin-top: -24px;
 	margin-bottom: 48px;
@@ -44,7 +44,8 @@ firstp {
 .container-fluid {
   margin-right: auto;
   margin-left: auto;
-  max-width: 1000px; /* or 950px */
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 /* Home, News */

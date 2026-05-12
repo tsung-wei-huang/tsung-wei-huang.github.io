@@ -267,36 +267,37 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
 </p>
 
 <div class="row align-items-center">
-  <div class="col-md-4 col-sm-4">
+  <div class="col-md-3 col-sm-3">
   <a href="https://www.nvidia.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/nvidia-logo.png" style="width: 100%;"></a>
   </div>
-  
-  <div class="col-md-4 col-sm-4">
+
+  <div class="col-md-3 col-sm-3">
   <a href="https://www.intel.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/intel-logo.png" style="width: 100%;"></a>
   </div>
-  
-  <div class="col-md-4 col-sm-4">
+
+  <div class="col-md-3 col-sm-3">
   <a href="https://www.cadence.com"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/cadence-logo.jpeg" style="width: 100%;"></a>
   </div>
-</div>
 
-<div class="row align-items-center">
-  <div class="col-md-4 col-sm-4">
+  <div class="col-md-3 col-sm-3">
   <a href="https://www.drivevariant.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/variant-logo.jpeg" style="width: 100%;"></a>
   </div>
-  <div class="col-md-4 col-sm-4">
-  <a href="https://www.ibm.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm-logo.png" style="width: 100%;"></a>
-  </div>
-  <div class="col-md-4 col-sm-4">
-  <a href="https://www.synopsys.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/synopsys-logo.jpeg" style="width: 100%;"></a>
-  </div>
 </div>
 
 <div class="row align-items-center">
-  <div class="col-md-4 col-sm-4">
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.ibm.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ibm-logo.png" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.synopsys.com/en-us/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/synopsys-logo.jpeg" style="width: 100%;"></a>
+  </div>
+
+  <div class="col-md-3 col-sm-3">
   <a href="https://www.google.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/google-logo.png" style="width: 100%;"></a>
   </div>
-  <div class="col-md-4 col-sm-4">
+
+  <div class="col-md-3 col-sm-3">
   <a href="https://www.huawei.com/en/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/huawei-logo.jpg" style="width: 100%;"></a>
   </div>
 </div>
