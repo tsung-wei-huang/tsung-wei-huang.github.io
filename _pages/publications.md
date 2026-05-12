@@ -717,7 +717,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 
 <ol>
   <li><b>[TCAD'26]</b> Shui Jiang, Wen Cheng, Yi-Hua Chung, Tsung-Yi Ho, and Tsung-Wei Huang,
-  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-TCAD-QDP">QDP: Worst-case Fidelity-aware Qubit Mapping and Routing
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-TCAD-QDP.pdf">QDP: Worst-case Fidelity-aware Qubit Mapping and Routing
 using Dynamic Programming</a>,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
