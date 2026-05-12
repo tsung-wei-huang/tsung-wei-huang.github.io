@@ -5,27 +5,28 @@
   info: Spring 2022--present
   email: che.chang@utah.edu
   research: Static timing analysis, GPU acceleration
-  experience: Intel (summer'22), Google (summer'24)
+  experience: Intel (summer'22), Google (summer'24), Cadence (summer'26)
 
 - name: Jiang Shui
   photo: jiang_shui.jpeg
   info: Spring 2022--present (co-supervised with Prof Tsung-Yi Ho at CUHK)
   email: 
-  research: DNN compression and quantum computing
+  research: DNN compression and quantum computing 
+  experience: Tencent (spring'26)
 
 - name: <a href="https://chih-chun-chang.github.io/">Chih-Chun Chang</a>
   photo: chih_chun_chang.jpeg
   info: Spring 2023--present
   email: chih-chun.chang@utah.edu
   research: Statistical static timing analysis, GPU acceleration
-  experience: Cadence (summer'24, summer'25)
+  experience: Cadence (summer'24, summer'25, summer'26)
 
 - name: <a href="https://foolock.github.io/">Boyang Zhang</a>
   photo: boyang_zhang.jpeg
   info: Spring 2023--present
   email: boyang.zhang@utah.edu
   research: Parallel and heterogeneous computing algorithms for EDA
-  experience: Cadence (summer'24)
+  experience: Cadence (summer'24), KLA (summer'26)
 
 - name: <a href="https://yi-huaaa.github.io/about/">Yi-Hua Chung</a>
   photo: yi-hua-chung.jpeg
@@ -41,7 +42,7 @@
   info: Fall 2024--present
   email: adassarma@cs.wisc.edu
   research: Differential optimization
-  experience: Synopsys (summer'25)
+  experience: Synopsys (summer'25), Tenstorrent (fall'26)
 
 - name: "This could be you !"
   photo: rock.jpg

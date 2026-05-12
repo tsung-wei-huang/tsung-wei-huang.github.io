@@ -1,10 +1,18 @@
+- name: Aswin Kumar
+  photo: aswinkumar.jpeg
+  info: <b>UW-Madison ECE Master 2026</b>
+  email: 
+  number_educ: 1
+  research: LLM-assisted scheduling optimization
+  experience: First appointment&#58; Software Engineer (Serve Robotics)
+
 - name: Manu Maheshwari
   photo: manu_maheshwari.jpeg
   info: <b>UW-Madison ECE Master 2025</b>
   email: 
   number_educ: 1
   research: GPU task graph optimization
-  experience: First appointment&#58; Senior Deep Learning Performanc Architect at Nvidia (since 2025)
+  experience: First appointment&#58; Senior Deep Learning Performance Architect at NVIDIA (since 2025)
 
 - name: McKay Mower
   photo: mckay_mower.jpg
