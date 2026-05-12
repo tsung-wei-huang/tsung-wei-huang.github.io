@@ -17,20 +17,10 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest  # Still on latest, but manually installing Ruby
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Install dependencies
-        run: sudo apt update && sudo apt install -y git curl build-essential libssl-dev libreadline-dev zlib1g-dev
-
-      - name: Install Ruby manually using ruby-build
-        run: |
-          git clone https://github.com/rbenv/ruby-build.git
-          sudo ./ruby-build/install.sh
-          sudo ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
-          sudo touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
