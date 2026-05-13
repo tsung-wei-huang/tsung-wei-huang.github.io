@@ -9,22 +9,22 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-3">
-  <h4 class="badge badge-info">12/09/2025 Wan-Luan Lee's Defense</h4>
+  <h4 class="badge badge-info">12/09/2025 Dr. Lee</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-WL-Defense.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
-  <h4 class="badge badge-info">08/22/2025 Jie Tong's Defense</h4>
+  <h4 class="badge badge-info">08/22/2025 Dr. Tong</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-Jie-Defense.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
-  <h4 class="badge badge-info">08/21/2025 Cheng-Hsiang Chiu's Defense</h4>
+  <h4 class="badge badge-info">08/21/2025 Dr. Chiu</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-CH-Defense.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
-  <h4 class="badge badge-info">07/11/2024 Dian-Lun Lin's Defense</h4>
+  <h4 class="badge badge-info">07/11/2024 Dr. Lin</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-DL-Defense.png" style="width: 100%;">
 </div>
 </div>
@@ -38,12 +38,12 @@ permalink: /pictures/
 </div>
 
 <div class="col-sm-3">
-  <h4 class="badge badge-info">03/02/2025 2nd Place in PPoPP FCPC</h4>
+  <h4 class="badge badge-info">03/02/2025 PPoPP FCPC</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-PPoPP-FCPC-second-place.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
-  <h4 class="badge badge-info">10/31/2024 6th Place in ICCAD CAD Contest</h4>
+  <h4 class="badge badge-info">10/31/2024 ICCAD CAD Contest</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-ICCAD-CAD-Contest-Honorable.png" style="width: 100%;">
 </div>
 </div>
@@ -72,7 +72,7 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-3">
-  <h4 class="badge badge-info">05/21/22 Little Cottonwood BBQ</h4>
+  <h4 class="badge badge-info">05/21/22 BBQ</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/group_bbq_052122.png" style="width: 100%;">
 </div>
 <div class="col-sm-3">
@@ -89,7 +89,7 @@ permalink: /pictures/
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-Rivos-Visit.png" style="width: 100%;">
 </div>
 <div class="col-sm-3">
-  <h4 class="badge badge-info">12/01/24 Prof. Cunxi Yu's Visit</h4>
+  <h4 class="badge badge-info">12/01/24 Prof. Yu's Visit</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-Cunxi-Visit.jpeg" style="width: 100%;">
 </div>
 </div>
@@ -98,15 +98,15 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-3">
-  <h4 class="badge badge-primary">04/01/25 ASPLOS Conference</h4>
+  <h4 class="badge badge-primary">04/01/25 ASPLOS</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2025-ASPLOS.png" style="width: 100%;">
 </div>
 <div class="col-sm-3">
-  <h4 class="badge badge-primary">06/27/24 Design Automation Conference</h4>
+  <h4 class="badge badge-primary">06/27/24 DAC</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-DAC.jpg" style="width: 100%;">
 </div>
 <div class="col-sm-3">
-  <h4 class="badge badge-primary">07/12/23 Design Automation Conference</h4>
+  <h4 class="badge badge-primary">07/12/23 DAC</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/album/dac-2023.png" style="width: 100%;">
 </div>
 </div>
