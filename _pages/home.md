@@ -18,7 +18,7 @@ Our software
 (e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
 has been used by thousands of people in industry and academia.
 
-<center><div style="max-width: 700px">
+<center><div style="max-width: auto">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" class="theme-light-img" style="max-width: 100%">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app-dark.png" class="theme-dark-img" style="max-width: 100%">
 </div></center>
@@ -53,7 +53,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof. Huang</a> your resu
 
 
 
-<center><div style="max-width: 600px">
+<center><div style="max-width: auto">
 <p><img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-UW-Madison-ECE-Ranking.jpeg" style="max-width: 100%"></p>
 </div></center>
 
