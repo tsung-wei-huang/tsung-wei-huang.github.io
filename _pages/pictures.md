@@ -33,6 +33,13 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-3">
+  <h4 class="badge badge-info">05/11/2026 Vilas Award</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2026-Vilas-Award.jpg" style="width: 100%;">
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-3">
   <h4 class="badge badge-info">05/15/2026 ECE TA Award</h4>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2026-Yi-Hua-TA-Award.png" style="width: 100%;">
 </div>

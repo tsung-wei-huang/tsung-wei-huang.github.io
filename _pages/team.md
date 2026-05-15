@@ -19,7 +19,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 <div class="row align-items-center">
   <div class="col-md-2 col-sm-2 vertical-align">
   <div style="max-width: 200px; text-align: center;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/twhuang_uwm.jpg" class="img-responsive" style="width: 100%" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/twhuang_uwm.jpg" class="img-responsive team-photo" style="width: 100%" />
   </div>
   </div>
 
@@ -45,7 +45,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
   <div class="col-md-12 col-sm-12 vertical-align">
   <p><span class="badge badge-dark">Bio</span> Dr. Huang is an Associate Professor in ECE at the University of Wisconsin-Madison (UW-Madison), with an affiliate appointment in CS. Previously, he was an Assistant Professor at UW-Madison (2023--2025) and University of Utah (2019--2023). He earned his PhD in ECE from UIUC (2017) and BS/MS in CS from Taiwan's NCKU (2011). His research focuses on building software systems for performance-critical applications, including CAD, machine learning, and quantum computing. His tools, such as Taskflow and OpenTimer, are widely used in industry and academia.</p>
 
-  <p>Dr. Huang has received several awards, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship, ACM SIGDA Outstanding New Faculty Award, ICCAD 10-Year Most Influential Paper Award (OpenTimer), DAC Under-40 Innovator Award, and Vilas Early-career Investigator Award. Beyond research, he is passionate about software performance and has won top 3 in multiple programming contests, such as ACM SIGDA CADathlon, TAU Timing Contest, IEEE HPEC Graph Challenge, ICCAD CAD Contest, and ACM PPoPP FCPC. Dr. Huang has served on the TPC in DAC, ICCAD, MICRO, ASPLOS, HPCA, SC, IPDPS, etc.</p>
+  <p>Dr. Huang has received several awards, including ACM SIGDA Outstanding PhD Dissertation Award, NSF CAREER Award, Humboldt Research Fellowship, ACM SIGDA Outstanding New Faculty Award, ICCAD 10-Year Most Influential Paper Award (OpenTimer), DAC Under-40 Innovator Award, and Vilas Early-career Investigator Award. He also won top 3 in multiple international programming contests, such as ACM SIGDA CADathlon, TAU Timing Contest, IEEE HPEC Graph Challenge, ICCAD CAD Contest, and ACM PPoPP FCPC. Dr. Huang has served on the TPC in DAC, ICCAD, MICRO, ASPLOS, HPCA, SC, IPDPS, etc.</p>
   </div>
 </div>
 
@@ -65,7 +65,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   {% if member.research %}
@@ -104,7 +104,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} </i>
   {% if member.research %}
@@ -140,7 +140,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.research %}
@@ -175,7 +175,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.research %}
@@ -197,7 +197,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.research %}
@@ -219,7 +219,7 @@ Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof Huang</a> your resum
 
 <div class="row">
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive team-photo" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i>
   {% if member.research %}
