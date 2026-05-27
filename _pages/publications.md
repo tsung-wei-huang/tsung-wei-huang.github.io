@@ -719,7 +719,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <li><b>[TCAD'26]</b> Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Boyang Zhang, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/">SSTA-X: GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis</a>,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear, 2026<br>
-  <a href="TBD" class="badge badge-primary">10.1109/TCAD.2026.3696812</a>
+  <a href="https://ieeexplore.ieee.org/document/11534953" class="badge badge-primary">10.1109/TCAD.2026.3696812</a>
   </li>
 
   <li><b>[TCAD'26]</b> Shui Jiang, Wen Cheng, Yi-Hua Chung, Tsung-Yi Ho, and Tsung-Wei Huang,
