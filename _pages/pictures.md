@@ -9,23 +9,30 @@ permalink: /pictures/
 
 <div class="row">
 <div class="col-sm-3">
+  <h4 class="badge badge-info">05/29/2026 Dr. Jiang</h4>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2026-SJ-Defense.png" style="width: 100%;">
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-3">
   <h4 class="badge badge-info">12/09/2025 Dr. Lee</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-WL-Defense.png" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2025-WL-Defense.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
   <h4 class="badge badge-info">08/22/2025 Dr. Tong</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-Jie-Defense.png" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2025-Jie-Defense.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
   <h4 class="badge badge-info">08/21/2025 Dr. Chiu</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2025-CH-Defense.png" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2025-CH-Defense.png" style="width: 100%;">
 </div>
 
 <div class="col-sm-3">
   <h4 class="badge badge-info">07/11/2024 Dr. Lin</h4>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/2024-DL-Defense.png" style="width: 100%;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/album/2024-DL-Defense.png" style="width: 100%;">
 </div>
 </div>
 

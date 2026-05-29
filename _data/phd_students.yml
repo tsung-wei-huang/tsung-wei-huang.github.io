@@ -1,18 +1,10 @@
 
-
 - name: <a href="https://randy1005.github.io/">Che Chang (Randy)</a>
   photo: randy_chang.jpg
   info: Spring 2022--present
   email: che.chang@utah.edu
   research: Static timing analysis, GPU acceleration
   experience: Intel (summer'22), Google (summer'24), Cadence (summer'26)
-
-- name: Jiang Shui
-  photo: jiang_shui.jpeg
-  info: Spring 2022--present (co-supervised with Prof Tsung-Yi Ho at CUHK)
-  email: 
-  research: DNN compression and quantum computing 
-  experience: Tencent (spring'26)
 
 - name: <a href="https://chih-chun-chang.github.io/">Chih-Chun Chang</a>
   photo: chih_chun_chang.jpeg
@@ -32,9 +24,8 @@
   photo: yi-hua-chung.jpeg
   info: Fall 2023--present
   email: 
-  research: GPU-acceleration for testing and verification algorithms
+  research: GPU-accelerated graph algorithms and compiler optimization
   experience: Synopsys (summer'24)
-
 
 
 - name: <a href="https://adassarma.github.io/">Aditya Das Sarma</a>
