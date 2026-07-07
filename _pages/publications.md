@@ -40,7 +40,7 @@ permalink: /publications/
   <li><b>[ICS'26]</b> Che Chang, Yi-Hua Chung, Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Ulf Schlichtmann, Ing-Chao Lin, Xiangyao Yu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-ICS-G-PathGen.pdf">G-PathGen: An Efficient GPU-Parallel k-Critical Path Generation Algorithm</a>",
   <i>ACM International Conference on Supercomputing (ICS)</i>, Belfast, Northern Ireland, UK, 2026<br>
   <a href="https://doi.org/10.1145/3797905.3800511" class="badge badge-primary">10.1145/3797905.3800511</a>
-  <span class="badge badge-secondary">TBD</span>
+  <span class="badge badge-secondary">21.4%</span>
   </li>
 
   <li><b>[DAC'26]</b> Aditya Das Sarma, Wan-Luan Lee, Shui Jiang, Boyang Zhang, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-DAC-DiffPart.pdf">A Differentiable Approach to Task Graph Partitioning: A Case Study in RTL Simulation</a>",
