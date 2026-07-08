@@ -25,6 +25,12 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li><b>[MICRO'26]</b> Xiangyu Ren, Yuexun Huang, Zhaohui Yang, Yuchen Zhu, Tsung-Wei Huang, Tsung-Yi Ho, Zhiding Liang, and Antonio Barbalace"<a href="{{ site.url }}{{ site.baseurl }}/papers/"></a>,"
+  <i>IEEE/ACM International Symposium on Microarchitecture (MICRO)</i>, Athens, Greece, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  <span class="badge badge-secondary">25%</span>
+  </li>
+
   <li><b>[Euro-Par'26]</b> Boyang Zhang, Chih-Chun Chang, Yi-Hua Chung, Che Chang, Cheng-Hsiang Chiu, Aditya Das Sarma, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">G-STAR: GPU-Accelerated Statistical Static Timing Analysis using Level-by-level Replication</a>,"
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
@@ -716,6 +722,12 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 ### Journal Papers
 
 <ol>
+  <li><b>[TQC'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/">FlatDD: Parallel Quantum Circuit Simulation using Decision Diagram and Flat Array</a>,"
+  <i>ACM Transactions on Quantum Computing (TQC)</i>, to appear, 2026<br>
+  <a href="" class="badge badge-primary"></a>
+  </li>
+
   <li><b>[TCAD'26]</b> Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Boyang Zhang, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/">SSTA-X: GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis</a>,"
   <i>IEEE Transactions on Computer-aided Design of Integrated Circuits and Systems (TCAD)</i>, to appear, 2026<br>
