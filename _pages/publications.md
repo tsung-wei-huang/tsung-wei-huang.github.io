@@ -25,7 +25,7 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li><b>[MICRO'26]</b> Xiangyu Ren, Yuexun Huang, Zhaohui Yang, Yuchen Zhu, Tsung-Wei Huang, Tsung-Yi Ho, Zhiding Liang, and Antonio Barbalace"<a href="{{ site.url }}{{ site.baseurl }}/papers/"></a>,"
+  <li><b>[MICRO'26]</b> Xiangyu Ren, Yuexun Huang, Zhaohui Yang, Yuchen Zhu, Tsung-Wei Huang, Tsung-Yi Ho, Zhiding Liang, and Antonio Barbalace"<a href="{{ site.url }}{{ site.baseurl }}/papers/">A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation</a>,"
   <i>IEEE/ACM International Symposium on Microarchitecture (MICRO)</i>, Athens, Greece, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">25%</span>
