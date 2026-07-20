@@ -744,6 +744,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-FGCS.pdf">A portable framework with generalized runtime features for task graph execution and concurrent multi-application deployment on heterogeneous systems</a>,"
   <i>Future Generation Computer Systems (FGCS)</i>, 2025<br>
   <a href="https://doi.org/10.1016/j.future.2025.108184" class="badge badge-primary">10.1016/j.future.2025.108184</a>
+  <a href="https://github.com/UA-RCL/CEDR_applications/tree/taskflow" class="badge badge-success">GitHub</a>
   </li>
 
   <li><b>[TODAES'25]</b> Wan-Luan Lee, Dian-Lun Lin, Shui Jiang, Cheng-Hsiang Chiu, Yibo Lin, Bei Yu, Tsung-Yi Ho, and Tsung-Wei Huang,
