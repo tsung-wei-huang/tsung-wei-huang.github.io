@@ -27,13 +27,19 @@
   research: GPU-accelerated graph algorithms and compiler optimization
   experience: Synopsys (summer'24)
 
-
 - name: <a href="https://adassarma.github.io/">Aditya Das Sarma</a>
   photo: aditya.jpeg
   info: Fall 2024--present
   email: adassarma@cs.wisc.edu
   research: Differentiable optimization
   experience: Synopsys (summer'25), Tenstorrent (fall'26)
+
+- name: <a href="https://zhengxiongli08.github.io/">Zhengxiong Li</a>
+  photo: zhengxiong_li.png
+  info: Fall 2025--present (co-supervised with Prof. Ogras)
+  email: zhengxiong.li@wisc.edu
+  research: GPU scheduling optimization
+  experience: 
 
 - name: "This could be you !"
   photo: rock.png
