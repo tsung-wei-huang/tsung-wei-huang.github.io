@@ -117,7 +117,7 @@ permalink: /publications/
   
   <li><b>[DAC'25]</b> Chih-Chun Chang and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-DAC-SSTA.pdf">Statistical Timing Graph Scheduling Algorithm for GPU Computation</a>," <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2025<br>
   <a href="https://ieeexplore.ieee.org/document/11133291" class="badge badge-primary">10.1109/DAC63849.2025.11133291</a>
-  <span class="badge badge-secondary">LBR: 22.6%</span>
+  <span class="badge badge-secondary">23%</span>
   </li>
   
   <li><b>[ASPLOS'25]</b> Shui Jiang, Yi-Hua Chung, Chih-Chun Chang, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-asplos.pdf">BQSim: GPU-accelerated Batch Quantum Circuit Simulation using Decision Diagram</a>," <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Rotterdam, Netherlands, 2025<br>
@@ -366,7 +366,7 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   <li><b>[DAC'21]</b> Cheng-Hsiang Chiu and Tsung-Wei Huang, 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac2022.pdf">Efficient Timing Propagation with Simultaneous Structural and Pipeline Parallelisms,</a>" <i>ACM/IEEE Design Automation Conference (DAC)</i>, San Francisco, CA, 2022 <br>
   <a href="https://doi.org/10.1145/3489517.3530616" class="badge badge-primary">10.1145/3489517.3530616</a>
-  <span class="badge badge-secondary">LBR: 20%</span>
+  <span class="badge badge-secondary">20%</span>
   </li>
 
   <li><b>[HIPS'22]</b> Tsung-Wei Huang and Yibo Lin, "<a href="{{ site.url }}{{ site.baseurl }}/papers/HIPS22.pdf">Concurrent CPU-GPU Task Programming using Modern C++</a>," <i>IEEE IPDPS Workshop on High-level Parallel Programming Models and Supportive Environments (HIPS)</i>, France, 2022 <br>
@@ -523,14 +523,14 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac19-invited.pdf">Essential Building Blocks for Creating an Open-source EDA Project</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 78:1-78:4, Las Vegas, NV, 2019 <br>
   <a href="https://dl.acm.org/doi/10.1145/3316781.3323477" class="badge badge-primary">10.1145/3316781.3323477</a>
-  <span class="badge badge-secondary">18.9%</span>
+  <span class="badge badge-secondary">19%</span>
   </li>
   
   <li><b>[DAC'19]</b> Tsung-Wei Huang, Chun-Xun Lin, and Martin Wong,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/dac19-lbr.pdf">Distributed Timing Analysis at Scale</a>," 
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, pp. 1-2, Las Vegas, NV, 2019 <br>
   <a href="https://dl.acm.org/doi/10.1145/3316781.3322470" class="badge badge-primary">10.1145/3316781.3322470</a>
-  <span class="badge badge-secondary">LBR: 19.0%</span>
+  <span class="badge badge-secondary">19%</span>
   </li>
   
   <li><b>[MM'18]</b> Tsung-Wei Huang, Chun-Xun Lin, Guannan Guo, and Martin Wong,
