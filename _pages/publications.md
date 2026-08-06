@@ -25,13 +25,13 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
-  <li><b>[PACT'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang"<a href="{{ site.url }}{{ site.baseurl }}/papers/">Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</a>,"
+  <li><b>[PACT'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</a>,"
   <i>ACM International Conference on Parallel Architectures and Compilation Techniques (PACT)</i>, Chicago, Illinois, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">29.3%</span>
   </li>
 
-  <li><b>[MICRO'26]</b> Xiangyu Ren, Yuexun Huang, Zhaohui Yang, Yuchen Zhu, Tsung-Wei Huang, Tsung-Yi Ho, Zhiding Liang, and Antonio Barbalace"<a href="{{ site.url }}{{ site.baseurl }}/papers/">A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation</a>,"
+  <li><b>[MICRO'26]</b> Xiangyu Ren, Yuexun Huang, Zhaohui Yang, Yuchen Zhu, Tsung-Wei Huang, Tsung-Yi Ho, Zhiding Liang, and Antonio Barbalace, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation</a>,"
   <i>IEEE/ACM International Symposium on Microarchitecture (MICRO)</i>, Athens, Greece, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
   <span class="badge badge-secondary">25%</span>
