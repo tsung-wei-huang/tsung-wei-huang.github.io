@@ -25,6 +25,11 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li><b>[CGO'27]</b> Chih-Chun Chang, Aditya Das Sarma, Cheng-Hsiang Chiu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Can ML Frameworks Go Beyond ML? A Case Study in GPU-accelerated VLSI Timing Analysis</a>,"
+  <i></i>, IEEE/ACM International Symposium on Code Generation and Optimization (CGO), Salt Lake City, UT, 2027<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+
   <li><b>[PACT'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</a>,"
   <i>ACM International Conference on Parallel Architectures and Compilation Techniques (PACT)</i>, Chicago, Illinois, 2026<br>
   <a href="" class="badge badge-primary">TBD</a>
