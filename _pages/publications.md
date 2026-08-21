@@ -733,10 +733,16 @@ Dependency</a>," <i>Workshop on Asynchronous Many-Task Systems and Applications 
 ### Journal Papers
 
 <ol>
+  <li><b>[TODAES'26]</b> Che Chang, Boyang Zhang, Cheng-Hsiang Chiu, Dian-Lun Lin, Yi-Hua Chung, Wan-Luan Lee, Zizheng Guo, Yibo Lin, and Tsung-Wei Huang,
+  "<a href="{{ site.url }}{{ site.baseurl }}/papers/">C-PathGen: An Efficient CPU-Parallel Critical Path Generation Algorithm</a>,"
+  <i>ACM Transactions on Design Automation of Electronic Systems (TODAES)</i>, to appear, 2026<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+
   <li><b>[TQC'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang,
   "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-TQC-FlatDD.pdf">FlatDD: Parallel Quantum Circuit Simulation using Decision Diagram and Flat Array</a>,"
   <i>ACM Transactions on Quantum Computing (TQC)</i>, to appear, 2026<br>
-  <a href="" class="badge badge-primary"></a>
+  <a href="" class="badge badge-primary">TBD</a>
   </li>
 
   <li><b>[TCAD'26]</b> Chih-Chun Chang, Yi-Hua Chung, Wan-Luan Lee, Boyang Zhang, and Tsung-Wei Huang,
