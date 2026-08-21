@@ -26,7 +26,7 @@ permalink: /publications/
 
 <ol>
   <li><b>[CGO'27]</b> Chih-Chun Chang, Aditya Das Sarma, Cheng-Hsiang Chiu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Can ML Frameworks Go Beyond ML? A Case Study in GPU-accelerated VLSI Timing Analysis</a>,"
-  <i></i>, IEEE/ACM International Symposium on Code Generation and Optimization (CGO), Salt Lake City, UT, 2027<br>
+  <i>IEEE/ACM International Symposium on Code Generation and Optimization (CGO)</i>, Salt Lake City, UT, 2027<br>
   <a href="" class="badge badge-primary">TBD</a>
   </li>
 
