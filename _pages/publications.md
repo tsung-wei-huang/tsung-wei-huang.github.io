@@ -42,15 +42,15 @@ permalink: /publications/
   <span class="badge badge-secondary">25%</span>
   </li>
 
-  <li><b>[Euro-Par'26]</b> Boyang Zhang, Chih-Chun Chang, Yi-Hua Chung, Che Chang, Cheng-Hsiang Chiu, Aditya Das Sarma, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">G-STAR: GPU-Accelerated Statistical Static Timing Analysis using Level-by-level Replication</a>,"
+  <li><b>[Euro-Par'26]</b> Boyang Zhang, Chih-Chun Chang, Yi-Hua Chung, Che Chang, Cheng-Hsiang Chiu, Aditya Das Sarma, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/G-STAR.pdf">G-STAR: GPU-Accelerated Statistical Static Timing Analysis using Level-by-level Replication</a>,"
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
   <a href="https://doi.org/10.1007/978-3-032-35248-4_38" class="badge badge-primary">10.1007/978-3-032-35248-4_38</a>
   <span class="badge badge-secondary">26.2%</span>
   </li>
 
-  <li><b>[Euro-Par'26]</b> Zhengxiong Li, Tsung-Wei Huang, and Umit Ogras, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines</a>,"
+  <li><b>[Euro-Par'26]</b> Zhengxiong Li, Tsung-Wei Huang, and Umit Ogras, "<a href="{{ site.url }}{{ site.baseurl }}/papers/SET.pdf">SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines</a>,"
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://doi.org/10.1007/978-3-032-35251-4_17" class="badge badge-primary">10.1007/978-3-032-35251-4_17</a>
   <span class="badge badge-secondary">26.2%</span>
   </li>
 
