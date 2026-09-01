@@ -41,6 +41,20 @@
   research: GPU scheduling optimization
   experience: 
 
+- name: Zixuan Zhou
+  photo: zixuan_zhou.jpg
+  info: Fall 2026--present 
+  email: zzhou753@wisc.edu
+  research: High-performance Computing
+  experience: 
+
+- name: <a href="https://hengrui-chen.com/">Hengrui Chen</a>
+  photo: hengrui_chen.jpg
+  info: Fall 2026--present (co-supervised with Prof. Tsung-Yi Ho at CUHK)
+  email: hrchen26@cse.cuhk.edu.hk
+  research: High-performance Computing
+  experience: 
+
 - name: "This could be you !"
   photo: rock.png
   info: Please <a href="mailto:tsung-wei.huang@utah.edu">email Prof Huang</a> your resume and research interest.
