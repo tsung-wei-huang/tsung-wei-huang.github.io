@@ -30,9 +30,9 @@ permalink: /publications/
   <a href="" class="badge badge-primary">TBD</a>
   </li>
 
-  <li><b>[PACT'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</a>,"
+  <li><b>[PACT'26]</b> Shui Jiang, Hengrui Chen, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-PACT-Q-TranSim.pdf">Q-TranSim: Batch Quantum Circuit Simulation using Tensor Transpilation</a>,"
   <i>ACM International Conference on Parallel Architectures and Compilation Techniques (PACT)</i>, Chicago, Illinois, 2026<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://doi.org/10.1145/3838684.3846839" class="badge badge-primary">10.1145/3838684.3846839</a>
   <span class="badge badge-secondary">29.3%</span>
   </li>
 
