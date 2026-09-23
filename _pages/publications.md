@@ -25,6 +25,11 @@ permalink: /publications/
 ### Conference Papers
 
 <ol>
+  <li><b>[ASPLOS'27]</b> Yi-Hua Chung, Hao-Hsiang Hsiao, Cheng-Hsiang Chiu, Boyang Zhang, Che Chang, Joshua San Miguel, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">XEG: A GPU-Parallel Algorithm for Efficient and Effective E-Graph Extraction</a>,"
+  <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Heraklion, Crete, Greece, 2027<br>
+  <a href="" class="badge badge-primary">TBD</a>
+  </li>
+
   <li><b>[CGO'27]</b> Chih-Chun Chang, Aditya Das Sarma, Cheng-Hsiang Chiu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Can ML Frameworks Go Beyond ML? A Case Study in GPU-accelerated VLSI Timing Analysis</a>,"
   <i>IEEE/ACM International Symposium on Code Generation and Optimization (CGO)</i>, Salt Lake City, UT, 2027<br>
   <a href="" class="badge badge-primary">TBD</a>

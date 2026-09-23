@@ -1,3 +1,6 @@
+- date: 23. Sep 2026
+  headline: Yi-Hua's paper, <q>XEG&#58; A GPU-Parallel Algorithm for Efficient and Effective E-Graph Extraction,</q> is accepted by the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)! 
+
 - date: 1. Sep 2026
   headline: Congratulations for students who will take fall internship positions at leading tech companies (Aditya at Tenstorrent and Yi-Hua at Ricursive Intelligence)!
   image: "images/newspic/internship.jpeg"
@@ -12,20 +15,20 @@
   headline: Che (Randy) Chang's paper is accepted by ACM Transactions on Design Automation of Electronic Systems (TODAES)!
 
 - date: 5 Aug 2026
-  headline: Shui Jiang's paper, <q>Batch Quantum Circuit Simulation using Tensor Transpilation</q>, accepted by 2026 ACM Parallel Architectures and Compilation Techniques (PACT)!
+  headline: Shui Jiang's paper, <q>Batch Quantum Circuit Simulation using Tensor Transpilation,</q> accepted by 2026 ACM Parallel Architectures and Compilation Techniques (PACT)!
 
 - date: 8 July 2026
-  headline: Shui Jiang's paper, <q>Parallel Quantum Circuit Simulation using Decision Diagram and Flat Array</q>, accepted by ACM Transactions on Quantum Computing (TQC)!
+  headline: Shui Jiang's paper, <q>Parallel Quantum Circuit Simulation using Decision Diagram and Flat Array,</q> accepted by ACM Transactions on Quantum Computing (TQC)!
 
 - date: 8 July 2026
-  headline: One paper, <q>A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation</q>, accepted by 2026 IEEE MICRO!
+  headline: One paper, <q>A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation,</q> accepted by 2026 IEEE MICRO!
 
 - date: 28 May 2026
   headline: Shui Jiang passed his PhD thesis defense, <q>A System Stack for High-Performance Quantum Circuit Simulation</q> and will join Tencent after graduation. Congratulations, Dr. Jiang!
   image: "images/album/2026-SJ-Defense.png"
 
 - date: 17. May 2026
-  headline: Chih-Chun's paper, <q>GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis</q>, accepted by TCAD. Congratulations!
+  headline: Chih-Chun's paper, <q>GPU-Accelerated First-Order Block-Based Statistical Static Timing Analysis,</q> accepted by TCAD. Congratulations!
 
 - date: 15. May 2026
   headline: Congratulations to Yi-Hua on receiving the Gerald Holdridge Teaching Excellence Award, which recognizes her outstanding performance and contributions to the department's teaching mission!
@@ -36,7 +39,7 @@
   image: "images/newspic/internship.jpeg"
 
 - date: 11. May 2026
-  headline: Shui Jiang's paper, <q>Worst-case Fidelity-aware Qubit Mapping and Routing using Dynamic Programming</q>, accepted by TCAD. Congratulations!
+  headline: Shui Jiang's paper, <q>Worst-case Fidelity-aware Qubit Mapping and Routing using Dynamic Programming,</q> accepted by TCAD. Congratulations!
 
 - date: 4. May 2026
   headline: Prof. Huang received <a href="https://news.wisc.edu/48-faculty-honored-with-vilas-professorships-and-awards/">Vilas Early-career Investigator Award</a>, supported by the estate of professor, U.S. Senator and UW Regent William F. Vilas!
@@ -59,7 +62,7 @@
   image: "images/album/2025-WL-Defense.png"
 
 - date: 23 Sep 2025
-  headline: Aditya's paper, <q>A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops</q>, is accepted by 2026 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)! 
+  headline: Aditya's paper, <q>A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops,</q> is accepted by 2026 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)! 
   image: "images/logopic/aspdac-logo.png"
 
 - date: 19 Sep 2025
@@ -103,15 +106,15 @@
   image: "images/newspic/2024-UW-Madison-ECE-Ranking.jpeg"
 
 - date: 2 March 2025
-  headline: Our team, <q>TD-Badger</q>, won the Second Place (out of 46 registered teams) in 2025 PPoPP Fast Code Programming Challenge (FCPC)! 
+  headline: Our team, <q>TD-Badger,</q> won the Second Place (out of 46 registered teams) in 2025 PPoPP Fast Code Programming Challenge (FCPC)! 
   image: "images/newspic/2025-PPoPP-FCPC-second-place.png"
 
 - date: 14 Feb 2025
-  headline: Wan-Luan's paper, <q>iG-kway</q>, is accepted by the ACM/IEEE Design Automation Conference (DAC)! 
+  headline: Wan-Luan's paper, <q>iG-kway,</q> is accepted by the ACM/IEEE Design Automation Conference (DAC)! 
   image: "images/logopic/2025-DAC.png"
 
 - date: 4 Feb 2025
-  headline: Shui Jiang's paper, <q>BQSim</q>, is accepted by the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)! 
+  headline: Shui Jiang's paper, <q>BQSim,</q> is accepted by the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)! 
   image: "images/logopic/ASPLOS-Logo.png"
 
 - date: 30 Jan 2025
@@ -119,7 +122,7 @@
   image: "images/logopic/ExHET-25-logo.png"
 
 - date: 21. Jan 2025
-  headline: Che (Randy) Chang's paper, <q>PathGen</q>, is nominated for the Best Paper Candidate in 2025 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)! 
+  headline: Che (Randy) Chang's paper, <q>PathGen,</q> is nominated for the Best Paper Candidate in 2025 IEEE/ACM Asia and South Pacific Design Automation Conference (ASP-DAC)! 
   image: "images/newspic/2025-ASPDAC-BPC.png"
 
 - date: 31. Oct 2024
@@ -207,19 +210,19 @@
   image: "images/logopic/cuhk-logo.png"
 
 - date: 29. Dec
-  headline: Prof. Huang is giving an invited talk, <q>Parallel and Heterogeneous Timing Analysis&#58; Partition, Algorithm, and System</q>, to 2024 International Symposium on Physical Design (ISPD)!
+  headline: Prof. Huang is giving an invited talk, <q>Parallel and Heterogeneous Timing Analysis&#58; Partition, Algorithm, and System,</q> to 2024 International Symposium on Physical Design (ISPD)!
   image: "images/logopic/ispd-logo.png"
 
 - date: 20. Nov 2023
-  headline: Cheng-Hsian's paper, <q>An Efficient Task-parallel Pipeline Programming Framework</q>, is accepted by HPC-Asia!
+  headline: Cheng-Hsian's paper, <q>An Efficient Task-parallel Pipeline Programming Framework,</q> is accepted by HPC-Asia!
   image: "images/logopic/hpc-asia-23-logo.png"
 
 - date: 12. Oct 2023
-  headline: Prof. Huang gave a talk, <q>A General-purpose Task-parallel Programming System</q>, in the China University of Petroleum!
+  headline: Prof. Huang gave a talk, <q>A General-purpose Task-parallel Programming System,</q> in the China University of Petroleum!
   image: "images/newspic/upetroleum-23.png"
 
 - date: 12. Oct 2023
-  headline: Dian-Lun Lin gave a talk, <q>A Task Graph-based Programming System for CPU-GPU Heterogeneous Computing</q>, in Berkeley Lab (<a href="https://www.nersc.gov/users/training/events/2023/gpus-for-science-day-2023/">GPUs for Science Day</a>)!
+  headline: Dian-Lun Lin gave a talk, <q>A Task Graph-based Programming System for CPU-GPU Heterogeneous Computing,</q> in Berkeley Lab (<a href="https://www.nersc.gov/users/training/events/2023/gpus-for-science-day-2023/">GPUs for Science Day</a>)!
   image: "images/newspic/gpus-science-23.png"
 
 - date: 30. Aug 2023
@@ -235,7 +238,7 @@
   image: "images/logopic/uw-madison-ece-logo.png"
 
 - date: 27 July 2023
-  headline: Our special session proposal, <q>Accelerating EDA Algorithms with Heterogeneous Parallelism</q>, is accepted by the 2023 ACM/IEEE International Conference on Computer-aided Design (ICCAD)!
+  headline: Our special session proposal, <q>Accelerating EDA Algorithms with Heterogeneous Parallelism,</q> is accepted by the 2023 ACM/IEEE International Conference on Computer-aided Design (ICCAD)!
   image: "images/logopic/iccad23-logo.jpeg"
 
 - date: 18. June 2023
@@ -243,15 +246,15 @@
   image: "images/newspic/sigda-onfa-23.png"
 
 - date: 18. June 2023
-  headline: Prof. Huang gave a talk, <q>Quantum Circuit Simulation with Incrementality</q>, in 2023 NSF FuSe Workshop at the University at Buffalo
+  headline: Prof. Huang gave a talk, <q>Quantum Circuit Simulation with Incrementality,</q> in 2023 NSF FuSe Workshop at the University at Buffalo
   image: "images/newspic/2023-fuse-ub.jpg"
 
 - date: 14. June 2023
-  headline: Prof. Huang gave a talk, <q>Intelligent High-performance Computing</q>, to TUM (Technical University of Munich)
+  headline: Prof. Huang gave a talk, <q>Intelligent High-performance Computing,</q> to TUM (Technical University of Munich)
   image: "images/newspic/tum-2023.png"
 
 - date: 10. April 2023
-  headline: Prof. Huang gave a talk, <q>A General-purpose Task-parallel Programming System</q>, to Cruise.
+  headline: Prof. Huang gave a talk, <q>A General-purpose Task-parallel Programming System,</q> to Cruise.
   image: "images/newspic/Cruise-logo.jpg"
 
 - date: 13. Feb 2023
@@ -267,7 +270,7 @@
   image: "images/newspic/date-23.png"
 
 - date: 2. Nov 2022
-  headline: Prof. Huang gave a talk, <q>Performance Portability and Optimization using Machine Learning</q>, to Utah-PNNL joint seminar.
+  headline: Prof. Huang gave a talk, <q>Performance Portability and Optimization using Machine Learning,</q> to Utah-PNNL joint seminar.
   image: "images/newspic/pnnl-utah-22-seminar.png"
 
 - date: 22. Oct 2022
@@ -327,11 +330,11 @@
   image: "images/logopic/avh-logo.png"
 
 - date: 16. Feb 2022
-  headline: Prof. Huang gave a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Distinguished Lecture at the Stevens Institute of Technology.
+  headline: Prof. Huang gave a talk, <q>Intelligent Heterogeneous Computing,</q> in the ECE Distinguished Lecture at the Stevens Institute of Technology.
   image: "images/logopic/sit-logo.png"
 
 - date: 8. Feb 2022
-  headline: Prof. Huang gave a talk, <q>Intelligent Heterogeneous Computing</q>, in the ECE Department at the University of Minnesota.
+  headline: Prof. Huang gave a talk, <q>Intelligent Heterogeneous Computing,</q> in the ECE Department at the University of Minnesota.
   image: "images/logopic/umn-logo.png"
 
 - date: 11. Jan 2022
@@ -339,7 +342,7 @@
   image: "images/logopic/nsf-career-logo.jpeg"
 
 - date: 24. Dec 2021
-  headline: Dian-Lun's paper, <q>Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism</q>, is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS)!
+  headline: Dian-Lun's paper, <q>Accelerating Large Sparse Neural Network Inference using GPU Task Graph Parallelism,</q> is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS)!
   image: "images/logopic/tpds-logo.png"
 
 - date: 17. Nov 2021
@@ -347,26 +350,26 @@
   image: "images/logopic/nvidia-logo.png"
 
 - date: 13. Oct 2021
-  headline: Prof. Huang's paper, <q>A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs</q>, is accepted by IEEE TCAD!
+  headline: Prof. Huang's paper, <q>A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs,</q> is accepted by IEEE TCAD!
 
 - date: 6. Oct 2021 
-  headline: Prof. Huang will give a talk, <q>A General-purpose Parallel and Heterogeneous Task Graph Programming System</q>, at the 2021 Intel eXtreme Performance User Group (IXPUG) Conference.
+  headline: Prof. Huang will give a talk, <q>A General-purpose Parallel and Heterogeneous Task Graph Programming System,</q> at the 2021 Intel eXtreme Performance User Group (IXPUG) Conference.
   image: "images/logopic/ixpug-logo.jpeg"
 
 - date: 6. Oct 2021
-  headline: McKay and Luke's paper, <q>Taskflow-San&#58; Sanitizing Erroneous Control Flow in Taskflow Programs</q>, is accepted by 2021 IEEE ESPM2!
+  headline: McKay and Luke's paper, <q>Taskflow-San&#58; Sanitizing Erroneous Control Flow in Taskflow Programs,</q> is accepted by 2021 IEEE ESPM2!
   image: "images/logopic/sc21-logo.png"
 
 - date: 4. Oct 2021
-  headline: Prof. Huang's paper, <q>Energy Efficiency of Inference Algorithms for Medical Datasets&#58; A Green AI study</q>, is accepted by Journal of Medical Internet Research (JMIR)!
+  headline: Prof. Huang's paper, <q>Energy Efficiency of Inference Algorithms for Medical Datasets&#58; A Green AI study,</q> is accepted by Journal of Medical Internet Research (JMIR)!
   image: "images/logopic/jmir-logo.png"
 
 - date: 2. Oct 2021
-  headline: Prof. Huang's paper, <q>TFProf.&#58; Prof.iling Large Taskflow Programs with Modern D3 and C++</q>, is accepted by 2021 IEEE ProTools!
+  headline: Prof. Huang's paper, <q>TFProf.&#58; Prof.iling Large Taskflow Programs with Modern D3 and C++,</q> is accepted by 2021 IEEE ProTools!
   image: "images/logopic/sc21-logo.png"
 
 - date: 24. Sep 2021
-  headline: Prof. Huang and Dian-Lun's talk, <q>cudaFlow&#58; A Modern C++ Programming Model for GPU Task Graph Parallelism</q>, is accepted by 2021 C++ Conference.
+  headline: Prof. Huang and Dian-Lun's talk, <q>cudaFlow&#58; A Modern C++ Programming Model for GPU Task Graph Parallelism,</q> is accepted by 2021 C++ Conference.
   image: "images/logopic/cppcon-logo.png"
 
 - date: 14. Sep 2021
@@ -380,10 +383,10 @@
   image: "images/logopic/cuhk-logo.png"
 
 - date: 9. Aug 2021
-  headline: Our paper, <q>A High-Performance Heterogeneous Critical Path Analysis Framework</q>, is accepted by <a href="http://www.ieee-hpec.org/">2021 IEEE HPEC</a>!
+  headline: Our paper, <q>A High-Performance Heterogeneous Critical Path Analysis Framework,</q> is accepted by <a href="http://www.ieee-hpec.org/">2021 IEEE HPEC</a>!
 
 - date: 6. Aug 2021
-  headline: Our paper, <q>Taskflow&#58; A Lightweight Parallel and Heterogeneous Task Graph Computing System</q>, is accepted by 2021 IEEE TPDS!
+  headline: Our paper, <q>Taskflow&#58; A Lightweight Parallel and Heterogeneous Task Graph Computing System,</q> is accepted by 2021 IEEE TPDS!
   image: "images/logopic/tpds-logo.png"
 
 - date: 16. July 2021
@@ -399,7 +402,7 @@
   image: "images/logopic/nsf.png"
 
 - date: 24. June 2021
-  headline: Our paper, <q>An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads</q>, is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
+  headline: Our paper, <q>An Experimental Study of SYCL Task Graph Parallelism for Large-Scale Machine Learning Workloads,</q> is accepted by <a href="https://amte2021.stellar-group.org/">2021 AMTE at Euro-Par</a>.
 
 - date: 11. June 2021
   headline: Prof. Huang gave a talk, <q><a href="talks/HeteroTime-Nvidia-21.pdf">GPU-accelerated Static Timing Analysis</a></q> to Nvidia Research.
@@ -422,24 +425,24 @@
   image: "images/logopic/NumFocus.png"
 
 - date: 10. May 2021
-  headline: Prof. Huang gave a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a></q>, to CPPNow.
+  headline: Prof. Huang gave a talk, <q><a href="talks/cppnow-21.pdf">A Lightweight Heterogeneous Task Programming System with Control Flow</a>,</q> to CPPNow.
   image: "images/logopic/cppnow-logo.png"
 
 - date: 25. April 2021
-  headline: Our paper, <q>Efficient GPU Computation using Task Graph Parallelism</q>, is accepted by <a href="https://2021.euro-par.org/">2021 Euro-Par</a>.
+  headline: Our paper, <q>Efficient GPU Computation using Task Graph Parallelism,</q> is accepted by <a href="https://2021.euro-par.org/">2021 Euro-Par</a>.
 
 - date: 20. April 2021
   headline: Prof. Huang servces on the track chair of <a href="https://iccad.com/index.php">2021 IEEE/ACM ICCAD</a>.
 
 - date: 18. April 2021
-  headline: Prof. Huang gave a talk, <q><a href="talks/vlsi-dat-21.pdf">Machine Learning System-enabled GPU Acceleration for EDA</a></q>, to 2021 VLSI-DAT.
+  headline: Prof. Huang gave a talk, <q><a href="talks/vlsi-dat-21.pdf">Machine Learning System-enabled GPU Acceleration for EDA</a>,</q> to 2021 VLSI-DAT.
 
 - date: 10. April 2021
-  headline: Prof. Huang gave a talk, <q><a href="talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a></q>, 2021 GTC.
+  headline: Prof. Huang gave a talk, <q><a href="talks/gtc-21.pdf">GPU-accelerated Static Timing Analysis and Beyond</a>,</q> 2021 GTC.
   image: "images/logopic/gtc-logo.png"
 
 - date: 21. March 2021
-  headline: Prof. Huang gave a talk, <q><a href="talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a></q>, to UCSC EDA Seminar.
+  headline: Prof. Huang gave a talk, <q><a href="talks/ucsc-eda-seminar-21.pdf">GPU-Accelerated Static Timing Analysis</a>,</q> to UCSC EDA Seminar.
   image: "images/logopic/ucsc-logo.png"
 
 - date: 20. March 2021
@@ -449,30 +452,30 @@
   headline: Guannan and Prof. Huang receive the Best Paper Award in <a href="https://www.tauworkshop.com/2021/default.shtml">2021 TAU Workshop</a>.
 
 - date: 30. Oct 2020
-  headline: Prof. Huang gave a talk, <q><a href="talks/cie-gnyc-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a></q>, to CIE/USA-GNYC
+  headline: Prof. Huang gave a talk, <q><a href="talks/cie-gnyc-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System</a>,</q> to CIE/USA-GNYC
 
 - date: 25. Oct 2020
-  headline: Prof. Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to C++ Programmer Meetup
+  headline: Prof. Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a>,</q> to C++ Programmer Meetup
 
 - date: 24. Oct 2020
-  headline: Prof. Huang gave a talk, <q><a href="talks/muc++-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 MUC++ Meetup
+  headline: Prof. Huang gave a talk, <q><a href="talks/muc++-20.pdf">Parallel and Heterogeneous Task Programming in C++</a>,</q> to 2020 MUC++ Meetup
 
 
 - date: 20. Oct 2020
-  headline: Prof. Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to 2020 CppCon
+  headline: Prof. Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a>,</q> to 2020 CppCon
   image: "images/logopic/cppcon-logo.png"
 
 - date: 20. Oct 2020
-  headline: Prof. Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a></q>, to CppIndia
+  headline: Prof. Huang gave a talk, <q><a href="talks/cppcon-20.pdf">Parallel and Heterogeneous Task Programming in C++</a>,</q> to CppIndia
 
 - date: 24. Sep 2020
-  headline: Our paper, <q>An Efficient Work-Stealing Scheduler for Task Dependency Graph</q>, is accepted by <a href="https://icpads2020.comp.polyu.edu.hk/">2020 IEEE ICPADS</a>.
+  headline: Our paper, <q>An Efficient Work-Stealing Scheduler for Task Dependency Graph,</q> is accepted by <a href="https://icpads2020.comp.polyu.edu.hk/">2020 IEEE ICPADS</a>.
 
 - date: 6. Sep 2020
   headline: One paper is accepted by 2020 IEEE/ACM ASP-DAC.
 
 - date: 5. Sep 2020
-  headline: Our paper, <q>OpenTimer v2&#58; A New Parallel Incremental Timing Analysis Engine</q>, is accepted by 2021 IEEE TCAD.
+  headline: Our paper, <q>OpenTimer v2&#58; A New Parallel Incremental Timing Analysis Engine,</q> is accepted by 2021 IEEE TCAD.
 
 - date: 31. Aug 2020
   headline: Dian-Lun Lin's machine learning paper won the <a href="http://graphchallenge.mit.edu/champions">Champion Award of 2020 HPEC Graph Challenge</a>.
@@ -481,7 +484,7 @@
   headline: Three papers are accepted by 2020 IEEE/ACM ICCAD.
 
 - date: 20. June 2020
-  headline: Our paper, <q>Cpp-Taskflow&#58; A General-purpose Parallel Task Programming System at Scale</q>, is accepted by 2021 IEEE TCAD.
+  headline: Our paper, <q>Cpp-Taskflow&#58; A General-purpose Parallel Task Programming System at Scale,</q> is accepted by 2021 IEEE TCAD.
 
 - date: 17. April 2020
   headline: Prof. Huang serves on the program committee of 2020 IEEE/ACM ICCAD.
@@ -493,7 +496,7 @@
   headline: Prof. Huang serves on the program committee of 2020 IEEE/ACM ASP-DAC.
 
 - date: 30. March 2020
-  headline: Prof. Huang gave a talk, <q><a href="talks/ornl-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System at Scale</a></q>, to the Future Technology Group at Oak Ridge National Laboratory.
+  headline: Prof. Huang gave a talk, <q><a href="talks/ornl-20.pdf">A General-purpose Parallel and Heterogeneous Task Programming System at Scale</a>,</q> to the Future Technology Group at Oak Ridge National Laboratory.
 
 - date: 10. Feb 2020
   headline: One paper is accepted by <a href="https://www.dac.com/">2020 IEEE/ACM DAC</a>.
@@ -502,7 +505,7 @@
   headline: Prof. Huang serves on the co-chair of <a href="http://iccad-contest.org/2020/">2020 ICCAD CAD Contest</a>.
 
 - date: 7. Nov 2019
-  headline: Prof. Huang gave a talk, <q><a href="talks/woset19.pdf">Growing Your Open-Source Projects</a></q>, at <a href="https://woset-workshop.github.io/WOSET2019.html">2019 WOSET</a>.
+  headline: Prof. Huang gave a talk, <q><a href="talks/woset19.pdf">Growing Your Open-Source Projects</a>,</q> at <a href="https://woset-workshop.github.io/WOSET2019.html">2019 WOSET</a>.
 
 - date: 24. Oct 2019
   headline: Taskflow received the 2nd Place in 2019 ACM Multimedia Conference Open-Source Software Competition.

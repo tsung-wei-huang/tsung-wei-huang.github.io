@@ -307,6 +307,14 @@ For instance, my students have been working in Nvidia, Intel, Cadence, Synopsys,
   <div class="col-md-3 col-sm-3">
   <a href="https://www.kla.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/kla-logo.png" style="width: 100%;"></a>
   </div>
+  
+  <div class="col-md-3 col-sm-3">
+  <a href="https://tenstorrent.com/en"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/tt_logo.png" style="width: 100%;"></a>
+  </div>
+  
+  <div class="col-md-3 col-sm-3">
+  <a href="https://www.ricursive.com/"><img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ricursive-intelligence-logo.png" style="width: 100%;"></a>
+  </div>
 </div>
 
 <p>
