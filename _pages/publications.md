@@ -79,7 +79,7 @@ permalink: /publications/
   
   <li><b>[DAC'26]</b> Pingchuan Ma, Ziang Yin, Qi Jing, Zhengqi Gao, Nicholas Gangi, Boyang Zhang, Tsung-Wei Huang, Rena Huang, Duane Boning, Yu Yao, and Jiaqi Gu, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-DAC-SP2RINT.pdf">SP2RINT: Spatially-Decoupled Physics-Constrained Progressive Inverse Optimization for Diffractive Optical Neural Network Training</a>",
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
-  <a href="" class="badge badge-primary">TBD</a>
+  <a href="https://doi.org/10.1145/3770743.3804033" class="badge badge-primary">10.1145/3770743.3804033</a>
   <span class="badge badge-secondary">22.3%</span>
   </li>
 
