@@ -48,17 +48,6 @@ permalink: /publications/
   <span class="badge badge-secondary">25%</span>
   </li>
 
-  <li><b>[Euro-Par'26]</b> Boyang Zhang, Chih-Chun Chang, Yi-Hua Chung, Che Chang, Cheng-Hsiang Chiu, Aditya Das Sarma, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/G-STAR.pdf">G-STAR: GPU-Accelerated Statistical Static Timing Analysis using Level-by-level Replication</a>,"
-  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
-  <a href="https://doi.org/10.1007/978-3-032-35248-4_38" class="badge badge-primary">10.1007/978-3-032-35248-4_38</a>
-  <span class="badge badge-secondary">26.2%</span>
-  </li>
-
-  <li><b>[Euro-Par'26]</b> Zhengxiong Li, Tsung-Wei Huang, and Umit Ogras, "<a href="{{ site.url }}{{ site.baseurl }}/papers/SET.pdf">SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines</a>,"
-  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
-  <a href="https://doi.org/10.1007/978-3-032-35251-4_17" class="badge badge-primary">10.1007/978-3-032-35251-4_17</a>
-  <span class="badge badge-secondary">26.2%</span>
-  </li>
 
   <li><b>[ICS'26]</b> Che Chang, Yi-Hua Chung, Cheng-Hsiang Chiu, Wan-Luan Lee, Boyang Zhang, Ulf Schlichtmann, Ing-Chao Lin, Xiangyao Yu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2026-ICS-G-PathGen.pdf">G-PathGen: An Efficient GPU-Parallel k-Critical Path Generation Algorithm</a>",
   <i>ACM International Conference on Supercomputing (ICS)</i>, Belfast, Northern Ireland, UK, 2026<br>
@@ -82,6 +71,18 @@ permalink: /publications/
   <i>ACM/IEEE Design Automation Conference (DAC)</i>, Long Beach, CA, 2026<br>
   <a href="https://doi.org/10.1145/3770743.3804033" class="badge badge-primary">10.1145/3770743.3804033</a>
   <span class="badge badge-secondary">22.3%</span>
+  </li>
+
+  <li><b>[Euro-Par'26]</b> Boyang Zhang, Chih-Chun Chang, Yi-Hua Chung, Che Chang, Cheng-Hsiang Chiu, Aditya Das Sarma, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/G-STAR.pdf">G-STAR: GPU-Accelerated Statistical Static Timing Analysis using Level-by-level Replication</a>,"
+  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
+  <a href="https://doi.org/10.1007/978-3-032-35248-4_38" class="badge badge-primary">10.1007/978-3-032-35248-4_38</a>
+  <span class="badge badge-secondary">26.2%</span>
+  </li>
+
+  <li><b>[Euro-Par'26]</b> Zhengxiong Li, Tsung-Wei Huang, and Umit Ogras, "<a href="{{ site.url }}{{ site.baseurl }}/papers/SET.pdf">SET: Stream-Event-Triggered Scheduling for Efficient CUDA Graph Pipelines</a>,"
+  <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Pisa, Italy, 2026<br>
+  <a href="https://doi.org/10.1007/978-3-032-35251-4_17" class="badge badge-primary">10.1007/978-3-032-35251-4_17</a>
+  <span class="badge badge-secondary">26.2%</span>
   </li>
 
   <li><b>[ASP-DAC'26]</b> Aditya Das Sarma, Shui Jiang, Wan Luan Lee, Tsung-Yi Ho, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-ASPDAC-TIMBER.pdf">TIMBER: A Fast Algorithm for Timing and Power Optimization using Multi-bit Flip-flops</a>",
