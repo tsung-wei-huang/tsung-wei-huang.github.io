@@ -28,6 +28,7 @@ permalink: /publications/
   <li><b>[ASPLOS'27]</b> Yi-Hua Chung, Hao-Hsiang Hsiao, Cheng-Hsiang Chiu, Boyang Zhang, Che Chang, Joshua San Miguel, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2027-ASPLOS-XEG.pdf">XEG: A GPU-Parallel Algorithm for Efficient and Effective E-Graph Extraction</a>,"
   <i>ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)</i>, Heraklion, Crete, Greece, 2027<br>
   <a href="https://doi.org/10.1145/3845814.3850040" class="badge badge-primary">10.1145/3845814.3850040</a>
+  <a href="https://github.com/Yi-Huaaa/XEG" class="badge badge-success">GitHub</a>
   </li>
 
   <li><b>[CGO'27]</b> Chih-Chun Chang, Aditya Das Sarma, Cheng-Hsiang Chiu, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/">Can ML Frameworks Go Beyond ML? A Case Study in GPU-accelerated VLSI Timing Analysis</a>,"
@@ -113,6 +114,7 @@ permalink: /publications/
   <i>International European Conference on Parallel and Distributed Computing (Euro-Par)</i>, Dresden, Germany, 2025<br>
   <a href="https://doi.org/10.1007/978-3-031-99872-0_14" class="badge badge-primary">10.1007/978-3-031-99872-0_14</a>
   <span class="badge badge-secondary">28%</span>
+  <a href="https://github.com/Yi-Huaaa/SimPart" class="badge badge-success">GitHub</a>
   </li>
   
   <li><b>[Euro-Par'25]</b> Yi-Hua Chung, Nahmsuk Oh, Malleswara Gupta Balabhadra Naga Venkata, Aditya Shiledar, Sudipto Kundu, Vishal Khandelwal, and Tsung-Wei Huang, "<a href="{{ site.url }}{{ site.baseurl }}/papers/2025-EuroPar-GateSizing.pdf">Accelerating Gate Sizing using GPU</a>," 
