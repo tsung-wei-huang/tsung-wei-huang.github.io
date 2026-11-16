@@ -8,7 +8,13 @@ permalink: /research/
 
 ## Research
 
-Our overarching goal is to create novel software systems to simplify the programming complexity
+Our overarching goal is creating novel programming systems to simplify the building of performance-critical applications,
+including electronic design automation, machine learning, and quantum computing.
+
+<center><div style="max-width: 800px">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/research-overview.png" style="max-width: 100%">
+</div></center>
+
 of heterogeneous computing resources. 
 Our systems target performance-critical applications, 
 such as computer-aided design, machine learning, and quantum computing.
@@ -28,7 +34,7 @@ Our research is framed by the following themes:
 
 **Research Question**: *How can we make it easier for researchers and developers to write parallel and heterogeneous programs with high performance and simultaneous high productivity?*
 
-<center><div style="max-width: 500px">
+<center><div style="max-width: 400px">
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p.png"  class="rounded" style="max-width: 100%">
 </div></center>
 

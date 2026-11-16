@@ -11,17 +11,18 @@ permalink: /
 We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/">Department of Electrical and Computer Engineering (ECE)</a> 
 in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
-Our group creates novel software systems
+We focus on creating novel programming systems
 to simplify the building of performance-critical applications,
 such as electronic design automation, quantum computing, and machine learning.
+
+
+<center><div style="max-width: auto">
+<img src="{{ site.url }}{{ site.baseurl }}/images/respic/research-overview.png" style="max-width: 100%">
+</div></center>
+
 Our software 
 (e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
 has been used by thousands of people in industry and academia.
-
-<center><div style="max-width: auto">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app.png" class="theme-light-img" style="max-width: 100%">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/theme_parallelism_3p_app-dark.png" class="theme-dark-img" style="max-width: 100%">
-</div></center>
 
 ## Where Are We?
 
