@@ -15,9 +15,6 @@ including electronic design automation, machine learning, and quantum computing.
 <img src="{{ site.url }}{{ site.baseurl }}/images/respic/research-overview.png" style="max-width: 100%">
 </div></center>
 
-of heterogeneous computing resources. 
-Our systems target performance-critical applications, 
-such as computer-aided design, machine learning, and quantum computing.
 We have released several open-source software projects 
 (e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
 that are being used by many industrial and academic projects.
