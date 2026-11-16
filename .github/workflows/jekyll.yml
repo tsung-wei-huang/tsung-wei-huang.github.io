@@ -25,7 +25,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1.4'  # Match Ruby version
+          ruby-version: '.ruby-version'  # Match Ruby version
+          bundler: 'default'
           bundler-cache: true
     
       - name: Setup Pages
