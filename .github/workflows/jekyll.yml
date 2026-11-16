@@ -17,31 +17,31 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Ensure compatibility with 22.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
+    
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1.4'
+          ruby-version: '3.1.4'  # Match Ruby version
           bundler-cache: true
-
+    
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-
+    
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-
+    
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04  # Ensure compatibility
     needs: build
     environment:
       name: github-pages
@@ -50,4 +50,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
