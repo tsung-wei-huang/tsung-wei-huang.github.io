@@ -11,22 +11,7 @@ permalink: /
 We are a research group supervised by [Prof. Tsung-Wei (TW) Huang]({{ site.url }}{{site.baseurl }}/team#faculty) at the
 <a href="https://engineering.wisc.edu/departments/electrical-computer-engineering/">Department of Electrical and Computer Engineering (ECE)</a> 
 in the <a href="https://www.wisc.edu/">University of Wisconsin at Madison</a>.
-We focus on creating novel programming systems
-to simplify the building of performance-critical applications,
-such as electronic design automation, quantum computing, and machine learning.
-
-
-<center><div style="max-width: auto">
-<img src="{{ site.url }}{{ site.baseurl }}/images/respic/research-overview.png" style="max-width: 100%">
-</div></center>
-
-Our software 
-(e.g., <a href="https://github.com/taskflow/taskflow">Taskflow</a>, <a hreff="https://github.com/opentimer/opentimer/">OpenTimer</a>)
-has been used by thousands of people in industry and academia.
-
-## Where Are We?
-
-Our research group is situated at the beautiful [Madison City](https://www.cityofmadison.com/) - an Isthmus between Lake Mendota and Lake Monona.
+Our group is situated at the beautiful [Madison City](https://www.cityofmadison.com/), an Isthmus between Lake Mendota and Lake Monona.
 Madison has been consistently placed top in the list of [Best Places to Live in the US](https://realestate.usnews.com/places/rankings/best-places-to-live-for-quality-of-life) and [Top College Towns in the US](https://www.usnews.com/education/slideshows/10-great-college-towns).
 
 <center><div style="max-width: auto">
@@ -53,7 +38,7 @@ situated at the foot of the <a href="https://en.wikipedia.org/wiki/Wasatch_Range
 <h2>Join us!</h2>
 
 According to <a href="https://premium.usnews.com/best-graduate-schools/top-engineering-schools/computer-engineering-rankings">2025 US News</a>, the ECE Department of UW-Madison is ranked #9 among public universities and #15 among all universities.
-We are looking for  *highly self-motivated* PhD, MS, and undergraduate students to join us, doing research on **heterogeneous computing**, **computer-aided design**, **quantum computing**, and **machine learning systems**.
+We are looking for  *highly self-motivated* PhD students to join us to create **novel programming systems** for accelerating performance-critical applications, such as **computer-aided design**, **quantum computing**, and **machine learning algorithms**.
 Please <a href="mailto:tsung-wei.huang@wisc.edu">email Prof. Huang</a> your resume and research interest (see our [Research](/research) and [Why Join Our Team?](/team#why-join-our-team)).
 
 
